@@ -1,5 +1,8 @@
 var loc = [0,0];
 var selectedTitle = "";
+// for range slider
+var min = 0;
+var max = 0;
 
 /* onload */
 window.onload = function() {
@@ -15,12 +18,12 @@ window.onload = function() {
 
 	document.onmousemove = getCursorXY;
 
-	drawSVG();
+	drawSVG(true);
 	document.getElementById("xAxisSelect").onchange = function(){
-		drawSVG();
+		drawSVG(true);
 	}
 	document.getElementById("yAxisSelect").onchange = function(){
-		drawSVG();
+		drawSVG(true);
 	}
 }
 
@@ -31,10 +34,15 @@ function search(){
 
 }
 
-function drawSVG(){
+function drawSVG(first){
+	/* default of first is false */
+	if (typeof(first)==='undefined') first = false;
+
 	d3.select("body").select("svg").remove();
 	var xAxisSelect = document.getElementById("xAxisSelect").value;
 	var yAxisSelect = document.getElementById("yAxisSelect").value;
+
+	
 
 	var margin = {top: 75, right: 200, bottom: 20, left: 20},
     width = window.innerWidth - margin.left - margin.right - 30,
@@ -89,6 +97,21 @@ function drawSVG(){
 		data[j][12] = parseDate(data[j][12]);
 	}
 
+	var originalRange = d3.extent(data, function(d) { return d[xindex];});
+
+	/* Filter Data here */
+	if (!first)
+	{
+		data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
+	}
+	else
+	{
+		//set min, max
+		var range = d3.extent(data, function(d) { return d[xindex];});
+		min = range[0];
+		max = range[1];
+	}
+
 	if (xAxisSelect != "date")
 	{
 			data = data.sort(function(a,b) {return a[xindex]-b[xindex]});
@@ -116,6 +139,18 @@ function drawSVG(){
 			.domain([0, d3.extent(data, function(d) { return d[yindex];})[1]])
 			.range([height, 0]);
 	}
+
+	/*Begin Range Slider */
+	$(function() {	
+		$( "#slider" ).slider({
+			range: true,
+			min: originalRange[0],
+			max: originalRange[1],
+			values: [min,max],
+			slide: function(event, ui) {slide(event, ui)}
+		});
+    });
+	/*End Range Slider */
 		
 	var line = d3.svg.line()
 		.x(function(d,i) { return x(d[xindex])})
@@ -192,4 +227,11 @@ function drawSVG(){
 function getCursorXY(e) {
 	loc[0] = (window.Event) ? e.pageX : event.clientX + (document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);
 	loc[1] = (window.Event) ? e.pageY : event.clientY + (document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);
+}
+
+function slide(event, ui){
+	//update min, max
+	min = ui.values[0];
+	max = ui.values[1];
+	drawSVG();
 }
