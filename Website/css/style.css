@@ -1,0 +1,141 @@
+body {
+		background-color: #FBFBFB;
+		font-family:arial;
+}
+
+/*
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+*/
+
+#description {
+	position: absolute;
+	left: 40px;
+}
+
+#csv {
+  visibility: hidden;
+	height: 5px;
+	width:5px;
+}
+
+#Title {
+	position:relative;
+	left:40px;
+	font-size:40px;
+	font-weight:bold;
+}
+
+#names{
+	position:relative;
+	left:40px;
+}
+
+#vidlink {
+	position: absolute;
+	top:30px;
+}
+
+path {
+  stroke: steelblue;
+  stroke-width: 1;
+  fill: none;
+}
+
+#xselect {
+	position: absolute;
+	left: 40px;
+}
+
+#yselect {
+	position: absolute;
+}
+
+#xAxisSelect{
+	width: 120px;
+}
+
+#yAxisSelect{
+	width: 120px;
+}
+
+.point {
+  stroke: #315B7E;
+  fill: #315B7E;
+}
+
+.highlighted_point{
+  stroke: #E65C00;
+  fill: #E65C00;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.x.axis line {
+  stroke: lightgrey;
+}
+
+.x.axis .minor {
+  stroke-opacity: .5;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.y.axis line, .y.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+#tooltip{
+  visibility: hidden;
+  width: 150px;
+  height: 50px;
+}
+
+.rounded-box {
+    position:relative;
+    width: 14em;
+    background-color: #C3D7E6;
+    margin: 3px;
+}
+
+/*
+lifted from http://www.fireandknowledge.org/archives/2004/05/22/rounded-corners-without-images-part-1/
+*/
+.top-left-corner, .bottom-left-corner, .top-right-corner, .bottom-right-corner
+{position:absolute; width:20px; height:20px; background-color:#FFF; overflow:hidden;}
+
+.top-left-inside, .bottom-left-inside, .top-right-inside, .bottom-right-inside 
+{position:relative; font-size:150px; font-family:arial; color:#C3D7E6; line-height: 40px;}
+
+.top-left-corner { top:0px; left:0px; }
+.bottom-left-corner {bottom:0px; left:0px;}
+.top-right-corner {top:0px; right:0px;}
+.bottom-right-corner {bottom: 0px; right:0px;}
+
+.top-left-inside {left:-8px;}
+.bottom-left-inside {left:-8px; top:-17px;}
+.top-right-inside {left:-25px;}
+.bottom-right-inside {left:-25px; top:-17px;}
+
+.box-contents {
+  position: relative; padding: 8px; color:#000;
+}
