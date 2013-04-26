@@ -223,10 +223,10 @@ def entrytest(data,text,dom2):
 	dfunv = dfun(data)
 	if dfunv == "":
 		return
-	wfunv = wfun(dat)
+	wfunv = wfun(data)
 	if wfunv == "":
 		return
-	afunv = afun(dat)
+	afunv = afun(data)
 	if afunv == "":
 		return
 	msfunv = msfun(data)
@@ -257,6 +257,7 @@ def entrytest(data,text,dom2):
 				 wfun(data), afun(data), msfun(data), rtfun(data),
 				 rtnmfun(data), bfun(text), bousfun(text), 
 				 bowfun(text), mpaafun(data), dfun(dom2)])
+	return
 
 	
 #this handles tags
