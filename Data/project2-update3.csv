@@ -1,0 +1,929 @@
+Movie_Title,Time,Genre,Directors,Writers,Actors,Metascore,User_Rating,Number_of_Ratings,Budget,Box_Office_US,MPAA,Date
+Gladiator,155,Action; Adventure; Drama,Ridley Scott,David Franzoni; David Franzoni,Russell Crowe; Joaquin Phoenix; Connie Nielsen,64,8.5,531099,103000000,188000000,R,5/5/2000
+American Psycho,102,Crime; Drama,Christopher Nolan,Bret Easton Ellis; Mary Harron,Christian Bale; Justin Theroux; Josh Lucas,64,7.6,207835,7000000,15100000,R,4/14/2000
+Memento,113,Mystery; Thriller,Guy Ritchie,Christopher Nolan; Jonathan Nolan,Guy Pearce; Carrie-Anne Moss; Joe Pantoliano,80,8.6,497702,9000000,25500000,R,10/11/2000
+X-Men,104,Action; Adventure; Sci-Fi,Darren Aronofsky,Tom DeSanto; Bryan Singer,Patrick Stewart; Hugh Jackman; Ian McKellen,64,7.4,241406,75000000,157000000,PG-13,7/14/2000
+Remember the Titans,113,Biography; Drama; Sport,Mary Harron,Gregory Allen Howard,Denzel Washington; Will Patton; Wood Harris,48,7.6,101212,30000000,116000000,PG,9/29/2000
+Requiem for a Dream,102,Drama,Bryan Singer,Hubert Selby Jr.; Hubert Selby Jr.,Ellen Burstyn; Jared Leto; Jennifer Connelly,68,8.4,338557,4500000,3609278,R,10/27/2000
+Almost Famous,122,Drama; Music,Boaz Yakin,Cameron Crowe,Billy Crudup; Frances McDormand; Kate Hudson,90,7.9,143125,60000000,32500000,R,9/13/2000
+Cast Away,143,Adventure; Drama,Joel Coen,William Broyles Jr.,Tom Hanks; Helen Hunt; Paul Sanchez,73,7.6,226274,90000000,234000000,PG-13,12/22/2000
+Gone in Sixty Seconds,118,Action; Crime; Thriller,Keenen Ivory Wayans,H.B. Halicki; Scott Rosenberg,Nicolas Cage; Angelina Jolie; Giovanni Ribisi,35,6.3,144280,90000000,102000000,PG-13,6/9/2000
+Pitch Black,109,Action; Sci-Fi; Thriller,Robert Zemeckis,Jim Wheat; Ken Wheat,Radha Mitchell; Cole Hauser; Vin Diesel,49,7.1,120332,23000000,39200000,R,2/18/2000
+Scary Movie,88,Comedy,Dominic Sena,Shawn Wayans; Marlon Wayans,Anna Faris; Jon Abrahams; Marlon Wayans,48,6.1,123657,19000000,157000000,R,7/7/2000
+The Replacements,118,Comedy; Sport,Roland Emmerich,Vince McKewin,Keanu Reeves; Gene Hackman; Brooke Langton,30,6.3,33528,50000000,44700000,PG-13,8/11/2000
+Unbreakable,106,Drama; Mystery; Sci-Fi,Giuseppe Tornatore,M. Night Shyamalan,Bruce Willis; Samuel L. Jackson; Robin Wright,62,7.2,165393,75000000,95000000,PG-13,11/22/2000
+"O Brother, Where Art Thou?",106,Comedy; Adventure; Crime,Peyton Reed,Homer; Ethan Coen,George Clooney; John Turturro; Tim Blake Nelson,69,7.8,148702,26000000,45500000,PG-13,12/22/2000
+Miss Congeniality,109,Action; Comedy; Crime,David Twohy,Marc Lawrence; Katie Ford,Sandra Bullock; Michael Caine; Benjamin Bratt,43,6,81232,45000000,107000000,PG-13,12/22/2000
+The Patriot,165,Action; Drama; War,Danny Boyle,Robert Rodat,Mel Gibson; Heath Ledger; Joely Richardson,63,7,136792,110000000,113000000,R,6/28/2000
+Coyote Ugly,100,Comedy; Drama; Romance,M. Night Shyamalan,Gina Wendkos,Piper Perabo; Adam Garcia; John Goodman,27,5.4,61615,45000000,60800000,PG-13,8/4/2000
+The Beach,119,Adventure; Drama; Romance,Ron Howard,John Hodge; Alex Garland,Leonardo DiCaprio; Daniel York; Patcharawan Patarakijjanon,43,6.4,105255,50000000,39800000,R,2/11/2000
+Road Trip,93,Adventure; Comedy,Steven Soderbergh,Todd Phillips; Scot Armstrong,Breckin Meyer; Seann William Scott; Amy Smart,55,6.4,90065,15600000,68500000,R,5/19/2000
+Traffic,147,Crime; Drama; Thriller,John Woo,Simon Moore; Stephen Gaghan,Michael Douglas; Benicio Del Toro; Catherine Zeta-Jones,86,7.7,128857,48000000,124000000,R,1/5/2001
+The Perfect Storm,130,Action; Adventure; Drama,David McNally,Sebastian Junger; William D. Wittliff,George Clooney; Mark Wahlberg; Diane Lane,59,6.3,94510,140000000,183000000,PG-13,6/30/2000
+Bring It On,98,Comedy; Sport,Mark Dindal,Jessica Bendinger,Kirsten Dunst; Eliza Dushku; Jesse Bradford,52,5.8,48217,10000000,68400000,PG-13,8/25/2000
+Mission: Impossible II,123,Action; Adventure; Thriller,Kinji Fukasaku,Bruce Geller; Ronald D. Moore,Tom Cruise; Dougray Scott; Thandie Newton,60,5.9,149778,125000000,215000000,PG-13,5/24/2000
+Charlie's Angels,98,Action; Adventure; Comedy,Lasse Hallstrm,Ryan Rowe; Ed Solomon,Cameron Diaz; Drew Barrymore; Lucy Liu,52,5.5,102151,92000000,125000000,PG-13,11/3/2000
+The Emperor's New Groove,78,Animation; Adventure; Comedy,Jay Roach,Chris Williams; Mark Dindal,David Spade; John Goodman; Eartha Kitt,70,7.3,67469,100000000,89300000,G,12/15/2000
+Meet the Parents,108,Comedy; Romance,Ang Lee,Greg Glienna; Mary Ruth Clarke,Ben Stiller; Robert De Niro; Teri Polo,73,7,170861,55000000,166000000,PG-13,10/6/2000
+"Crouching Tiger, Hidden Dragon",120,Action; Adventure; Drama,McG,Du Lu Wang; Hui-Ling Wang,Yun-Fat Chow; Michelle Yeoh; Ziyi Zhang,93,7.9,163766,15000000,128000000,PG-13,12/22/2000
+Amores Perros,154,Drama; Thriller,James Wong,Guillermo Arriaga,Emilio Echevarra; Gael Garca Bernal; Goya Toledo,83,8.1,108812,2000000,5383834,R,6/16/2000
+How the Grinch Stole Christmas,104,Comedy; Family; Fantasy,Donald Petrie,Dr. Seuss; Jeffrey Price,Jim Carrey; Taylor Momsen; Jeffrey Tambor,46,5.8,82217,123000000,260000000,PG,11/17/2000
+Chocolat,121,Drama; Romance,Stephen Frears,Joanne Harris; Robert Nelson Jacobs,Juliette Binoche; Judi Dench; Alfred Molina,64,7.3,101457,25000000,71300000,PG-13,1/19/2001
+Final Destination,98,Horror,Bobby Farrelly,Glen Morgan; James Wong,Devon Sawa; Ali Larter; Kerr Smith,36,6.7,113700,23000000,53300000,R,3/17/2000
+Pay It Forward,123,Drama,Kar Wai Wong,Catherine Ryan Hyde; Leslie Dixon,Kevin Spacey; Haley Joel Osment; Helen Hunt,40,6.9,66027,40000000,33500000,PG-13,10/20/2000
+Men of Honor,129,Biography; Drama,Steven Soderbergh,Scott Marshall Smith,Cuba Gooding Jr.; Robert De Niro; Charlize Theron,56,6.9,59683,32000000,48800000,R,11/10/2000
+The Whole Nine Yards,98,Comedy; Crime,Nancy Meyers,Mitchell Kapner,Bruce Willis; Matthew Perry; Rosanna Arquette,47,6.7,66512,24000000,57300000,R,2/18/2000
+What Women Want,127,Comedy; Fantasy; Romance,Mimi Leder,Josh Goldsmith; Cathy Yuspa,Mel Gibson; Helen Hunt; Marisa Tomei,47,6.3,105526,70000000,183000000,PG-13,12/15/2000
+High Fidelity,113,Comedy; Drama; Music,Wolfgang Petersen,Nick Hornby; D.V. DeVincentis,John Cusack; Iben Hjejle; Todd Louiso,79,7.6,102589,20000000,27300000,R,3/31/2000
+Little Nicky,90,Comedy; Fantasy,George Tillman Jr.,Tim Herlihy; Adam Sandler,Adam Sandler; Patricia Arquette; Harvey Keitel,38,5.1,56380,80000000,39400000,PG-13,11/10/2000
+Hollow Man,112,Action; Sci-Fi; Thriller,Patrick Lussier,Gary Scott Thompson; Andrew W. Marlowe,Kevin Bacon; Elisabeth Shue; Josh Brolin,24,5.6,73999,95000000,73200000,R,8/4/2000
+"Me, Myself &amp; Irene",116,Comedy,Danny Leiner,Peter Farrelly; Mike Cerrone,Jim Carrey; Rene Zellweger; Anthony Anderson,49,6.4,123850,51000000,90600000,R,6/23/2000
+Erin Brockovich,131,Biography; Drama,Steven Brill,Susannah Grant,Julia Roberts; Albert Finney; David Brisbin,73,7.2,90726,52000000,126000000,R,3/17/2000
+The Little Vampire,95,Adventure; Comedy; Family,Peter Lord,Angela Sommer-Bodenburg; Karey Kirkpatrick,Jonathan Lipnicki; Rollo Weeks; Richard E. Grant,45,5.4,4322,22000000,13600000,PG,10/27/2000
+"Dude, Where's My Car?",83,Comedy; Mystery; Sci-Fi,Sam Raimi,Philip Stark,Ashton Kutcher; Seann William Scott; Jennifer Garner,30,5.3,81276,13000000,46700000,PG-13,12/15/2000
+Billy Elliot,110,Comedy; Drama; Music,Jonathan Mostow,Lee Hall,Jamie Bell; Julie Walters; Jean Heywood,74,7.6,67094,5000000,22000000,PG-13,9/29/2000
+What Lies Beneath,130,Drama; Horror; Mystery,Howard Deutch,Clark Gregg; Sarah Kernochan,Harrison Ford; Michelle Pfeiffer; Katharine Towne,51,6.5,71456,90000000,155000000,PG-13,7/21/2000
+Chicken Run,84,Animation; Family; Comedy,Harold Ramis,Peter Lord; Nick Park,Mel Gibson; Julia Sawalha; Phil Daniels,88,7.1,87623,42000000,107000000,G,6/21/2000
+Return to Me,115,Drama; Romance,Tarsem Singh,Bonnie Hunt; Don Lake,David Duchovny; Minnie Driver; Carroll O'Connor,54,6.6,12635,24000000,32700000,PG,4/7/2000
+Dinosaur,82,Animation; Adventure; Family,Eric Leighton,Thom Enriquez; John Harrison,D.B. Sweeney; Julianna Margulies; Samuel E. Wright,56,6.3,24136,128000000,138000000,PG,5/19/2000
+The 6th Day,123,Action; Sci-Fi; Thriller,Jonathan Lynn,Cormac Wibberley; Marianne Wibberley,Arnold Schwarzenegger; Michael Rapaport; Tony Goldwyn,49,5.8,69630,82000000,34500000,PG-13,11/17/2000
+The Cell,107,Sci-Fi; Thriller,Martin Campbell,Mark Protosevich,Jennifer Lopez; Vince Vaughn; Vincent D'Onofrio,40,6.2,58045,33000000,61300000,R,8/18/2000
+The Gift,111,Crime; Drama; Fantasy,Jonathan Glazer,Billy Bob Thornton; Tom Epperson,Cate Blanchett; Katie Holmes; Keanu Reeves,62,6.6,38212,10000000,12000000,R,1/19/2001
+U-571,116,Action; Drama; Thriller,Robert Zemeckis,Jonathan Mostow; Jonathan Mostow,Matthew McConaughey; Bill Paxton; Harvey Keitel,62,6.5,47883,62000000,77100000,PG-13,4/21/2000
+Bedazzled,93,Comedy; Fantasy,Christopher Guest,Peter Cook; Peter Cook,Brendan Fraser; Elizabeth Hurley; Frances O'Connor,49,5.8,56971,48000000,37900000,PG-13,10/20/2000
+Titan A.E.,94,Animation; Action; Adventure,Paul Verhoeven,Hans Bauer; Randall McCormick,Matt Damon; Drew Barrymore; Bill Pullman,48,6.5,38156,75000000,22800000,PG,6/16/2000
+Romeo Must Die,115,Action; Crime; Thriller,Don Bluth,Mitchell Kapner; Eric Bernt,Jet Li; Aaliyah; Isaiah Washington,52,5.9,41259,25000000,56000000,R,3/22/2000
+Best in Show,90,Comedy,Gregory Hoblit,Christopher Guest; Eugene Levy,Fred Willard; Eugene Levy; Catherine O'Hara,78,7.4,34744,6000000,18600000,PG-13,3/1/2001
+The Road to El Dorado,89,Animation; Adventure; Comedy,Robert Iscove,Terry Rossio; Ted Elliott,Kevin Kline; Kenneth Branagh; Rosie Perez,51,6.6,28126,95000000,50800000,PG,3/31/2000
+Vertical Limit,124,Action; Adventure; Thriller,Ben Younger,Robert King; Robert King,Scott Glenn; Chris O'Donnell; Bill Paxton,48,5.7,36450,75000000,68500000,PG-13,12/8/2000
+Boiler Room,120,Thriller; Drama; Crime,Bibo Bergeron,Ben Younger,Giovanni Ribisi; Vin Diesel; Nia Long,63,6.9,30264,8000000,16900000,R,2/18/2000
+Next Friday,98,Comedy,Bonnie Hunt,Ice Cube; DJ Pooh,Ice Cube; Mike Epps; Justin Pierce,41,5.6,16128,9500000,57200000,R,1/12/2000
+Frequency,118,Crime; Drama; Sci-Fi,Gus Van Sant,Toby Emmerich,Dennis Quaid; Jim Caviezel; Shawn Doyle,67,7.2,57622,22000000,45000000,PG-13,4/28/2000
+Space Cowboys,130,Action; Adventure; Thriller,Betty Thomas,Ken Kaufman; Howard Klausner,Clint Eastwood; Tommy Lee Jones; Donald Sutherland,73,6.3,42672,65000000,90500000,PG-13,8/4/2000
+Scream 3,116,Horror; Mystery,Tom Dey,Kevin Williamson; Ehren Kruger,David Arquette; Neve Campbell; Courteney Cox,56,5.4,66301,40000000,89100000,R,2/4/2000
+Dancer in the Dark,140,Crime; Drama; Musical,Lars von Trier,Lars von Trier,Bjrk; Catherine Deneuve; David Morse,61,7.8,54313,12800000,4184036,R,10/6/2000
+The Family Man,125,Comedy; Drama; Romance,John Singleton,David Diamond; David Weissman,Nicolas Cage; Ta Leoni; Don Cheadle,42,6.6,60985,60000000,75800000,PG-13,12/22/2000
+Shanghai Noon,110,Action; Adventure; Comedy,Gina Prince-Bythewood,Miles Millar; Alfred Gough,Jackie Chan; Owen Wilson; Lucy Liu,77,6.5,63031,55000000,56900000,PG-13,5/26/2000
+Finding Forrester,136,Drama,Clint Eastwood,Mike Rich,Sean Connery; Rob Brown; F. Murray Abraham,62,7.2,56003,43000000,51800000,PG-13,1/12/2001
+Love &amp; Basketball,124,Drama; Romance; Sport,Brett Ratner,Gina Prince-Bythewood,Sanaa Lathan; Omar Epps; Glenndon Chatman,70,6.8,8783,15000000,27400000,PG-13,4/21/2000
+The Legend of Bagger Vance,126,Drama; Fantasy; Sport,Roger Spottiswoode,Steven Pressfield; Jeremy Leven,Will Smith; Matt Damon; Charlize Theron,47,6.5,32462,60000000,30700000,PG-13,11/3/2000
+Thirteen Days,145,Drama; History; Thriller,Wes Craven,David Self; Ernest R. May,Kevin Costner; Bruce Greenwood; Shawn Driscoll,67,7.2,33278,80000000,34600000,PG-13,1/12/2001
+Supernova,90,Horror; Sci-Fi; Thriller,Andrzej Bartkowiak,William Malone; Daniel Chuba,James Spader; Peter Facinelli; Robin Tunney,19,4.5,10592,90000000,14200000,R,1/14/2000
+Center Stage,115,Drama; Music,Robert Redford,Carol Heikkinen,Amanda Schull; Ethan Stiefel; Sascha Radetsky,52,6.3,11282,18000000,17200000,PG-13,5/12/2000
+Mission to Mars,114,Adventure; Drama; Sci-Fi,Nicholas Hytner,Lowell Cannon; Jim Thomas,Tim Robbins; Gary Sinise; Don Cheadle,34,5.4,45063,90000000,60900000,PG,3/10/2000
+Dracula 2000,99,Horror; Thriller,Michael Davis,Joel Soisson; Patrick Lussier,Gerard Butler; Justine Waddell; Jonny Lee Miller,26,4.7,20602,54000000,33000000,R,12/22/2000
+Battlefield Earth,118,Action; Sci-Fi,Brian De Palma,Corey Mandell; J.D. Shapiro,John Travolta; Forest Whitaker; Barry Pepper,9,2.4,51276,44000000,21500000,PG-13,5/12/2000
+28 Days,103,Comedy; Drama,Roger Christian,Susannah Grant,Sandra Bullock; Viggo Mortensen; Dominic West,46,5.8,24478,43000000,37000000,PG-13,4/14/2000
+Wonder Boys,107,Drama; Comedy,Andrew Dominik,Michael Chabon; Steve Kloves,Michael Douglas; Tobey Maguire; Frances McDormand,73,7.4,43928,35000000,19400000,R,2/25/2000
+Big Momma's House,98,Action; Comedy; Crime,Julian Schnabel,Darryl Quarles; Darryl Quarles,Martin Lawrence; Nia Long; Paul Giamatti,33,4.8,43898,30000000,118000000,PG-13,6/2/2000
+Boys and Girls,94,Comedy; Romance; Drama,,Andrew Lowery; Andrew Miller,Freddie Prinze Jr.; Claire Forlani; Brendon Ryan Barrett,29,5,10068,16000000,20600000,PG-13,6/16/2000
+Where the Heart Is,120,Comedy; Drama; Romance,Philip Kaufman,Lowell Ganz; Babaloo Mandel,Natalie Portman; James Frain; Ashley Judd,30,6.5,20050,15000000,33800000,PG-13,4/28/2000
+Quills,124,Biography; Drama,Taylor Hackford,Doug Wright; Doug Wright,Geoffrey Rush; Kate Winslet; Joaquin Phoenix,70,7.3,33809,13500000,7060876,R,12/15/2000
+Proof of Life,135,Action; Adventure; Drama,Fabin Bielinsky,Tony Gilroy; William Prochnau,Meg Ryan; Russell Crowe; David Morse,45,6.1,37705,65000000,32600000,R,12/8/2000
+Shaft,99,Action; Crime; Thriller,William Friedkin,Ernest Tidyman; John Singleton,Samuel L. Jackson; Vanessa Williams; Christian Bale,50,5.8,44171,46000000,70300000,R,6/16/2000
+Whatever It Takes,94,Comedy; Drama; Romance,Damjan Kozole,Mark Schwahn,Shane West; Marla Sokoloff; Jodi Lyn O'Keefe,20,5.2,5654,15000000,8735529,PG-13,3/31/2000
+Rules of Engagement,128,Action; Drama; Thriller,Mathieu Kassovitz,Jim Webb; Stephen Gaghan,Tommy Lee Jones; Samuel L. Jackson; Guy Pearce,45,6.2,27838,60000000,61300000,R,3/31/2000
+Red Planet,106,Sci-Fi; Action; Thriller,John Fawcett,Chuck Pfarrer; Chuck Pfarrer,Val Kilmer; Carrie-Anne Moss; Tom Sizemore,34,5.5,34161,70000000,17500000,PG-13,11/10/2000
+Nine Queens,114,Crime; Drama; Thriller,Raja Gosnell,Fabin Bielinsky,Ricardo Darn; Gastn Pauls; Leticia Brdice,80,7.8,21949,1500000,1221261,R,8/31/2000
+The Flintstones in Viva Rock Vegas,90,Comedy; Family; Romance,Stephen Kay,William Hanna; Joseph Barbera,Mark Addy; Stephen Baldwin; Kristen Johnston,27,3.3,10131,83000000,35200000,PG,4/28/2000
+Ginger Snaps,108,Drama; Horror,Amy Heckerling,Karen Walton; John Fawcett,Emily Perkins; Katharine Isabelle; Kris Lemche,70,6.7,22099,5000000,2554,,5/11/2001
+The Yards,115,Crime; Drama; Romance,Curtis Hanson,James Gray; Matt Reeves,Mark Wahlberg; Joaquin Phoenix; Charlize Theron,58,6.3,11296,20000000,882710,R,4/27/2000
+Keeping the Faith,128,Comedy; Drama; Romance,Virginie Despentes,Stuart Blumberg,Ben Stiller; Edward Norton; Jenna Elfman,60,6.4,35664,30000000,37000000,PG-13,4/5/2000
+The Lord of the Rings: The Fellowship of the Ring,178,Action; Adventure; Fantasy,Peter Jackson,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Ian McKellen; Orlando Bloom,92,8.8,701571,93000000,316000000,PG-13,12/19/2001
+Harry Potter and the Sorcerer's Stone,152,Adventure; Family; Fantasy,Chris Columbus,J.K. Rowling; Steve Kloves,Daniel Radcliffe; Rupert Grint; Richard Harris,64,7.3,262636,125000000,318000000,PG,11/16/2001
+Donnie Darko,113,Drama; Mystery; Sci-Fi,Pete Docter,Richard Kelly,Jake Gyllenhaal; Jena Malone; Mary McDonnell,71,8.1,359606,4500000,727883,R,1/30/2002
+"Monsters, Inc.",92,Animation; Adventure; Comedy,Richard Kelly,Pete Docter; Jill Culton,Billy Crystal; John Goodman; Mary Gibbs,78,8,279632,115000000,290000000,G,11/2/2001
+A Beautiful Mind,135,Biography; Drama,Ron Howard,Akiva Goldsman; Sylvia Nasar,Russell Crowe; Ed Harris; Jennifer Connelly,72,8.1,298460,60000000,171000000,PG-13,1/4/2002
+Shrek,90,Animation; Adventure; Comedy,Gary Trousdale,William Steig; Ted Elliott,Mike Myers; Eddie Murphy; Cameron Diaz,84,7.9,286726,60000000,268000000,PG,5/18/2001
+Black Hawk Down,144,Drama; History; War,Robert Luketic,Mark Bowden; Ken Nolan,Josh Hartnett; Ewan McGregor; Tom Sizemore,74,7.7,185724,92000000,109000000,R,1/18/2002
+The Fast and the Furious,106,Action; Crime; Thriller,Brian Helgeland,Ken Li; Gary Scott Thompson,Vin Diesel; Paul Walker; Michelle Rodriguez,58,6.4,147215,38000000,145000000,PG-13,6/22/2001
+Training Day,122,Action; Crime; Drama,Rob Cohen,David Ayer,Denzel Washington; Ethan Hawke; Scott Glenn,70,7.6,183219,45000000,76300000,R,10/5/2001
+Ocean's Eleven,116,Crime; Thriller,Ridley Scott,George Clayton Johnson; Jack Golden Russell,George Clooney; Brad Pitt; Julia Roberts,74,7.7,245332,85000000,183000000,PG-13,12/7/2001
+Hannibal,131,Crime; Drama; Thriller,Steven Soderbergh,Thomas Harris; David Mamet,Anthony Hopkins; Julianne Moore; Gary Oldman,57,6.6,138452,87000000,165000000,R,2/9/2001
+Blow,124,Biography; Crime; Drama,Andrew Adamson,Bruce Porter; David McKenna,Johnny Depp; Penlope Cruz; Franka Potente,52,7.5,129317,30000000,52900000,R,4/6/2001
+Atlantis: The Lost Empire,95,Animation; Adventure; Family,Ted Demme,Tab Murphy; Kirk Wise,Michael J. Fox; Jim Varney; Corey Burton,52,6.5,37877,90000000,84100000,PG,6/15/2001
+A Knight's Tale,132,Action; Adventure; Drama,Jean-Pierre Jeunet,Brian Helgeland,Heath Ledger; Mark Addy; Rufus Sewell,54,6.7,89486,41000000,56100000,PG-13,5/11/2001
+Legally Blonde,96,Comedy; Romance,Baz Luhrmann,Amanda Brown; Karen McCullah Lutz,Reese Witherspoon; Luke Wilson; Selma Blair,59,6.1,76600,18000000,95000000,PG-13,7/13/2001
+Mulholland Dr.,147,Drama; Mystery; Thriller,Michael Bay,David Lynch,Naomi Watts; Laura Harring; Justin Theroux,81,7.9,161329,15000000,7219578,R,11/21/2001
+A.I. Artificial Intelligence,146,Adventure; Drama; Sci-Fi,Joel Gallen,Brian Aldiss; Ian Watson,Haley Joel Osment; Jude Law; Frances O'Connor,65,7,161225,90000000,78600000,PG-13,6/29/2001
+Pearl Harbor,183,Action; Drama; Romance,Simon West,Randall Wallace,Ben Affleck; Kate Beckinsale; Josh Hartnett,44,5.7,163245,140000000,199000000,PG-13,5/25/2001
+Moulin Rouge!,127,Drama; Musical; Romance,David Lynch,Baz Luhrmann; Craig Pearce,Nicole Kidman; Ewan McGregor; John Leguizamo,66,7.6,161012,52500000,57400000,PG-13,6/1/2001
+Zoolander,89,Comedy,Ridley Scott,Drake Sather; Ben Stiller,Ben Stiller; Owen Wilson; Christine Taylor,61,6.5,121799,28000000,45200000,PG-13,9/28/2001
+Jurassic Park III,92,Action; Adventure; Fantasy,Cameron Crowe,Michael Crichton; Peter Buchman,Sam Neill; William H. Macy; Ta Leoni,42,5.8,122471,93000000,181000000,PG-13,7/18/2001
+Not Another Teen Movie,89,Comedy,Keenen Ivory Wayans,Mike Bender; Adam Jay Epstein,Chyler Leigh; Jaime Pressly; Chris Evans,32,5.5,57470,16000000,37900000,R,12/14/2001
+Vanilla Sky,136,Mystery; Romance; Sci-Fi,Ben Stiller,Alejandro Amenbar; Mateo Gil,Tom Cruise; Penlope Cruz; Cameron Diaz,45,6.8,145138,68000000,101000000,R,12/14/2001
+The Mummy Returns,130,Action; Adventure; Fantasy,Jay Chandrasekhar,Stephen Sommers,Brendan Fraser; Rachel Weisz; John Hannah,48,6.2,157154,98000000,202000000,PG-13,5/4/2001
+American Pie 2,108,Comedy; Romance,Kevin Smith,Adam Herz; David H. Steinberg,Jason Biggs; Seann William Scott; Shannon Elizabeth,43,6.3,132660,30000000,145000000,R,8/10/2001
+Scary Movie 2,83,Comedy,Steven Spielberg,Shawn Wayans; Marlon Wayans,Anna Faris; Marlon Wayans; Anthony Acker,29,5,78421,45000000,71300000,R,7/4/2001
+Super Troopers,100,Comedy; Crime; Mystery,Jessie Nelson,Jay Chandrasekhar; Kevin Heffernan,Jay Chandrasekhar; Kevin Heffernan; Andr Vippolis,48,6.9,50662,3000000,18500000,R,2/15/2002
+Planet of the Apes,119,Action; Adventure; Sci-Fi,J.B. Rogers,Pierre Boulle; William Broyles Jr.,Mark Wahlberg; Helena Bonham Carter; Tim Roth,50,5.6,123476,100000000,180000000,PG-13,7/27/2001
+The Others,104,Drama; Horror; Mystery,Joe Johnston,Alejandro Amenbar,Nicole Kidman; Christopher Eccleston; Fionnula Flanagan,74,7.6,174157,17000000,96500000,PG-13,8/10/2001
+Lara Croft: Tomb Raider,100,Action; Adventure; Fantasy,Alejandro Amenbar,Sara B. Cooper; Mike Werb,Angelina Jolie; Jon Voight; Iain Glen,33,5.6,101275,115000000,131000000,PG-13,6/15/2001
+Enemy at the Gates,131,Drama; History; Thriller,Tim Burton,Jean-Jacques Annaud; Alain Godard,Jude Law; Ed Harris; Joseph Fiennes,53,7.5,115942,68000000,51400000,R,3/16/2001
+Jay and Silent Bob Strike Back,104,Comedy,Dominic Sena,Kevin Smith; Kevin Smith,Jason Mewes; Kevin Smith; Ben Affleck,51,6.8,95914,22000000,30100000,R,8/24/2001
+The Royal Tenenbaums,110,Comedy; Drama,Jean-Jacques Annaud,Wes Anderson; Owen Wilson,Gene Hackman; Gwyneth Paltrow; Anjelica Huston,75,7.5,135534,21000000,52400000,R,12/14/2001
+I Am Sam,132,Drama,Thomas Carter,Kristine Johnson; Jessie Nelson,Sean Penn; Michelle Pfeiffer; Dakota Fanning,28,7.4,81626,22000000,40300000,PG-13,1/25/2002
+The Princess Diaries,115,Comedy; Family; Romance,Wes Anderson,Meg Cabot; Gina Wendkos,Julie Andrews; Anne Hathaway; Hector Elizondo,52,5.9,51352,37000000,108000000,G,8/3/2001
+Bridget Jones's Diary,97,Comedy; Drama; Romance,Garry Marshall,Helen Fielding; Helen Fielding,Rene Zellweger; Colin Firth; Hugh Grant,66,6.7,106608,26000000,71500000,R,4/13/2001
+Rush Hour 2,90,Action; Comedy; Crime,Sharon Maguire,Ross LaManna; Jeff Nathanson,Jackie Chan; Chris Tucker; John Lone,48,6.4,100604,90000000,226000000,PG-13,8/3/2001
+Spy Kids,88,Action; Adventure; Comedy,Oliver Hirschbiegel,Robert Rodriguez,Alexa Vega; Daryl Sabara; Antonio Banderas,71,5.5,51683,35000000,113000000,PG,3/30/2001
+Swordfish,99,Action; Crime; Thriller,Peter Chelsom,Skip Woods,John Travolta; Hugh Jackman; Halle Berry,32,6.4,112821,80000000,69800000,R,6/8/2001
+The Wedding Planner,103,Comedy; Romance,Jerry Zucker,Pamela Falk; Michael Ellis,Jennifer Lopez; Matthew McConaughey; Bridgette Wilson-Sampras,33,4.9,37635,35000000,60400000,PG-13,1/26/2001
+Monster's Ball,111,Drama; Romance,Michael Cristofer,Milo Addica; Will Rokos,Billy Bob Thornton; Halle Berry; Taylor Simpson,69,7.1,55820,4000000,31300000,R,2/8/2002
+Rat Race,112,Adventure; Comedy,Robert Rodriguez,Andy Breckman,Breckin Meyer; Amy Smart; Whoopi Goldberg,52,6.3,69136,48000000,56600000,PG-13,8/17/2001
+Original Sin,116,Drama; Mystery; Romance,Brett Ratner,Cornell Woolrich; Michael Cristofer,Antonio Banderas; Angelina Jolie; Thomas Jane,33,5.8,30728,42000000,16300000,R,8/3/2001
+Ali,157,Biography; Drama; Sport,Tony Scott,Gregory Allen Howard; Stephen J. Rivele,Will Smith; Jamie Foxx; Jon Voight,65,6.7,53367,107000000,58200000,R,12/25/2001
+Serendipity,90,Comedy; Romance; Fantasy,David Wain,Marc Klein,John Cusack; Kate Beckinsale; Jeremy Piven,52,6.7,58301,28000000,50300000,PG-13,10/5/2001
+Spy Game,126,Action; Crime; Thriller,Pat O'Connor,Michael Frost Beckner; Michael Frost Beckner,Robert Redford; Brad Pitt; Catherine McCormack,63,6.9,84545,92000000,62300000,R,11/21/2001
+Save the Last Dance,112,Drama; Music; Romance,Alfonso Cuarn,Duane Adler; Duane Adler,Julia Stiles; Sean Patrick Thomas; Kerry Washington,53,5.9,32789,13000000,91000000,PG-13,1/12/2001
+Exit Wounds,101,Action; Comedy; Crime,Dennie Gordon,Ed Horowitz; Richard D'Ovidio,Steven Seagal; DMX; Isaiah Washington,39,5.3,20820,33000000,51800000,R,3/16/2001
+Y Tu Mam Tambin,106,Drama,Robert Altman,Alfonso Cuarn; Carlos Cuarn,Maribel Verd; Gael Garca Bernal; Diego Luna,88,7.6,63653,2000000,13600000,R,6/8/2001
+How High,93,Comedy,Albert Hughes,Dustin Lee Abraham,Method Man; Redman; Obba Babatund,29,5.8,27918,12000000,31200000,R,12/21/2001
+Wet Hot American Summer,97,Comedy; Romance,Marc Forster,Michael Showalter; David Wain,Janeane Garofalo; David Hyde Pierce; Michael Showalter,42,6.5,17185,5000000,292102,R,4/11/2002
+Sweet November,119,Drama; Romance,Steve Beck,Herman Raucher; Paul Yurick,Keanu Reeves; Charlize Theron; Jason Isaacs,27,6.4,45528,40000000,25200000,PG-13,2/16/2001
+From Hell,122,Crime; Horror; Mystery,Julio Medem,Alan Moore; Eddie Campbell,Johnny Depp; Heather Graham; Ian Holm,54,6.8,87541,35000000,31600000,R,10/19/2001
+Evolution,101,Comedy; Sci-Fi,Michael Mann,Don Jakoby; David Diamond,David Duchovny; Orlando Jones; Julianne Moore,40,5.9,73577,80000000,38300000,PG-13,6/8/2001
+Gosford Park,137,Drama; Mystery,Tim Blake Nelson,Robert Altman; Bob Balaban,Maggie Smith; Ryan Phillippe; Michael Gambon,90,7.3,49626,19800000,41300000,R,1/4/2002
+K-PAX,120,Drama; Sci-Fi,Iain Softley,Gene Brewer; Charles Leavitt,Kevin Spacey; Jeff Bridges; Mary McCormack,49,7.2,93990,48000000,50300000,PG-13,10/26/2001
+Joe Dirt,91,Adventure; Comedy; Drama,James Mangold,David Spade; Fred Wolf,David Spade; Brittany Daniel; Dennis Miller,20,5.5,27644,17700000,27100000,PG-13,4/11/2001
+Jeepers Creepers,90,Horror; Mystery,John Moore,Victor Salva,Gina Philips; Justin Long; Jonathan Breck,49,5.9,55832,10000000,37500000,R,8/31/2001
+Ghost World,111,Comedy; Drama,Larry Clark,Daniel Clowes; Daniel Clowes,Steve Buscemi; Thora Birch; Scarlett Johansson,88,7.5,68436,7000000,6200756,R,10/18/2001
+Session 9,97,Horror; Mystery; Thriller,Nick Hamm,Brad Anderson; Stephen Gevedon,David Caruso; Stephen Gevedon; Paul Guilfoyle,58,6.6,29519,1500000,373967,R,9/14/2001
+The Score,124,Action; Crime; Thriller,Ivan Reitman,Daniel E. Taylor; Kario Salem,Robert De Niro; Edward Norton; Marlon Brando,71,6.8,72191,68000000,71100000,R,7/13/2001
+Shallow Hal,114,Comedy; Drama; Fantasy,Michael Haneke,Sean Moynihan; Peter Farrelly,Jack Black; Gwyneth Paltrow; Jason Alexander,48,5.9,74085,40000000,70800000,PG-13,11/9/2001
+Behind Enemy Lines,106,Action; War; Drama,Jesse Dylan,Jim Thomas; John Thomas,Gene Hackman; Owen Wilson; Gabriel Macht,49,6.2,59516,40000000,59100000,PG-13,11/30/2001
+Pootie Tang,81,Comedy; Musical; Adventure,Brad Anderson,Louis C.K.,Chris Rock; Lance Crouther; J.B. Smoove,31,4.6,8432,3000000,3293258,PG-13,6/29/2001
+Kate &amp; Leopold,118,Comedy; Fantasy; Romance,Adam Shankman,Steven Rogers; James Mangold,Meg Ryan; Hugh Jackman; Liev Schreiber,44,6.2,43074,48000000,47100000,PG-13,12/25/2001
+Thir13en Ghosts,91,Horror; Mystery; Thriller,John Singleton,Robb White; Benjamin Carr,Tony Shalhoub; Shannon Elizabeth; Embeth Davidtz,30,5.3,44061,20000000,41900000,R,10/26/2001
+The Man Who Wasn't There,116,Crime; Drama,James Wong,Joel Coen; Ethan Coen,Billy Bob Thornton; Frances McDormand; Michael Badalucco,73,7.6,61669,20000000,7494849,R,10/26/2001
+The One,87,Action; Sci-Fi; Thriller,Richard Linklater,Glen Morgan; James Wong,Jet Li; Carla Gugino; Delroy Lindo,25,5.8,55628,49000000,43900000,PG-13,11/2/2001
+The Animal,84,Comedy,Joel Coen,Tom Brady; Tom Brady,Rob Schneider; Colleen Haskell; John C. McGinley,43,4.6,32686,22000000,55800000,PG-13,6/1/2001
+Final Fantasy: The Spirits Within,106,Animation; Action; Adventure,Lee Tamahori,Hironobu Sakaguchi; Al Reinert,Alec Baldwin; Steve Buscemi; Ming-Na Wen,49,6.4,55393,137000000,32100000,PG-13,7/11/2001
+Tomcats,95,Comedy,Bill Paxton,Gregory Poirier,Shannon Elizabeth; Jerry O'Connell; Jake Busey,15,5,12234,11000000,13600000,R,3/30/2001
+Frailty,100,Crime; Drama; Thriller,Gore Verbinski,Brent Hanley,Bill Paxton; Matthew McConaughey; Powers Boothe,64,7.3,40662,11000000,13100000,R,4/12/2002
+Joy Ride,97,Drama; Mystery; Thriller,Stephen Herek,Clay Tarver; J.J. Abrams,Matthew Kimbrough; Leelee Sobieski; Steve Zahn,75,6.5,37552,23000000,22000000,R,10/5/2001
+Along Came a Spider,104,Action; Crime; Mystery,Luke Greenfield,James Patterson; Marc Moss,Morgan Freeman; Michael Wincott; Monica Potter,42,6.2,39641,60000000,74100000,R,4/6/2001
+The Devil's Backbone,106,Drama; Horror,Guillermo del Toro,Guillermo del Toro; Antonio Trashorras,Marisa Paredes; Eduardo Noriega; Federico Luppi,77,7.5,31102,4500000,754749,R,4/20/2001
+The Other Side of Heaven,113,Adventure; Biography; Drama,Stephen Chow,Mitch Davis; John H. Groberg,Christopher Gorham; Anne Hathaway; Joe Folau,38,6.3,2305,7000000,4720371,PG,4/12/2002
+Rock Star,105,Comedy; Drama; Music,Chris Nahon,John Stockwell,Mark Wahlberg; Jennifer Aniston; Dominic West,54,5.9,24421,57000000,17000000,R,9/7/2001
+Baby Boy,130,Comedy; Crime; Drama,Brendan Malloy,John Singleton,AlexSandra Wright; Tyrese Gibson; Taraji P. Henson,55,6,6439,16000000,28700000,R,6/29/2001
+The Last Castle,131,Action; Drama; Thriller,Brian Robbins,David Scarpa; David Scarpa,Robert Redford; James Gandolfini; Mark Ruffalo,43,6.7,38701,60000000,18200000,R,10/19/2001
+The Mexican,123,Adventure; Comedy; Crime,Barry Levinson,J.H. Wyman,Brad Pitt; Julia Roberts; James Gandolfini,43,6,61694,34000000,66800000,R,3/2/2001
+The Believer,102,Drama,Christophe Gans,Henry Bean; Henry Bean,Ryan Gosling; Summer Phoenix; Peter Meadows,75,7.3,20307,1500000,406035,R,8/23/2001
+Captain Corelli's Mandolin,131,Drama; Music; Romance,Daniel Sackheim,Shawn Slovo; Louis de Bernires,Nicolas Cage; Penlope Cruz; John Hurt,36,5.7,21198,57000000,25500000,R,8/17/2001
+Out Cold,89,Comedy; Sport,John Dahl,Jon Zack,Flex Alexander; David Denman; A.J. Cook,22,6,11469,11000000,13900000,PG-13,11/21/2001
+Kiss of the Dragon,98,Action; Crime; Thriller,Lawrence Guterman,Jet Li; Luc Besson,Jet Li; Bridget Fonda; Tchky Karyo,58,6.5,39241,25000000,36800000,R,7/6/2001
+O,95,Drama; Romance; Thriller,Frank Darabont,William Shakespeare; Brad Kaaya,Mekhi Phifer; Julia Stiles; Josh Hartnett,53,6,14328,5000000,16000000,R,8/31/2001
+Life as a House,125,Drama,Sean Penn,Mark Andrus,Hayden Christensen; Kevin Kline; Kristin Scott Thomas,45,7.4,30033,18000000,15700000,R,11/9/2001
+Cats &amp; Dogs,87,Action; Adventure; Comedy,John Madden,John Requa; Glenn Ficarra,Alec Baldwin; Tobey Maguire; Jeff Goldblum,47,5.1,31303,60000000,93400000,PG,7/4/2001
+xXx,124,Action; Thriller,Rob Cohen,Rich Wilkes,Vin Diesel; Asia Argento; Marton Csokas,48,5.7,98780,70000000,142000000,PG-13,8/9/2002
+City of God,130,Crime; Drama,Peter Jackson,Paulo Lins; Brulio Mantovani,Alexandre Rodrigues; Matheus Nachtergaele; Leandro Firmino,79,8.7,310653,3300000,7563397,R,8/30/2002
+The Lord of the Rings: The Two Towers,179,Action; Adventure; Fantasy,Fernando Meirelles,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Ian McKellen; Viggo Mortensen,88,8.7,607461,94000000,343000000,PG-13,12/18/2002
+Spider-Man,121,Action; Adventure; Fantasy,Sam Raimi,Stan Lee; Steve Ditko,Tobey Maguire; Kirsten Dunst; Willem Dafoe,73,7.3,313593,139000000,404000000,PG-13,5/3/2002
+The Bourne Identity,119,Action; Crime; Mystery,Adam Shankman,Tony Gilroy; W. Blake Herron,Franka Potente; Matt Damon; Chris Cooper,68,7.9,247198,60000000,122000000,PG-13,6/14/2002
+Harry Potter and the Chamber of Secrets,161,Adventure; Family; Fantasy,Chris Columbus,J.K. Rowling; Steve Kloves,Daniel Radcliffe; Rupert Grint; Emma Watson,63,7.2,234560,100000000,262000000,PG,11/15/2002
+Scooby-Doo,86,Adventure; Comedy; Family,Raja Gosnell,James Gunn; Craig Titley,Matthew Lillard; Freddie Prinze Jr.; Sarah Michelle Gellar,35,4.7,44778,84000000,153000000,PG,6/14/2002
+Star Wars: Episode II - Attack of the Clones,142,Action; Adventure; Fantasy,Roman Polanski,George Lucas; George Lucas,Hayden Christensen; Natalie Portman; Ewan McGregor,53,6.7,266703,115000000,311000000,PG,5/16/2002
+28 Days Later...,113,Horror; Sci-Fi; Thriller,Steven Spielberg,Alex Garland,Cillian Murphy; Naomie Harris; Christopher Eccleston,73,7.6,190391,8000000,45100000,R,6/27/2003
+The Pianist,150,Biography; Drama; History,Doug Liman,Ronald Harwood; Wladyslaw Szpilman,Adrien Brody; Thomas Kretschmann; Frank Finlay,85,8.5,261840,35000000,32600000,R,3/28/2003
+Catch Me If You Can,141,Biography; Comedy; Crime,Danny Boyle,Jeff Nathanson; Frank Abagnale Jr.,Leonardo DiCaprio; Tom Hanks; Christopher Walken,76,7.9,270227,52000000,164000000,PG-13,12/25/2002
+A Walk to Remember,101,Drama; Romance,Barry Sonnenfeld,Nicholas Sparks; Karen Janszen,Mandy Moore; Shane West; Peter Coyote,35,7.2,92781,11000000,41200000,PG,1/25/2002
+Gangs of New York,167,Crime; Drama; History,George Lucas,Jay Cocks; Jay Cocks,Leonardo DiCaprio; Cameron Diaz; Daniel Day-Lewis,72,7.5,196873,97000000,77700000,R,12/20/2002
+Minority Report,145,Action; Mystery; Sci-Fi,Paul W.S. Anderson,Philip K. Dick; Scott Frank,Tom Cruise; Colin Farrell; Samantha Morton,80,7.7,251499,102000000,132000000,PG-13,6/21/2002
+Resident Evil,100,Action; Horror; Sci-Fi,Martin Scorsese,Paul W.S. Anderson,Milla Jovovich; Michelle Rodriguez; Colin Salmon,33,6.6,134852,33000000,40100000,R,3/15/2002
+The Transporter,92,Action; Crime; Thriller,Steven Spielberg,Luc Besson; Robert Mark Kamen,Jason Statham; Qi Shu; Matt Schulze,51,6.7,143050,21000000,25300000,PG-13,10/11/2002
+Ice Age,81,Animation; Adventure; Comedy,Kurt Wimmer,Michael J. Wilson; Michael Berg,Denis Leary; John Leguizamo; Ray Romano,60,7.5,186289,59000000,176000000,PG,3/15/2002
+Unfaithful,124,Drama; Romance; Thriller,Louis Leterrier,Claude Chabrol; Alvin Sargent,Richard Gere; Diane Lane; Olivier Martinez,63,6.6,41860,50000000,52800000,R,5/10/2002
+Chicago,113,Comedy; Crime; Musical,Gore Verbinski,Bill Condon; Bob Fosse,Rene Zellweger; Catherine Zeta-Jones; Richard Gere,82,7.1,120536,45000000,171000000,PG-13,1/24/2003
+Men in Black II,88,Action; Comedy; Sci-Fi,Chris Wedge,Lowell Cunningham; Robert Gordon,Tommy Lee Jones; Will Smith; Rip Torn,49,5.9,155159,140000000,190000000,PG-13,7/3/2002
+Equilibrium,107,Action; Drama; Sci-Fi,Gaspar No,Kurt Wimmer,Christian Bale; Sean Bean; Emily Watson,33,7.6,172498,20000000,1203974,R,2/26/2003
+The Ring,115,Horror; Mystery; Thriller,Chris Weitz,Ehren Kruger; Kji Suzuki,Naomi Watts; Martin Henderson; Brian Cox,57,7.1,154932,48000000,129000000,PG-13,10/18/2002
+8 Mile,110,Drama; Music,Curtis Hanson,Scott Silver,Eminem; Brittany Murphy; Kim Basinger,77,6.8,110877,41000000,117000000,R,11/8/2002
+Die Another Day,133,Action; Adventure; Crime,Lee Tamahori,Ian Fleming; Neal Purvis,Pierce Brosnan; Halle Berry; Rosamund Pike,56,6,114462,142000000,161000000,PG-13,11/22/2002
+Blade II,117,Action; Horror; Sci-Fi,Dean DeBlois,Marv Wolfman; Gene Colan,Wesley Snipes; Kris Kristofferson; Ron Perlman,52,6.6,98781,54000000,81600000,R,3/22/2002
+Red Dragon,124,Thriller,M. Night Shyamalan,Thomas Harris; Ted Tally,Anthony Hopkins; Edward Norton; Ralph Fiennes,60,7.2,132092,78000000,92900000,R,10/4/2002
+Lilo &amp; Stitch,85,Animation; Adventure; Comedy,Kevin Reynolds,Chris Sanders; Chris Sanders,Daveigh Chase; Chris Sanders; Tia Carrere,73,7,58653,80000000,146000000,PG,6/21/2002
+About a Boy,101,Comedy; Drama; Romance,Sam Mendes,Nick Hornby; Peter Hedges,Hugh Grant; Nicholas Hoult; Toni Collette,75,7.1,97347,27000000,40600000,PG-13,5/17/2002
+The Count of Monte Cristo,131,Action; Adventure; Drama,Michael Rymer,Alexandre Dumas pre; Jay Wolpert,Jim Caviezel; Guy Pearce; Richard Harris,61,7.6,72262,35000000,54200000,PG-13,1/25/2002
+Road to Perdition,117,Crime; Drama; Thriller,Ron Clements,Max Allan Collins; Richard Piers Rayner,Tom Hanks; Tyler Hoechlin; Rob Maxey,72,7.7,141064,80000000,104000000,R,7/12/2002
+Van Wilder,92,Comedy; Romance,Brett Ratner,Brent Goldberg; David Wagner,Ryan Reynolds; Tara Reid; Tim Matheson,26,6.3,62676,6000000,21000000,R,4/5/2002
+Signs,106,Drama; Mystery; Sci-Fi,Andy Tennant,M. Night Shyamalan,Mel Gibson; Joaquin Phoenix; Rory Culkin,59,6.7,189839,72000000,228000000,PG-13,8/2/2002
+Austin Powers in Goldmember,94,Action; Comedy; Crime,Jay Roach,Mike Myers; Michael McCullers,Mike Myers; Beyonc Knowles; Seth Green,62,6.1,113901,63000000,213000000,PG-13,7/26/2002
+Treasure Planet,95,Animation; Adventure; Family,Guillermo del Toro,Robert Louis Stevenson; Ron Clements,Joseph Gordon-Levitt; Emma Thompson; Martin Short,60,6.8,33767,140000000,38100000,PG,11/27/2002
+Insomnia,118,Crime; Mystery; Thriller,Walt Becker,Hillary Seitz; Nikolaj Frobenius,Al Pacino; Robin Williams; Hilary Swank,78,7.2,139467,46000000,67400000,R,5/24/2002
+Sweet Home Alabama,108,Comedy; Romance,Spike Jonze,Douglas J. Eboch; C. Jay Cox,Reese Witherspoon; Patrick Dempsey; Josh Lucas,45,5.9,56552,38000000,127000000,PG-13,9/27/2002
+Adaptation.,114,Comedy; Crime; Drama,Tom Brady,Susan Orlean; Charlie Kaufman,Nicolas Cage; Meryl Streep; Chris Cooper,83,7.7,101035,19000000,22200000,R,1/10/2003
+Secretary,104,Comedy; Drama; Romance,Christopher Nolan,Erin Cressida Wilson; Mary Gaitskill,James Spader; Maggie Gyllenhaal; Jeremy Davies,63,7,46593,4000000,4046737,R,11/14/2002
+Queen of the Damned,101,Fantasy; Horror; Music,Randall Wallace,Anne Rice; Scott Abbott,Aaliyah; Stuart Townsend; Marguerite Moreau,30,4.9,32008,35000000,30300000,R,2/22/2002
+25th Hour,135,Crime; Drama,Spike Lee,David Benioff; David Benioff,Edward Norton; Barry Pepper; Philip Seymour Hoffman,67,7.7,106605,15000000,13100000,R,1/10/2003
+The Scorpion King,92,Action; Adventure; Fantasy,Stuart Baird,Stephen Sommers; Jonathan Hales,Dwayne Johnson; Steven Brand; Michael Clarke Duncan,45,5.4,62684,60000000,90300000,PG-13,4/19/2002
+We Were Soldiers,138,Action; Drama; History,Adrian Lyne,Harold G. Moore; Joseph L. Galloway,Mel Gibson; Madeleine Stowe; Greg Kinnear,65,7,66826,75000000,78100000,R,3/1/2002
+My Big Fat Greek Wedding,95,Comedy; Romance,David Fincher,Nia Vardalos,Nia Vardalos; John Corbett; Michael Constantine,62,6.5,72070,5000000,241000000,PG,8/2/2002
+Star Trek: Nemesis,116,Action; Adventure; Sci-Fi,Rob Bowman,Gene Roddenberry; John Logan,Patrick Stewart; Jonathan Frakes; Brent Spiner,51,6.3,40440,60000000,43100000,PG-13,12/13/2002
+Ying xiong,99,Action; Drama; History,Stephen Daldry,Feng Li; Bin Wang,Jet Li; Tony Leung Chiu Wai; Maggie Cheung,84,7.9,112288,31000000,53700000,PG-13,8/27/2004
+Panic Room,112,Crime; Thriller,Steven Brill,David Koepp,Jodie Foster; Kristen Stewart; Forest Whitaker,65,6.8,129596,48000000,95300000,R,3/29/2002
+Phone Booth,81,Mystery; Thriller,Wai-keung Lau,Larry Cohen,Colin Farrell; Kiefer Sutherland; Forest Whitaker,56,7.1,133106,13000000,46600000,R,4/4/2003
+Reign of Fire,101,Action; Adventure; Fantasy,Paul Thomas Anderson,Gregg Chabot; Kevin Peterka,Matthew McConaughey; Christian Bale; Izabella Scorupco,39,6.1,72592,60000000,43100000,PG-13,7/12/2002
+The Hours,114,Drama,Phil Alden Robinson,Michael Cunningham; David Hare,Meryl Streep; Nicole Kidman; Julianne Moore,81,7.5,72513,25000000,41700000,PG-13,1/24/2003
+Mr. Deeds,96,Comedy,Joel Schumacher,Clarence Budington Kelland; Robert Riskin,Adam Sandler; Winona Ryder; John Turturro,24,5.7,72583,50000000,126000000,PG-13,6/28/2002
+The Sum of All Fears,124,Action; Drama; Thriller,Gurinder Chadha,Tom Clancy; Paul Attanasio,Ben Affleck; Morgan Freeman; Ian Mongrain,45,6.3,61097,68000000,118000000,PG-13,5/31/2002
+The Sweetest Thing,88,Comedy; Romance,Steve Beck,Nancy Pimental,Cameron Diaz; Thomas Jane; Christina Applegate,32,4.8,34086,43000000,24400000,R,4/12/2002
+40 Days and 40 Nights,96,Comedy; Romance; Drama,Yimou Zhang,Rob Perez,Josh Hartnett; Shannyn Sossamon; Paulo Costanzo,53,5.5,47711,17000000,69588,R,3/1/2002
+Punch-Drunk Love,95,Comedy; Drama; Romance,Chuck Russell,Paul Thomas Anderson,Adam Sandler; Emily Watson; Philip Seymour Hoffman,78,7.3,72851,25000000,17800000,R,11/1/2002
+The Rules of Attraction,110,Comedy; Drama; Romance,Simon Wells,Bret Easton Ellis; Roger Avary,James Van Der Beek; Ian Somerhalder; Shannyn Sossamon,50,6.7,35592,4000000,6532619,R,10/11/2002
+The Time Machine,96,Sci-Fi; Adventure; Action,Wayne Wang,H.G. Wells; David Duncan,Guy Pearce; Yancey Arias; Mark Addy,42,5.8,71059,80000000,56700000,PG-13,3/8/2002
+Confessions of a Dangerous Mind,113,Biography; Comedy; Crime,Nick Cassavetes,Chuck Barris; Charlie Kaufman,Sam Rockwell; Drew Barrymore; George Clooney,67,7.1,52228,29000000,16000000,R,1/24/2003
+John Q,116,Drama; Thriller,Marcus Raboy,James Kearns,Denzel Washington; Robert Duvall; Gabriela Oltean,30,6.8,62114,36000000,71000000,PG-13,2/15/2002
+Ghost Ship,91,Horror; Mystery; Thriller,Tamra Davis,Mark Hanlon; Mark Hanlon,Julianna Margulies; Gabriel Byrne; Ron Eldard,28,5.3,51644,35000000,30100000,R,10/25/2002
+Maid in Manhattan,105,Comedy; Drama; Romance,Roger Avary,John Hughes; Kevin Wade,Jennifer Lopez; Ralph Fiennes; Natasha Richardson,45,4.7,46908,55000000,93800000,PG-13,12/13/2002
+Two Weeks Notice,101,Comedy; Romance,Peter Kosminsky,Marc Lawrence,Sandra Bullock; Hugh Grant; Alicia Witt,42,5.8,57011,60000000,93300000,PG-13,12/20/2002
+Murder by Numbers,120,Crime; Drama; Thriller,Marc Lawrence,Tony Gayton,Sandra Bullock; Ben Chaplin; Ryan Gosling,50,6,31331,50000000,31900000,R,4/19/2002
+The New Guy,88,Comedy,Shekhar Kapur,David Kendall,DJ Qualls; Lyle Lovett; Eliza Dushku,24,5.5,21778,13000000,29000000,PG-13,5/10/2002
+Solaris,99,Drama; Mystery; Romance,Roger Kumble,Stanislaw Lem; Steven Soderbergh,George Clooney; Natascha McElhone; Ulrich Tukur,65,6.1,50698,47000000,15000000,PG-13,11/27/2002
+Stuart Little 2,77,Animation; Adventure; Comedy,Charles Stone III,E.B. White; Douglas Wick,Michael J. Fox; Geena Davis; Hugh Laurie,66,5.4,20074,120000000,64700000,PG,7/19/2002
+Frida,123,Biography; Drama; Romance,Steven Soderbergh,Hayden Herrera; Clancy Sigal,Salma Hayek; Alfred Molina; Geoffrey Rush,61,7.3,41655,12000000,25800000,R,11/20/2002
+Blue Crush,104,Drama; Romance; Sport,Ed Decter,Susan Orlean; Lizzy Weiss,Kate Bosworth; Michelle Rodriguez; Matthew Davis,61,5.5,19068,30000000,40400000,PG-13,8/16/2002
+Cabin Fever,93,Horror,Julie Taymor,Eli Roth; Randy Pearlstein,Jordan Ladd; Rider Strong; James DeBello,56,5.5,44630,1500000,21200000,R,9/12/2003
+Changing Lanes,98,Drama; Thriller,Alexander Payne,Chap Taylor; Chap Taylor,Ben Affleck; Samuel L. Jackson; Kim Staunton,69,6.4,42804,45000000,66800000,R,4/12/2002
+About Schmidt,125,Comedy; Drama,Siu-Tung Ching,Louis Begley; Alexander Payne,Jack Nicholson; Hope Davis; Dermot Mulroney,85,7.2,81395,30000000,65000000,R,1/3/2003
+Windtalkers,134,Action; History; War,Roger Michell,John Rice; Joe Batteer,Nicolas Cage; Adam Beach; Peter Stormare,51,5.9,39176,115000000,40900000,R,6/14/2002
+Friday After Next,85,Comedy; Drama,Eli Roth,Ice Cube; DJ Pooh,Ice Cube; Mike Epps; John Witherspoon,35,5.4,11237,20000000,33000000,R,11/22/2002
+Collateral Damage,108,Action; Drama; Thriller,John Woo,Ronald Roose; David Griffiths,Arnold Schwarzenegger; John Leguizamo; Francesca Neri,33,5.3,41993,85000000,40000000,R,2/8/2002
+The Mothman Prophecies,119,Drama; Horror; Mystery,Jonas kerlund,Richard Hatem; John A. Keel,Richard Gere; Laura Linney; David Eigenberg,52,6.4,45786,32000000,35200000,PG-13,1/25/2002
+Spun,101,Comedy; Crime; Drama,Kaige Chen,Will De Los Santos; Creighton Vero,Jason Schwartzman; John Leguizamo; Patrick Fugit,41,6.6,24588,2800000,410241,NC-17,2/7/2003
+Undisputed,94,Action; Crime; Drama,Rob Minkoff,David Giler; Walter Hill,Wesley Snipes; Ving Rhames; Peter Falk,58,5.9,13187,20000000,12400000,R,8/23/2002
+Bubba Ho-Tep,92,Comedy; Drama; Fantasy,Kathryn Bigelow,Joe R. Lansdale; Don Coscarelli,Bruce Campbell; Ossie Davis; Ella Joyce,57,7.1,31089,1000000,2003420,R,2/27/2004
+Spirit: Stallion of the Cimarron,83,Animation; Adventure; Comedy,Mark Pellington,John Fusco,Matt Damon; James Cromwell; Daniel Studi,52,6.7,22421,80000000,73200000,G,5/24/2002
+K-19: The Widowmaker,138,Drama; History; Thriller,Kelly Asbury,Louis Nowra; Christopher Kyle,Harrison Ford; Sam Spruell; Peter Stebbings,58,6.5,35295,100000000,35200000,PG-13,7/19/2002
+One Hour Photo,96,Drama; Thriller,Walter Hill,Mark Romanek,Robin Williams; Connie Nielsen; Michael Vartan,64,6.8,70746,12000000,31600000,R,9/13/2002
+Enough,115,Drama; Thriller,Neil Marshall,Nicholas Kazan,Jennifer Lopez; Billy Campbell; Tessa Allen,25,5.2,19808,38000000,39200000,PG-13,5/24/2002
+The Tuxedo,98,Action; Comedy; Sci-Fi,Mark Romanek,Phil Hay; Matt Manfredi,Jackie Chan; Jennifer Love Hewitt; Jason Isaacs,30,5.1,39249,60000000,50200000,PG-13,9/27/2002
+Drumline,118,Comedy; Drama; Romance,Jay Russell,Shawn Schepps; Tina Gordon Chism,Nick Cannon; Zoe Saldana; Orlando Jones,63,5.4,22780,20000000,56400000,PG-13,12/13/2002
+Tuck Everlasting,90,Drama; Romance; Family,Carl Franklin,Natalie Babbitt; Jeffrey Lieber,Alexis Bledel; Jonathan Jackson; Sissy Spacek,66,6.5,12045,15000000,19200000,PG,10/11/2002
+High Crimes,115,Crime; Drama; Mystery,Barbet Schroeder,Joseph Finder; Yuri Zeltser,Jim Caviezel; Morgan Freeman; Ashley Judd,48,6.1,21237,42000000,41500000,PG-13,4/5/2002
+Crossroads,93,Adventure; Comedy; Drama,Don Coscarelli,Shonda Rhimes,Britney Spears; Anson Mount; Zoe Saldana,27,3,27521,12000000,37200000,PG-13,2/15/2002
+Boat Trip,94,Comedy,Miguel Arteta,Mort Nathan; William Bigelow,Cuba Gooding Jr.; Horatio Sanz; Roselyn Sanchez,18,4.6,20161,20000000,8586376,R,3/21/2003
+Dirty Pretty Things,97,Crime; Drama; Thriller,Denzel Washington,Steven Knight,Chiwetel Ejiofor; Audrey Tautou; Sophie Okonedo,78,7.4,25155,10000000,8111360,R,12/13/2002
+The Lord of the Rings: The Return of the King,201,Action; Adventure; Fantasy,Andrew Stanton,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Viggo Mortensen; Ian McKellen,94,8.9,676501,94000000,378000000,PG-13,12/17/2003
+Finding Nemo,100,Animation; Adventure; Comedy,Peter Jackson,Andrew Stanton; Andrew Stanton,Albert Brooks; Ellen DeGeneres; Alexander Gould,90,8.1,354321,94000000,41100000,G,5/30/2003
+Pirates of the Caribbean: The Curse of the Black Pearl,143,Action; Adventure; Fantasy,Gore Verbinski,Ted Elliott; Terry Rossio,Johnny Depp; Geoffrey Rush; Orlando Bloom,63,8,460004,140000000,305000000,PG-13,7/9/2003
+Big Fish,125,Adventure; Drama; Fantasy,Tim Burton,Daniel Wallace; John August,Ewan McGregor; Albert Finney; Billy Crudup,58,8,255378,70000000,66300000,PG-13,1/9/2004
+Kill Bill: Vol. 1,111,Action; Crime; Thriller,Quentin Tarantino,Quentin Tarantino; Quentin Tarantino,Uma Thurman; David Carradine; Daryl Hannah,69,8.2,421968,30000000,70100000,R,10/10/2003
+Oldeuboi,120,Drama; Mystery; Thriller,Chan-wook Park,Garon Tsuchiya; Nobuaki Minegishi,Min-sik Choi; Ji-tae Yu; Hye-jeong Kang,74,8.4,190469,3000000,707481,R,11/21/2003
+The Matrix Reloaded,138,Action; Sci-Fi,Andy Wachowski,Andy Wachowski; Lana Wachowski,Keanu Reeves; Laurence Fishburne; Carrie-Anne Moss,62,7.1,274559,150000000,281000000,R,5/15/2003
+Underworld,121,Action; Fantasy; Thriller,Clint Eastwood,Kevin Grevioux; Len Wiseman,Kate Beckinsale; Scott Speedman; Shane Brolly,42,6.9,136879,22000000,52000000,R,9/19/2003
+Old School,91,Comedy,Todd Phillips,Court Crandall; Todd Phillips,Luke Wilson; Vince Vaughn; Will Ferrell,54,7.1,129466,24000000,74600000,R,2/21/2003
+Mystic River,138,Crime; Drama; Mystery,Bryan Singer,Brian Helgeland; Dennis Lehane,Sean Penn; Tim Robbins; Kevin Bacon,84,8,226891,30000000,90100000,R,10/15/2003
+X2,133,Action; Adventure; Sci-Fi,Len Wiseman,Zak Penn; David Hayter,Patrick Stewart; Hugh Jackman; Halle Berry,68,7.6,227977,110000000,215000000,PG-13,5/2/2003
+The Italian Job,111,Action; Crime; Thriller,James Mangold,Troy Kennedy-Martin; Donna Powers,Donald Sutherland; Mark Wahlberg; Edward Norton,68,6.9,180083,60000000,106000000,PG-13,5/30/2003
+Lost in Translation,101,Drama,Andy Wachowski,Sofia Coppola,Bill Murray; Scarlett Johansson; Giovanni Ribisi,89,7.8,216084,4000000,44600000,R,10/3/2003
+Hulk,138,Action; Sci-Fi,F. Gary Gray,Stan Lee; Jack Kirby,Eric Bana; Jennifer Connelly; Sam Elliott,54,5.7,131744,137000000,132000000,PG-13,6/20/2003
+Identity,90,Mystery; Thriller,Edward Zwick,Michael Cooney,John Cusack; Ray Liotta; Amanda Peet,64,7.2,113699,30000000,51500000,R,4/25/2003
+2 Fast 2 Furious,107,Action; Crime; Thriller,Ang Lee,Gary Scott Thompson; Michael Brandt,Paul Walker; Tyrese Gibson; Cole Hauser,38,5.4,95758,76000000,127000000,PG-13,6/6/2003
+The Matrix Revolutions,129,Action; Adventure; Sci-Fi,Richard Linklater,Andy Wachowski; Lana Wachowski,Keanu Reeves; Laurence Fishburne; Carrie-Anne Moss,47,6.6,235992,110000000,139000000,R,11/5/2003
+How to Lose a Guy in 10 Days,116,Comedy; Romance,Jesse Dylan,Michele Alexander; Jeannie Long,Kate Hudson; Matthew McConaughey; Adam Goldberg,45,6.2,85027,50000000,106000000,PG-13,2/7/2003
+Peter Pan,113,Adventure; Family; Fantasy,Bernardo Bertolucci,J.M. Barrie; P.J. Hogan,Jeremy Sumpter; Jason Isaacs; Olivia Williams,64,6.8,33831,100000000,48400000,PG,12/25/2003
+The League of Extraordinary Gentlemen,110,Action; Adventure; Fantasy,Jonathan Mostow,Alan Moore; Kevin O'Neill,Sean Connery; Stuart Townsend; Peta Wilson,30,5.6,89651,78000000,66500000,PG-13,7/11/2003
+Master and Commander: The Far Side of the World,138,Action; Adventure; Drama,P.J. Hogan,Patrick O'Brian; Peter Weir,Russell Crowe; Paul Bettany; Billy Boyd,81,7.4,118078,150000000,93900000,PG-13,11/14/2003
+The Last Samurai,154,Action; Adventure; Drama,Tom Shadyac,John Logan; John Logan,Tom Cruise; Ken Watanabe; Billy Connolly,55,7.7,201848,140000000,111000000,R,12/5/2003
+The School of Rock,108,Comedy; Music,Robert Rodriguez,Mike White,Jack Black; Mike White; Joan Cusack,82,7,125449,35000000,81300000,PG-13,10/3/2003
+Terminator 3: Rise of the Machines,109,Action; Sci-Fi; Thriller,John Singleton,James Cameron; Gale Anne Hurd,Arnold Schwarzenegger; Nick Stahl; Kristanna Loken,66,6.4,191263,200000000,150000000,R,7/2/2003
+Freaky Friday,97,Comedy; Family; Fantasy,Catherine Hardwicke,Mary Rodgers; Heather Hach,Jamie Lee Curtis; Lindsay Lohan; Mark Harmon,70,6.1,59463,26000000,110000000,PG,8/6/2003
+Thirteen,100,Biography; Drama,Donald Petrie,Catherine Hardwicke; Nikki Reed,Evan Rachel Wood; Holly Hunter; Nikki Reed,70,6.9,48851,1500000,4599680,R,11/7/2003
+Elf,97,Comedy; Family; Fantasy,Peter Weir,David Berenbaum,Will Ferrell; James Caan; Bob Newhart,64,6.8,86550,33000000,173000000,PG,11/7/2003
+Bruce Almighty,101,Comedy; Drama; Fantasy,Jan de Bont,Steve Koren; Mark O'Keefe,Jim Carrey; Jennifer Aniston; Morgan Freeman,46,6.6,179729,81000000,243000000,PG-13,5/23/2003
+Bad Boys II,147,Action; Comedy; Crime,Jon Favreau,George Gallo; Marianne Wibberley,Will Smith; Martin Lawrence; Gabrielle Union,38,6.3,113609,130000000,138000000,R,7/18/2003
+Scary Movie 3,84,Comedy,Peter Segal,Craig Mazin; Pat Proft,Anna Faris; Charlie Sheen; Regina Hall,49,5.3,74566,45000000,110000000,PG-13,10/24/2003
+American Wedding,96,Comedy; Romance,Michael Bay,Adam Herz; Adam Herz,Jason Biggs; Alyson Hannigan; Seann William Scott,43,6.1,108041,55000000,105000000,R,8/1/2003
+Holes,117,Adventure; Comedy; Drama,Mark Steven Johnson,Louis Sachar; Louis Sachar,Shia LaBeouf; Sigourney Weaver; Jon Voight,71,7,33985,20000000,67400000,PG,4/18/2003
+Anger Management,106,Comedy,Stephen Norrington,David Dorfman,Jack Nicholson; Adam Sandler; Marisa Tomei,52,6.1,118828,75000000,134000000,PG-13,4/11/2003
+Monster,109,Biography; Crime; Drama,David Zucker,Patty Jenkins,Charlize Theron; Christina Ricci; Bruce Dern,74,7.3,69951,8000000,34500000,R,1/30/2004
+Final Destination 2,90,Horror; Mystery,Andrew Davis,J. Mackye Gruber; Eric Bress,A.J. Cook; Ali Larter; Tony Todd,38,6.2,77966,26000000,46500000,R,1/31/2003
+21 Grams,124,Crime; Drama; Thriller,Rob Schmidt,Guillermo Arriaga,Sean Penn; Benicio Del Toro; Naomi Watts,70,7.7,132375,20000000,16200000,R,11/19/2003
+Cheaper by the Dozen,98,Comedy; Family,Peter Berg,Frank B. Gilbreth Jr.; Ernestine Gilbreth Carey,Steve Martin; Bonnie Hunt; Hilary Duff,46,5.7,47344,40000000,139000000,PG,12/25/2003
+Wrong Turn,84,Horror; Thriller,Alejandro Gonzlez Irritu,Alan B. McElroy,Eliza Dushku; Jeremy Sisto; Emmanuelle Chriqui,32,6,55703,10000000,15400000,R,5/30/2003
+The Rundown,104,Action; Adventure; Comedy,Richard Donner,R.J. Stewart; R.J. Stewart,Dwayne Johnson; Seann William Scott; Christopher Walken,59,6.6,56177,85000000,47600000,PG-13,9/26/2003
+Cold Mountain,154,Drama; Romance; War,Shawn Levy,Charles Frazier; Anthony Minghella,Jude Law; Nicole Kidman; Rene Zellweger,73,7.2,84640,83000000,95600000,R,12/25/2003
+Paycheck,119,Sci-Fi; Thriller; Action,Marcus Nispel,Philip K. Dick; Dean Georgaris,Ben Affleck; Aaron Eckhart; Uma Thurman,43,6.1,64917,60000000,53800000,PG-13,12/25/2003
+The Texas Chainsaw Massacre,98,Horror,John Woo,Kim Henkel; Tobe Hooper,Jessica Biel; Jonathan Tucker; Andrew Bryniarski,38,6.1,73925,9200000,80100000,R,10/17/2003
+Once Upon a Time in Mexico,102,Action; Thriller,Roger Donaldson,Robert Rodriguez,Antonio Banderas; Salma Hayek; Johnny Depp,56,6.3,91560,29000000,55800000,R,9/12/2003
+Daredevil,103,Action; Crime; Fantasy,Antoine Fuqua,Mark Steven Johnson,Ben Affleck; Jennifer Garner; Colin Farrell,42,5.4,110397,78000000,103000000,PG-13,2/14/2003
+S.W.A.T.,117,Action; Crime; Thriller,Rob Zombie,Robert Hamner; Ron Mita,Samuel L. Jackson; Colin Farrell; Michelle Rodriguez,45,5.9,84345,80000000,117000000,PG-13,8/8/2003
+Tears of the Sun,121,Action; Drama; Thriller,Aaron Blaise,Alex Lasker; Patrick Cirillo,Bruce Willis; Cole Hauser; Monica Bellucci,48,6.5,62317,70000000,43400000,R,3/7/2003
+Out of Time,105,Crime; Drama; Thriller,Peter Howitt,David Collard,Denzel Washington; Sanaa Lathan; Eva Mendes,63,6.4,32079,50000000,40900000,R,10/3/2003
+Secondhand Lions,109,Comedy; Drama; Family,Nancy Meyers,Tim McCanlies,Haley Joel Osment; Michael Caine; Robert Duvall,52,7.5,30165,30000000,41400000,PG,9/19/2003
+Timeline,116,Action; Adventure; Sci-Fi,Joon-ho Bong,Michael Crichton; Jeff Maguire,Paul Walker; Gerard Butler; Billy Connolly,28,5.4,38328,80000000,19500000,PG-13,11/26/2003
+Lara Croft Tomb Raider: The Cradle of Life,117,Action; Adventure; Fantasy,Mark Waters,Dean Georgaris; Steven E. de Souza,Angelina Jolie; Gerard Butler; Chris Barrie,43,5.3,65448,95000000,65700000,PG-13,7/25/2003
+House of 1000 Corpses,89,Horror,Jee-woon Kim,Rob Zombie,Sid Haig; Karen Black; Bill Moseley,31,5.8,42055,7000000,12600000,R,4/11/2003
+Open Range,139,Action; Romance; Western,Tim McCanlies,Lauran Paine; Craig Storper,Kevin Costner; Robert Duvall; Diego Luna,67,7.4,38897,26000000,58300000,R,8/15/2003
+Johnny English,87,Action; Adventure; Comedy,Steve Carr,Neal Purvis; Robert Wade,Rowan Atkinson; John Malkovich; Natalie Imbruglia,51,5.9,73455,35000000,28000000,PG,7/18/2003
+Gothika,98,Thriller,Yann Samuell,Sebastian Gutierrez,Halle Berry; Penlope Cruz; Robert Downey Jr.,38,5.7,62485,40000000,59600000,R,11/21/2003
+Charlie's Angels: Full Throttle,106,Action; Adventure; Comedy,Alan Parker,Ivan Goff; Ben Roberts,Drew Barrymore; Lucy Liu; Cameron Diaz,48,4.7,73007,120000000,101000000,PG-13,6/27/2003
+The Core,135,Action; Adventure; Sci-Fi,David R. Ellis,Cooper Layne; John Rogers,Aaron Eckhart; Hilary Swank; Delroy Lindo,48,5.3,53398,60000000,31100000,PG-13,3/28/2003
+Honey,94,Drama; Music; Romance,Mike Newell,Alonzo Brown; Kim Watson,Jessica Alba; Mekhi Phifer; Romeo Miller,37,4.9,25142,25000000,30200000,PG-13,12/5/2003
+The Life of David Gale,130,Drama; Crime; Thriller,Mathieu Kassovitz,Charles Randolph,Kevin Spacey; Kate Winslet; Laura Linney,31,7.4,59421,50000000,19600000,R,2/21/2003
+A Man Apart,109,Action; Crime; Drama,Terry Zwigoff,Christian Gudegast; Paul Scheuring,Vin Diesel; Timothy Olyphant; Larenz Tate,36,5.9,27255,36000000,26200000,R,4/4/2003
+Mona Lisa Smile,117,Drama,Ronny Yu,Lawrence Konner; Mark Rosenthal,Julia Roberts; Kirsten Dunst; Julia Stiles,45,6.2,42396,65000000,63700000,PG-13,12/19/2003
+Under the Tuscan Sun,113,Comedy; Drama; Romance,Gary Fleder,Frances Mayes; Audrey Wells,Diane Lane; Raoul Bova; Sandra Oh,52,6.6,23232,18000000,43600000,PG-13,9/26/2003
+What a Girl Wants,105,Comedy; Drama; Romance,Wolfgang Becker,William Douglas-Home; William Douglas-Home,Amanda Bynes; Colin Firth; Kelly Preston,41,5.7,28073,20000000,36000000,PG,4/4/2003
+Freddy vs. Jason,97,Action; Crime; Horror,Dennie Gordon,Wes Craven; Victor Miller,Robert Englund; Ken Kirzinger; Kelly Rowland,37,5.7,62618,25000000,82200000,R,8/15/2003
+Gigli,121,Comedy; Crime; Romance,David Dobkin,Martin Brest,Ben Affleck; Jennifer Lopez; Justin Bartha,18,2.4,34919,54000000,6068735,R,8/1/2003
+Bad Santa,91,Comedy; Crime,F. Gary Gray,Glenn Ficarra; John Requa,Billy Bob Thornton; Bernie Mac; Lauren Graham,70,7.1,74216,18000000,60100000,R,11/26/2003
+Runaway Jury,127,Drama; Thriller,Bo Welch,John Grisham; Brian Koppelman,John Cusack; Rachel Weisz; Gene Hackman,61,7,56949,60000000,49400000,PG-13,10/17/2003
+Dr. Seuss' The Cat in the Hat,82,Adventure; Comedy; Family,Kevin Costner,Dr. Seuss; Alec Berg,Mike Myers; Spencer Breslin; Dakota Fanning,19,3.6,24719,109000000,100000000,PG,11/21/2003
+Dreamcatcher,134,Drama; Horror; Sci-Fi,Adam Shankman,Stephen King; William Goldman,Morgan Freeman; Thomas Jane; Jason Lee,35,5.4,54478,68000000,33700000,R,3/21/2003
+Bulletproof Monk,104,Action; Comedy; Fantasy,John Whitesell,Ethan Reiff; Cyrus Voris,Yun-Fat Chow; Seann William Scott; Jaime King,40,5.3,30907,52000000,23000000,PG-13,4/16/2003
+Basic,98,Action; Mystery; Thriller,Charles Herman-Wurmfeld,James Vanderbilt,John Travolta; Samuel L. Jackson; Connie Nielsen,34,6.4,37173,50000000,26500000,R,3/28/2003
+The Station Agent,89,Comedy; Drama,Peter Webber,Thomas McCarthy,Peter Dinklage; Patricia Clarkson; Bobby Cannavale,81,7.7,37114,500000,5739376,R,12/5/2003
+Shanghai Knights,114,Action; Adventure; Comedy,Paul Hunter,Alfred Gough; Miles Millar,Jackie Chan; Owen Wilson; Fann Wong,58,6.1,51111,50000000,60500000,PG-13,2/7/2003
+Spy Kids 3-D: Game Over,84,Action; Adventure; Comedy,Bille Woodruff,Robert Rodriguez,Daryl Sabara; Alexa Vega; Antonio Banderas,57,4,24178,39000000,112000000,PG,7/25/2003
+Daddy Day Care,92,Comedy; Family,Joel Coen,Geoff Rodkey,Eddie Murphy; Jeff Garlin; Anjelica Huston,39,5.4,30651,60000000,104000000,PG,5/9/2003
+Intolerable Cruelty,100,Comedy; Crime; Romance,Robert Rodriguez,Robert Ramsey; Matthew Stone,George Clooney; Catherine Zeta-Jones; Billy Bob Thornton,71,6.3,54629,60000000,35300000,PG-13,10/10/2003
+Stuck on You,118,Comedy,Carl Franklin,Charles B. Wessler; Bennett Yellin,Matt Damon; Greg Kinnear; Eva Mendes,62,5.8,33466,55000000,33800000,PG-13,12/12/2003
+Elephant,81,Crime; Drama; Thriller,John McTiernan,Gus Van Sant,Elias McConnell; Alex Frost; Eric Deulen,70,7.2,52402,3000000,1227000,R,10/3/2003
+The Lizzie McGuire Movie,94,Adventure; Comedy; Family,Thomas McCarthy,Susan Estelle Jansen; Ed Decter,Hilary Duff; Adam Lamberg; Clayton Snyder,56,4.9,16570,17000000,42700000,PG,5/2/2003
+"Legally Blonde 2: Red, White &amp; Blonde",95,Comedy,Gary Ross,Amanda Brown; Eve Ahlert,Reese Witherspoon; Sally Field; Bob Newhart,47,4.3,28980,45000000,89800000,PG-13,7/2/2003
+Just Married,95,Comedy; Romance,Shawn Levy,Sam Harper,Ashton Kutcher; Brittany Murphy; Christian Kane,28,5.3,39292,18000000,56100000,PG-13,1/10/2003
+Seabiscuit,140,Drama; History; Sport,Peyton Reed,Laura Hillenbrand; Gary Ross,Tobey Maguire; Jeff Bridges; Elizabeth Banks,72,7.3,43938,87000000,120000000,PG-13,7/25/2003
+Bringing Down the House,105,Comedy,Isabel Coixet,Jason Filardi,Steve Martin; Queen Latifah; Eugene Levy,39,5.4,23069,33000000,133000000,PG-13,3/7/2003
+House of Sand and Fog,126,Drama,Jim Fall,Andre Dubus III; Vadim Perelman,Jennifer Connelly; Ben Kingsley; Ron Eldard,71,7.6,44273,15000000,13000000,R,12/26/2003
+The Passion of the Christ,127,Drama,Nick Cassavetes,Benedict Fitzgerald; Mel Gibson,Jim Caviezel; Monica Bellucci; Maia Morgenstern,47,7,134093,30000000,371000000,R,2/25/2004
+The Notebook,123,Drama; Romance,Mark Waters,Jeremy Leven; Jan Sardi,Gena Rowlands; James Garner; Rachel McAdams,53,7.9,224712,29000000,81000000,PG-13,6/25/2004
+Mean Girls,97,Comedy,Adam McKay,Rosalind Wiseman; Tina Fey,Lindsay Lohan; Jonathan Bennett; Rachel McAdams,66,6.9,134102,17000000,86000000,PG-13,4/30/2004
+The Incredibles,115,Animation; Action; Adventure,Wolfgang Petersen,Brad Bird,Craig T. Nelson; Samuel L. Jackson; Holly Hunter,90,8,284442,92000000,261000000,PG,11/5/2004
+Troy,163,Adventure; Drama; History,Luke Greenfield,Homer; David Benioff,Brad Pitt; Eric Bana; Orlando Bloom,56,7.1,229745,175000000,133000000,R,5/14/2004
+Eternal Sunshine of the Spotless Mind,108,Drama; Romance; Sci-Fi,Brad Bird,Charlie Kaufman; Michel Gondry,Jim Carrey; Kate Winslet; Tom Wilkinson,89,8.4,391485,20000000,34100000,R,3/19/2004
+Harry Potter and the Prisoner of Azkaban,141,Adventure; Family; Fantasy,Jared Hess,J.K. Rowling; Steve Kloves,Daniel Radcliffe; Emma Watson; Rupert Grint,82,7.7,226227,130000000,249000000,PG,6/4/2004
+Napoleon Dynamite,82,Comedy,Alfonso Cuarn,Jared Hess; Jerusha Hess,Jon Heder; Efren Ramirez; Jon Gries,64,6.8,113168,400000,44500000,PG,8/27/2004
+Anchorman: The Legend of Ron Burgundy,94,Comedy,Keenen Ivory Wayans,Will Ferrell; Adam McKay,Will Ferrell; Christina Applegate; Steve Carell,63,7.2,149471,26000000,84100000,PG-13,7/9/2004
+Crash,112,Drama,Alex Proyas,Paul Haggis; Paul Haggis,Don Cheadle; Sandra Bullock; Thandie Newton,69,7.9,264778,6500000,54600000,R,5/6/2005
+The Chronicles of Riddick,119,Action; Adventure; Sci-Fi,Mel Gibson,Jim Wheat; Ken Wheat,Vin Diesel; Judi Dench; Colm Feore,38,6.6,116103,105000000,57800000,PG-13,6/11/2004
+The Aviator,170,Biography; Drama,Brad Anderson,John Logan,Leonardo DiCaprio; Cate Blanchett; Kate Beckinsale,77,7.5,162378,110000000,103000000,PG-13,12/25/2004
+Kill Bill: Vol. 2,137,Action; Crime; Thriller,Edgar Wright,Quentin Tarantino; Quentin Tarantino,Uma Thurman; David Carradine; Michael Madsen,83,8,325956,30000000,66200000,R,4/16/2004
+The Machinist,101,Drama; Thriller,Eric Bress,Scott Kosar,Christian Bale; Jennifer Jason Leigh; Aitana Snchez-Gijn,61,7.7,166829,5000000,1082715,R,12/17/2004
+The Bourne Supremacy,108,Action; Crime; Thriller,Paul Greengrass,Robert Ludlum; Tony Gilroy,Matt Damon; Franka Potente; Joan Allen,73,7.7,210119,75000000,176000000,PG-13,7/23/2004
+Million Dollar Baby,132,Drama; Sport,Oliver Hirschbiegel,Paul Haggis; F.X. Toole,Hilary Swank; Clint Eastwood; Morgan Freeman,86,8.1,269474,30000000,100000000,PG-13,1/28/2005
+The Day After Tomorrow,124,Action; Adventure; Drama,Roland Emmerich,Roland Emmerich; Roland Emmerich,Dennis Quaid; Jake Gyllenhaal; Emmy Rossum,47,6.3,198761,125000000,187000000,PG-13,5/28/2004
+"I, Robot",115,Action; Mystery; Sci-Fi,Sam Raimi,Jeff Vintar; Akiva Goldsman,Will Smith; Bridget Moynahan; Bruce Greenwood,59,7,220828,120000000,145000000,PG-13,7/16/2004
+The Butterfly Effect,113,Sci-Fi; Thriller,Clint Eastwood,J. Mackye Gruber; Eric Bress,Ashton Kutcher; Amy Smart; Melora Walters,30,7.7,220020,13000000,57700000,R,1/23/2004
+Spider-Man 2,127,Action; Adventure; Fantasy,Jon Turteltaub,Stan Lee; Steve Ditko,Tobey Maguire; Kirsten Dunst; Alfred Molina,83,7.4,234058,200000000,374000000,PG-13,6/30/2004
+Collateral,120,Crime; Drama; Thriller,David Twohy,Stuart Beattie,Tom Cruise; Jamie Foxx; Jada Pinkett Smith,71,7.6,198016,65000000,100000000,R,8/6/2004
+Dawn of the Dead,101,Action; Horror; Sci-Fi,Joel Schumacher,George A. Romero; James Gunn,Sarah Polley; Ving Rhames; Mekhi Phifer,58,7.4,129143,28000000,58900000,R,3/19/2004
+EuroTrip,93,Adventure; Comedy,Michael Mann,Alec Berg; David Mandel,Scott Mechlowicz; Jacob Pitts; Michelle Trachtenberg,45,6.5,107827,25000000,17700000,R,2/20/2004
+National Treasure,131,Action; Adventure; Mystery,Rawson Marshall Thurber,Jim Kouf; Cormac Wibberley,Nicolas Cage; Diane Kruger; Justin Bartha,39,6.8,164133,100000000,173000000,PG,11/19/2004
+Saw,103,Crime; Horror; Mystery,Peter Segal,Leigh Whannell; James Wan,Cary Elwes; Leigh Whannell; Danny Glover,46,7.7,191648,1200000,55200000,NC-17,10/29/2004
+Man on Fire,146,Action; Drama; Thriller,Kevin Bray,A.J. Quinnell; Brian Helgeland,Denzel Washington; Christopher Walken; Dakota Fanning,47,7.7,167162,70000000,77900000,R,4/23/2004
+Dodgeball: A True Underdog Story,92,Comedy; Sport,James Wan,Rawson Marshall Thurber,Ben Stiller; Christine Taylor; Vince Vaughn,55,6.6,113556,20000000,114000000,PG-13,6/18/2004
+50 First Dates,99,Comedy; Romance,Gary Winick,George Wing,Adam Sandler; Drew Barrymore; Rob Schneider,48,6.7,163578,75000000,121000000,PG-13,2/13/2004
+Shrek 2,93,Animation; Adventure; Comedy,Martin Scorsese,William Steig; Andrew Adamson,Mike Myers; Eddie Murphy; Cameron Diaz,75,7.3,187286,150000000,436000000,PG,5/19/2004
+Garden State,102,Comedy; Drama; Romance,Steven Soderbergh,Zach Braff,Zach Braff; Natalie Portman; Peter Sarsgaard,67,7.6,143670,2500000,26800000,R,9/22/2004
+Ocean's Twelve,125,Crime; Thriller,Antoine Fuqua,George Nolfi; George Clayton Johnson,George Clooney; Brad Pitt; Julia Roberts,58,6.3,174236,110000000,126000000,PG-13,12/10/2004
+Lemony Snicket's A Series of Unfortunate Events,108,Adventure; Comedy; Family,Zach Braff,Robert Gordon; Daniel Handler,Jim Carrey; Jude Law; Meryl Streep,62,6.8,102539,140000000,119000000,PG,12/17/2004
+Van Helsing,131,Action; Adventure; Fantasy,Marc Forster,Stephen Sommers,Hugh Jackman; Kate Beckinsale; Richard Roxburgh,35,5.8,120034,160000000,120000000,PG-13,5/7/2004
+The Phantom of the Opera,143,Drama; Musical; Romance,Mike Nichols,Gaston Leroux; Andrew Lloyd Webber,Gerard Butler; Emmy Rossum; Patrick Wilson,40,7.2,67930,70000000,51200000,PG-13,1/21/2005
+13 Going on 30,98,Comedy; Fantasy; Romance,Steven Spielberg,Josh Goldsmith; Cathy Yuspa,Jennifer Garner; Mark Ruffalo; Judy Greer,57,6,68899,37000000,56000000,PG-13,4/23/2004
+The Punisher,124,Action; Crime; Drama,Andrew Adamson,Jonathan Hensleigh; Michael France,Thomas Jane; John Travolta; Samantha Mathis,33,6.3,85699,33000000,33700000,R,4/16/2004
+Alexander,175,Action; Adventure; Biography,Hayao Miyazaki,Oliver Stone; Christopher Kyle,Colin Farrell; Anthony Hopkins; Rosario Dawson,39,5.4,97832,155000000,34300000,R,11/24/2004
+The Terminal,128,Comedy; Drama,Stephen Sommers,Andrew Niccol; Sacha Gervasi,Tom Hanks; Catherine Zeta-Jones; Chi McBride,55,7.2,176056,60000000,77000000,PG-13,6/18/2004
+Closer,104,Drama; Romance,Kevin Smith,Patrick Marber; Patrick Marber,Natalie Portman; Jude Law; Clive Owen,65,7.3,122144,27000000,34000000,R,12/3/2004
+Hellboy,122,Action; Adventure; Fantasy,Terry George,Guillermo del Toro; Guillermo del Toro,Ron Perlman; Doug Jones; Selma Blair,72,6.8,153082,66000000,59000000,PG-13,4/2/2004
+A Cinderella Story,95,Comedy; Family; Romance,Zack Snyder,Leigh Dunlap,Hilary Duff; Chad Michael Murray; Jennifer Coolidge,25,5.6,34857,20000000,51400000,PG,7/16/2004
+Hotel Rwanda,121,Biography; Drama; History,Danny Leiner,Keir Pearson; Terry George,Don Cheadle; Sophie Okonedo; Joaquin Phoenix,79,8.2,162012,17500000,23500000,PG-13,2/4/2005
+Team America: World Police,98,Action; Adventure; Comedy,Alexander Witt,Trey Parker; Matt Stone,Trey Parker; Matt Stone; Elle Russ,64,7.1,95786,30000000,32800000,R,10/15/2004
+King Arthur,126,Action; Adventure; Drama,Matthew Vaughn,David Franzoni,Clive Owen; Stephen Dillane; Keira Knightley,46,6.2,90402,120000000,51900000,PG-13,7/7/2004
+Shark Tale,90,Animation; Adventure; Comedy,Jay Roach,Michael J. Wilson; Rob Letterman,Will Smith; Robert De Niro; Rene Zellweger,48,5.9,82070,75000000,161000000,PG,10/1/2004
+Resident Evil: Apocalypse,94,Action; Horror; Sci-Fi,Jonathan Hensleigh,Paul W.S. Anderson,Milla Jovovich; Sienna Guillory; Eric Mabius,35,6,103432,45000000,51200000,R,9/10/2004
+Before Sunset,80,Drama; Romance,D.J. Caruso,Richard Linklater; Julie Delpy,Ethan Hawke; Julie Delpy; Vernon Dobtcheff,90,8,83494,10000000,5792822,R,6/17/2004
+Harold &amp; Kumar Go to White Castle,88,Adventure; Comedy,Mark Rosman,Jon Hurwitz; Hayden Schlossberg,John Cho; Kal Penn; Ethan Embry,64,7.1,108693,9000000,18200000,R,7/30/2004
+Friday Night Lights,118,Action; Drama; Sport,Peter Berg,Buzz Bissinger; David Aaron Cohen,Billy Bob Thornton; Jay Hernandez; Derek Luke,70,7.1,31113,30000000,61200000,PG-13,10/8/2004
+Meet the Fockers,115,Comedy; Romance,David S. Goyer,Greg Glienna; Mary Ruth Clarke,Ben Stiller; Robert De Niro; Blythe Danner,41,6.3,139713,80000000,279000000,PG-13,12/22/2004
+Blade: Trinity,113,Action; Adventure; Fantasy,Richard Linklater,David S. Goyer; Marv Wolfman,Wesley Snipes; Kris Kristofferson; Parker Posey,38,5.8,82520,65000000,52400000,R,12/8/2004
+Finding Neverland,106,Biography; Drama; Family,Stephen Chow,Allan Knee; David Magee,Johnny Depp; Kate Winslet; Julie Christie,67,7.8,131513,25000000,51700000,PG,11/24/2004
+Walking Tall,86,Action; Crime,Oliver Stone,Mort Briskin; David Klass,Dwayne Johnson; Ashley Scott; Johnny Knoxville,44,6,34066,56000000,45900000,PG-13,4/2/2004
+Primer,77,Drama; Thriller; Sci-Fi,Robert Zemeckis,Shane Carruth,Shane Carruth; David Sullivan; Casey Gooden,68,6.9,36011,7000,424760,PG-13,5/27/2005
+The Polar Express,100,Animation; Adventure; Family,Shane Carruth,Chris Van Allsburg; Robert Zemeckis,Tom Hanks; Chris Coppola; Michael Jeter,61,6.5,66573,165000000,451442,,11/10/2004
+The Village,108,Drama; Mystery; Thriller,Bibo Bergeron,M. Night Shyamalan,Sigourney Weaver; William Hurt; Joaquin Phoenix,44,6.5,135647,60000000,114000000,PG-13,7/30/2004
+Secret Window,96,Mystery; Thriller,M. Night Shyamalan,Stephen King; David Koepp,Johnny Depp; Maria Bello; John Turturro,46,6.5,96343,40000000,47800000,PG-13,3/12/2004
+Jersey Girl,102,Comedy; Drama; Romance,Paul W.S. Anderson,Kevin Smith,Ben Affleck; Liv Tyler; Raquel Castro,43,6.1,39815,35000000,25300000,PG-13,3/26/2004
+Sideways,126,Comedy; Drama; Romance,Alexander Payne,Rex Pickett; Alexander Payne,Paul Giamatti; Thomas Haden Church; Virginia Madsen,94,7.6,108335,12000000,71500000,R,1/21/2005
+Taking Lives,103,Mystery; Thriller,Trey Parker,Michael Pye; Jon Bokenkamp,Angelina Jolie; Ethan Hawke; Kiefer Sutherland,38,6,45370,45000000,32700000,R,3/19/2004
+AVP: Alien vs. Predator,101,Action; Adventure; Sci-Fi,Takashi Shimizu,Dan O'Bannon; Ronald Shusett,Sanaa Lathan; Lance Henriksen; Raoul Bova,29,5.5,97240,60000000,80300000,PG-13,8/13/2004
+The Grudge,92,Horror; Mystery,John Hamburg,Stephen Susco; Takashi Shimizu,Sarah Michelle Gellar; Jason Behr; Clea DuVall,49,5.8,74062,10000000,110000000,PG-13,10/22/2004
+Ray,152,Biography; Drama; Music,Gavin O'Connor,Taylor Hackford; James L. White,Jamie Foxx; Regina King; Kerry Washington,73,7.7,72555,40000000,75300000,PG-13,10/29/2004
+Along Came Polly,90,Comedy; Romance,Taylor Hackford,John Hamburg,Ben Stiller; Jennifer Aniston; Debra Messing,44,5.8,74480,42000000,87900000,PG-13,1/16/2004
+Kung Fu Hustle,99,Action; Comedy; Crime,Jonathan Demme,Man Keung Chan; Stephen Chow,Stephen Chow; Wah Yuen; Qiu Yuen,78,7.7,67851,20000000,17100000,R,4/22/2005
+The Life Aquatic with Steve Zissou,119,Adventure; Comedy; Drama,Michael Winterbottom,Wes Anderson; Noah Baumbach,Bill Murray; Owen Wilson; Anjelica Huston,62,7.2,87370,50000000,24000000,R,12/25/2004
+The Manchurian Candidate,129,Drama; Mystery; Thriller,Fatih Akin,Richard Condon; George Axelrod,Denzel Washington; Liev Schreiber; Meryl Streep,76,6.6,63029,80000000,65900000,R,7/30/2004
+Wicker Park,114,Drama; Mystery; Romance,Raja Gosnell,Gilles Mimouni; Brandon Boyce,Josh Hartnett; Diane Kruger; Matthew Lillard,40,6.8,32274,30000000,12800000,PG-13,9/3/2004
+Around the World in 80 Days,120,Action; Adventure; Comedy,Gil Junger,Jules Verne; David N. Titcher,Jackie Chan; Steve Coogan; Jim Broadbent,49,5.7,44003,110000000,24000000,PG,6/16/2004
+Catwoman,104,Action; Fantasy,Gregg Araki,Bob Kane; Theresa Rebeck,Halle Berry; Sharon Stone; Benjamin Bratt,27,3.2,59312,100000000,40200000,PG-13,7/23/2004
+Starsky &amp; Hutch,101,Comedy; Crime,Chris Stokes,William Blinn; Stevie Long,Ben Stiller; Owen Wilson; Snoop Dogg,55,6,85930,60000000,88200000,PG-13,3/5/2004
+Sky Captain and the World of Tomorrow,106,Action; Adventure; Mystery,David R. Ellis,Kerry Conran,Gwyneth Paltrow; Jude Law; Angelina Jolie,64,6.1,57397,40000000,37800000,PG,9/17/2004
+Ella Enchanted,96,Comedy; Family; Fantasy,Andy Cadiff,Laurie Craig; Karen McCullah Lutz,Anne Hathaway; Hugh Dancy; Cary Elwes,53,6.2,26014,35000000,22900000,PG,4/9/2004
+Chasing Liberty,111,Comedy; Romance,Tommy O'Haver,Derek Guiley; David Schneiderman,Mandy Moore; Matthew Goode; Mark Harmon,46,5.8,18108,23000000,12200000,PG-13,1/9/2004
+The SpongeBob SquarePants Movie,87,Animation; Comedy; Family,James L. Brooks,Stephen Hillenburg; Stephen Hillenburg,Jeffrey Tambor; Rodger Bumpass; Carolyn Lawrence,66,6.8,33466,30000000,85400000,PG,11/19/2004
+Cellular,94,Action; Crime; Drama,Kerry Conran,Larry Cohen; Chris Morgan,Kim Basinger; Chris Evans; Jason Statham,60,6.5,56797,25000000,32000000,PG-13,9/10/2004
+Mindhunters,106,Crime; Mystery; Thriller,Todd Phillips,Wayne Kramer; Wayne Kramer,Val Kilmer; LL Cool J; Christian Slater,33,6.3,36181,27000000,4480744,R,5/13/2005
+Spanglish,131,Comedy; Drama; Romance,Renny Harlin,James L. Brooks,Adam Sandler; Ta Leoni; Paz Vega,48,6.5,47957,80000000,42000000,PG-13,12/17/2004
+2046,129,Drama; Fantasy; Romance,Joe Nussbaum,Kar Wai Wong,Tony Leung Chiu Wai; Ziyi Zhang; Faye Wong,78,7.4,30260,12000000,261481,R,9/29/2004
+Sleepover,89,Comedy,Alejandro Amenbar,Elisa Bell,Alexa Vega; Mika Boorem; Scout Taylor-Compton,33,4.8,8317,10000000,9436390,PG,7/9/2004
+The Princess Diaries 2: Royal Engagement,113,Comedy; Drama; Family,Pierre Morel,Meg Cabot; Gina Wendkos,Anne Hathaway; Callum Blue; Julie Andrews,43,5.3,27003,40000000,95100000,G,8/11/2004
+A Very Long Engagement,133,Drama; Mystery; Romance,Jean-Pierre Jeunet,Sbastien Japrisot; Jean-Pierre Jeunet,Audrey Tautou; Gaspard Ulliel; Jodie Foster,76,7.7,46900,47000000,6167817,R,10/27/2004
+Hidalgo,136,Action; Adventure; Western,David O. Russell,John Fusco,Viggo Mortensen; Omar Sharif; Zuleikha Robinson,54,6.6,48176,100000000,67300000,PG-13,3/5/2004
+After the Sunset,97,Action; Comedy; Crime,Brian Dannelly,Paul Zbyszewski; Paul Zbyszewski,Pierce Brosnan; Salma Hayek; Woody Harrelson,38,6.2,28676,58000000,28300000,PG-13,11/12/2004
+Batman Begins,140,Action; Adventure; Crime,Christopher Nolan,Bob Kane; David S. Goyer,Christian Bale; Michael Caine; Ken Watanabe,70,8.3,537949,150000000,207000000,PG-13,6/15/2005
+Star Wars: Episode III - Revenge of the Sith,140,Action; Adventure; Fantasy,James McTeigue,George Lucas,Hayden Christensen; Natalie Portman; Ewan McGregor,68,7.7,299385,113000000,380000000,PG-13,5/19/2005
+Harry Potter and the Goblet of Fire,157,Adventure; Family; Fantasy,George Lucas,Steve Kloves; J.K. Rowling,Daniel Radcliffe; Emma Watson; Rupert Grint,81,7.5,228893,150000000,290000000,PG-13,11/18/2005
+V for Vendetta,132,Action; Fantasy; Thriller,Frank Miller,Andy Wachowski; Lana Wachowski,Hugo Weaving; Natalie Portman; Rupert Graves,62,8.2,447864,54000000,70500000,R,3/17/2006
+Sin City,124,Crime; Thriller,Mike Newell,Frank Miller,Mickey Rourke; Clive Owen; Bruce Willis,74,8.2,417566,40000000,74100000,R,4/1/2005
+Pride &amp; Prejudice,127,Drama; Romance,Judd Apatow,Jane Austen; Deborah Moggach,Keira Knightley; Matthew Macfadyen; Brenda Blethyn,82,7.7,115969,28000000,38400000,PG,11/23/2005
+The 40 Year Old Virgin,116,Comedy; Romance,Ridley Scott,Judd Apatow; Steve Carell,Steve Carell; Catherine Keener; Paul Rudd,73,7.3,191027,26000000,109000000,R,8/19/2005
+War of the Worlds,116,Action; Adventure; Drama,Garth Jennings,Josh Friedman; David Koepp,Tom Cruise; Dakota Fanning; Tim Robbins,73,6.5,215182,132000000,234000000,PG-13,6/29/2005
+Charlie and the Chocolate Factory,115,Adventure; Comedy; Family,Joe Wright,Roald Dahl; John August,Johnny Depp; Freddie Highmore; David Kelly,72,6.8,192533,150000000,206000000,PG,7/15/2005
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",143,Adventure; Family; Fantasy,Peter Jackson,Ann Peacock; Andrew Adamson,Tilda Swinton; Georgie Henley; William Moseley,75,6.9,181054,180000000,292000000,PG,12/9/2005
+Wedding Crashers,119,Comedy; Romance,Tim Burton,Steve Faber; Bob Fisher,Owen Wilson; Vince Vaughn; Rachel McAdams,64,7,183949,40000000,209000000,R,7/15/2005
+Serenity,119,Action; Adventure; Sci-Fi,Joss Whedon,Joss Whedon,Nathan Fillion; Gina Torres; Chiwetel Ejiofor,74,7.9,168770,40000000,25300000,PG-13,9/30/2005
+Constantine,121,Fantasy; Horror,Ken Kwapis,Jamie Delano; Garth Ennis,Keanu Reeves; Rachel Weisz; Djimon Hounsou,50,6.8,147793,100000000,76000000,R,2/18/2005
+The Sisterhood of the Traveling Pants,119,Comedy; Drama,David Dobkin,Ann Brashares; Delia Ephron,Amber Tamblyn; Alexis Bledel; America Ferrera,66,6.5,29846,25000000,39000000,PG,6/1/2005
+The Hitchhiker's Guide to the Galaxy,109,Adventure; Comedy; Sci-Fi,Andrew Adamson,Douglas Adams; Douglas Adams,Martin Freeman; Mos Def; Sam Rockwell,63,6.7,105208,50000000,51100000,PG,4/29/2005
+Madagascar,86,Animation; Adventure; Comedy,Francis Lawrence,Mark Burton; Billy Frolick,Chris Rock; Ben Stiller; David Schwimmer,57,6.8,142344,75000000,193000000,PG,5/27/2005
+The Island,136,Action; Adventure; Sci-Fi,Rob McKittrick,Caspian Tredwell-Owen; Alex Kurtzman,Scarlett Johansson; Ewan McGregor; Djimon Hounsou,50,6.8,175720,122000000,35800000,PG-13,7/22/2005
+Kingdom of Heaven,144,Action; Adventure; Drama,Ang Lee,William Monahan,Orlando Bloom; Eva Green; Liam Neeson,63,7.1,141091,130000000,47400000,R,5/6/2005
+Brokeback Mountain,134,Drama; Romance,Michael Bay,Annie Proulx; Larry McMurtry,Jake Gyllenhaal; Heath Ledger; Michelle Williams,87,7.7,182194,14000000,83000000,R,1/13/2006
+Lord of War,122,Crime; Drama; Thriller,Eric Darnell,Andrew Niccol,Nicolas Cage; Ethan Hawke; Jared Leto,62,7.6,168873,50000000,24100000,R,9/16/2005
+King Kong,187,Action; Adventure; Drama,Tim Story,Fran Walsh; Philippa Boyens,Naomi Watts; Jack Black; Adrien Brody,81,7.3,218874,207000000,218000000,PG-13,12/14/2005
+Fantastic Four,106,Action; Adventure; Fantasy,Louis Leterrier,Mark Frost; Michael France,Ioan Gruffudd; Michael Chiklis; Chris Evans,40,5.7,156989,100000000,155000000,PG-13,7/8/2005
+Four Brothers,109,Action; Crime; Drama,Andy Tennant,David Elliot; Paul Lovett,Mark Wahlberg; Tyrese Gibson; Garrett Hedlund,49,6.8,70442,45000000,74500000,R,8/12/2005
+The Amityville Horror,90,Drama; Horror; Mystery,James Mangold,Scott Kosar; Jay Anson,Ryan Reynolds; Melissa George; Jimmy Bennett,33,5.8,51627,19000000,65200000,R,4/15/2005
+The Exorcism of Emily Rose,119,Crime; Drama; Horror,Lee Tamahori,Paul Harris Boardman; Scott Derrickson,Laura Linney; Tom Wilkinson; Shohreh Aghdashloo,46,6.7,59455,20000000,75100000,PG-13,9/9/2005
+Hitch,118,Comedy; Romance,Andrew Douglas,Kevin Bisch,Will Smith; Eva Mendes; Kevin James,58,6.6,155766,70000000,178000000,PG-13,2/11/2005
+xXx: State of the Union,101,Action; Crime; Adventure,Steven Spielberg,Rich Wilkes; Simon Kinberg,Ice Cube; Samuel L. Jackson; Willem Dafoe,37,4.1,34488,87000000,25600000,PG-13,4/29/2005
+The Longest Yard,113,Comedy; Crime; Sport,Andrew Niccol,Albert S. Ruddy; Tracy Keenan Wynn,Adam Sandler; Burt Reynolds; Chris Rock,48,6.2,78252,82000000,158000000,PG-13,5/27/2005
+Walk the Line,136,Biography; Drama; Music,Guy Ritchie,Johnny Cash; Johnny Cash,Joaquin Phoenix; Reese Witherspoon; Ginnifer Goodwin,72,7.9,134474,28000000,120000000,PG-13,11/18/2005
+Transporter 2,87,Action; Crime; Thriller,Peter Segal,Luc Besson; Robert Mark Kamen,Jason Statham; Amber Valletta; Kate Nauta,56,6.2,92392,32000000,43100000,PG-13,9/2/2005
+Mr. &amp; Mrs. Smith,120,Action; Comedy; Romance,Rob Marshall,Simon Kinberg,Brad Pitt; Angelina Jolie; Adam Brody,55,6.4,195063,110000000,186000000,PG-13,6/10/2005
+Kiss Kiss Bang Bang,103,Action; Comedy; Crime,Shane Black,Brett Halliday; Shane Black,Robert Downey Jr.; Val Kilmer; Michelle Monaghan,72,7.7,118545,15000000,4243756,R,9/14/2005
+Coach Carter,136,Drama; Sport,Jason Reitman,Mark Schwahn; John Gatins,Samuel L. Jackson; Rick Gonzalez; Robert Ri'chard,57,7,54108,30000000,67300000,PG-13,1/14/2005
+Thank You for Smoking,92,Comedy; Drama,John Singleton,Jason Reitman; Christopher Buckley,Aaron Eckhart; Cameron Bright; Maria Bello,71,7.7,136494,6500000,24800000,R,4/14/2006
+Memoirs of a Geisha,145,Drama; Romance,Neil Marshall,Robin Swicord; Arthur Golden,Ziyi Zhang; Ken Watanabe; Michelle Yeoh,54,7.2,80718,85000000,57000000,PG-13,12/23/2005
+Into the Blue,110,Action; Adventure; Crime,Lexi Alexander,Matt Johnson,Paul Walker; Jessica Alba; Scott Caan,45,5.7,42410,50000000,18500000,PG-13,9/30/2005
+Hard Candy,104,Drama; Thriller,Thomas Carter,Brian Nelson,Patrick Wilson; Ellen Page; Sandra Oh,58,7.1,90612,950000,1007962,R,5/12/2006
+Zathura: A Space Adventure,113,Action; Adventure; Comedy,David Slade,Chris Van Allsburg; David Koepp,Josh Hutcherson; Jonah Bobo; Dax Shepard,67,6.1,38371,65000000,28000000,PG,11/11/2005
+Hostel,94,Horror,John Stockwell,Eli Roth,Jay Hernandez; Derek Richardson; Eythor Gudjonsson,55,5.8,98847,4500000,47300000,R,1/6/2006
+A History of Violence,96,Crime; Drama; Thriller,Rob Bowman,John Wagner; Vince Locke,Viggo Mortensen; Maria Bello; Ed Harris,81,7.6,133901,32000000,31500000,R,9/30/2005
+Nanny McPhee,97,Comedy; Family; Fantasy,Stephen Gaghan,Emma Thompson; Christianna Brand,Emma Thompson; Colin Firth; Angela Lansbury,59,6.5,28804,25000000,47100000,PG,1/27/2006
+The Jacket,103,Drama; Mystery; Sci-Fi,David Cronenberg,Tom Bleecker; Marc Rocco,Adrien Brody; Keira Knightley; Daniel Craig,44,7,65302,29000000,6303762,R,3/4/2005
+Munich,164,Drama; History; Thriller,Mark Dindal,Tony Kushner; Eric Roth,Eric Bana; Daniel Craig; Marie-Jose Croze,74,7.6,129539,75000000,47400000,R,1/6/2006
+Waiting...,94,Comedy,Clement Virgo,Rob McKittrick,Ryan Reynolds; Anna Faris; John Francis Daley,30,6.7,57169,3000000,16100000,R,10/7/2005
+Saw II,93,Horror,Tim Burton,Leigh Whannell; Darren Lynn Bousman,Donnie Wahlberg; Beverley Mitchell; Franky G,40,6.5,127677,4000000,87000000,R,10/28/2005
+The New World,135,Biography; Drama; History,Woody Allen,Terrence Malick,Colin Farrell; Q'orianka Kilcher; Christopher Plummer,69,6.8,51669,30000000,12700000,PG-13,1/20/2006
+The Great Raid,132,Action; Drama; War,Eli Roth,William B. Breuer; Hampton Sides,Benjamin Bratt; Joseph Fiennes; James Franco,48,6.7,13185,80000000,10200000,R,8/12/2005
+Match Point,124,Crime; Drama; Thriller,Darren Lynn Bousman,Woody Allen,Scarlett Johansson; Jonathan Rhys Meyers; Emily Mortimer,72,7.7,108471,15000000,23100000,R,1/20/2006
+The Skeleton Key,104,Drama; Horror; Mystery,Chris Wedge,Ehren Kruger,Kate Hudson; Peter Sarsgaard; Joy Bryant,47,6.4,59052,43000000,47800000,PG-13,8/12/2005
+Chicken Little,81,Animation; Adventure; Comedy,Dean Parisot,Mark Dindal; Mark Kennedy,Zach Braff; Joan Cusack; Garry Marshall,48,5.8,36726,150000000,135000000,G,11/4/2005
+Corpse Bride,77,Animation; Fantasy; Musical,Ron Howard,Tim Burton; Carlos Grangel,Johnny Depp; Helena Bonham Carter; Emily Watson,83,7.4,114796,40000000,53300000,PG,9/23/2005
+The Devil's Rejects,107,Horror,Sam Mendes,Rob Zombie; Rob Zombie,Sid Haig; Sheri Moon Zombie; Bill Moseley,53,6.8,54695,7000000,16900000,R,7/22/2005
+Robots,91,Animation; Adventure; Comedy,Rob Zombie,Ron Mita; Jim McClain,Ewan McGregor; Halle Berry; Mel Brooks,64,6.3,61281,75000000,128000000,PG,3/11/2005
+The Cave,97,Action; Adventure; Horror,Nigel Cole,Michael Steinberg; Tegan West,Piper Perabo; Morris Chestnut; Cole Hauser,30,4.9,20538,30000000,14900000,PG-13,8/26/2005
+Sky High,100,Adventure; Comedy; Family,Jay Chandrasekhar,Paul Hernandez; Robert Schooley,Kurt Russell; Kelly Preston; Michael Angarano,62,6.3,40105,35000000,63900000,PG,7/29/2005
+Cinderella Man,144,Biography; Drama; Romance,Jaume Collet-Serra,Cliff Hollingsworth; Akiva Goldsman,Russell Crowe; Rene Zellweger; Craig Bierko,69,7.9,102869,88000000,61600000,PG-13,6/3/2005
+Jarhead,125,Biography; Drama; War,Rian Johnson,William Broyles Jr.; Anthony Swofford,Jake Gyllenhaal; Jamie Foxx; Lucas Black,58,7,96140,70000000,62600000,R,11/4/2005
+A Lot Like Love,107,Comedy; Drama; Romance,Terry Gilliam,Colin Patrick Lynch,Ashton Kutcher; Amanda Peet; Taryn Manning,48,6.4,39616,30000000,21800000,PG-13,4/22/2005
+Sahara,124,Action; Adventure; Comedy,Chris Columbus,Clive Cussler; Thomas Dean Donnelly,Matthew McConaughey; Penlope Cruz; Steve Zahn,41,5.9,53998,130000000,68600000,PG-13,4/8/2005
+The Pacifier,95,Action; Comedy; Drama,Karyn Kusama,Thomas Lennon; Robert Ben Garant,Vin Diesel; Brittany Snow; Max Thieriot,30,5.3,39781,56000000,113000000,PG,3/4/2005
+House of Wax,113,Horror; Thriller,Iain Softley,Charles Belden; Chad Hayes,Chad Michael Murray; Paris Hilton; Elisha Cuthbert,41,5.2,62656,30000000,32000000,R,5/6/2005
+Brick,110,Drama; Mystery,Lasse Hallstrm,Rian Johnson,Joseph Gordon-Levitt; Lukas Haas; Emilie de Ravin,72,7.4,61536,475000,2060589,R,4/7/2006
+Syriana,128,Drama; Thriller,Roger Kumble,Stephen Gaghan; Robert Baer,George Clooney; Matt Damon; Amanda Peet,76,7,80948,50000000,50800000,R,12/9/2005
+Flightplan,98,Drama; Mystery; Thriller,Mike Mitchell,Peter A. Dowling; Billy Ray,Jodie Foster; Peter Sarsgaard; Sean Bean,53,6.1,86400,55000000,89700000,PG-13,9/23/2005
+Rent,135,Drama; Musical; Romance,Wes Craven,Stephen Chbosky; Jonathan Larson,Taye Diggs; Wilson Jermaine Heredia; Rosario Dawson,53,6.8,31310,40000000,29100000,PG-13,11/23/2005
+The Brothers Grimm,118,Action; Adventure; Comedy,Breck Eisner,Ehren Kruger,Matt Damon; Heath Ledger; Monica Bellucci,51,5.9,69037,88000000,37900000,PG-13,8/26/2005
+Elektra,97,Action; Crime; Fantasy,Catherine Hardwicke,Mark Steven Johnson; Frank Miller,Jennifer Garner; Goran Visnjic; Will Yun Lee,34,4.8,47496,43000000,24400000,PG-13,1/14/2005
+Land of the Dead,93,Horror; Sci-Fi,Craig Brewer,George A. Romero,John Leguizamo; Asia Argento; Simon Baker,71,6.3,59613,15000000,20700000,R,6/24/2005
+on Flux,93,Action; Sci-Fi,Kirk Jones,Phil Hay; Matt Manfredi,Charlize Theron; Frances McDormand; Sophie Okonedo,36,5.4,78415,62000000,25900000,PG-13,12/2/2005
+Lords of Dogtown,107,Biography; Drama; Sport,Martin Campbell,Stacy Peralta,Heath Ledger; Emile Hirsch; Victor Rasuk,56,6.9,29678,25000000,11000000,PG-13,6/3/2005
+Hide and Seek,101,Horror; Mystery; Thriller,Marc Forster,Ari Schlossberg,Robert De Niro; Dakota Fanning; Famke Janssen,35,5.7,51132,25000000,51100000,R,1/28/2005
+The Dukes of Hazzard,104,Action; Adventure; Comedy,Andrzej Bartkowiak,John O'Brien; John O'Brien,Seann William Scott; Johnny Knoxville; Jessica Simpson,33,4.8,47503,50000000,80300000,PG-13,8/5/2005
+The Legend of Zorro,129,Action; Adventure; Western,John Maybury,Roberto Orci; Alex Kurtzman,Antonio Banderas; Catherine Zeta-Jones; Rufus Sewell,47,5.8,44293,75000000,45400000,PG,10/28/2005
+The Interpreter,128,Mystery; Thriller,Rupert Wainwright,Martin Stellman; Brian Ward,Nicole Kidman; Sean Penn; Catherine Keener,62,6.4,65342,80000000,72500000,PG-13,4/22/2005
+Doom,100,Action; Adventure; Horror,Bennett Miller,Dave Callaham; Wesley Strick,Karl Urban; Rosamund Pike; Dwayne Johnson,34,5.1,63375,60000000,28000000,R,10/21/2005
+Hostage,113,Crime; Drama; Mystery,Florent-Emilio Siri,Robert Crais; Doug Richardson,Bruce Willis; Kevin Pollak; Serena Scott Thomas,44,6.6,69059,52000000,34600000,R,3/11/2005
+Domino,127,Action; Biography; Crime,Robert Schwentke,Richard Kelly; Richard Kelly,Keira Knightley; Mickey Rourke; dgar Ramrez,36,5.9,45100,50000000,10200000,R,10/14/2005
+Fun with Dick and Jane,90,Comedy; Crime,George Clooney,Judd Apatow; Nicholas Stoller,Jim Carrey; Ta Leoni; Alec Baldwin,47,6,75972,100000000,110000000,PG-13,12/21/2005
+Stay,99,Drama; Mystery; Thriller,Adam Shankman,David Benioff,Ewan McGregor; Naomi Watts; Ryan Gosling,41,6.7,42790,50000000,3626883,R,10/21/2005
+Be Cool,118,Comedy; Crime,F. Gary Gray,Elmore Leonard; Peter Steinfeld,John Travolta; Uma Thurman; Dwayne Johnson,37,5.6,46645,53000000,55800000,PG-13,3/4/2005
+Just Like Heaven,95,Comedy; Fantasy; Romance,George A. Romero,Peter Tolan; Leslie Dixon,Reese Witherspoon; Mark Ruffalo; Donal Logue,47,6.7,54967,58000000,48300000,PG-13,9/16/2005
+Hustle &amp; Flow,116,Crime; Drama; Music,Clare Kilner,Craig Brewer,Terrence Howard; Ludacris; Anthony Anderson,68,7.4,25389,8000000,22200000,R,7/22/2005
+Capote,114,Biography; Crime; Drama,Tony Scott,Dan Futterman; Gerald Clarke,Philip Seymour Hoffman; Clifton Collins Jr.; Catherine Keener,88,7.4,62720,7000000,28700000,R,2/3/2006
+White Noise,101,Drama; Mystery; Thriller,Ol Parker,Niall Johnson,Michael Keaton; Deborah Kara Unger; Ian McNeice,30,5.4,30903,10000000,55900000,PG-13,1/7/2005
+"Good Night, and Good Luck.",93,Drama; History,David Ayer,George Clooney; Grant Heslov,David Strathairn; George Clooney; Patricia Clarkson,80,7.6,65020,7500000,31500000,PG,11/4/2005
+North Country,126,Drama,Mark Waters,Michael Seitzman; Clara Bingham,Charlize Theron; Jeremy Renner; Frances McDormand,68,7.2,24162,35000000,18300000,R,10/21/2005
+Hoodwinked!,80,Animation; Comedy; Family,Sydney Pollack,Cory Edwards; Todd Edwards,Anne Hathaway; Glenn Close; Patrick Warburton,45,6.5,32965,15000000,51100000,PG,1/13/2006
+The Departed,151,Crime; Thriller,Martin Scorsese,William Monahan; Alan Mak,Leonardo DiCaprio; Matt Damon; Jack Nicholson,86,8.5,480744,90000000,132000000,R,10/6/2006
+300,117,Action; Fantasy; History,Martin Campbell,Zack Snyder; Kurt Johnstad,Gerard Butler; Lena Headey; David Wenham,51,7.7,384897,65000000,211000000,R,3/9/2007
+Casino Royale,144,Action; Crime; Thriller,Zack Snyder,Neal Purvis; Robert Wade,Daniel Craig; Eva Green; Judi Dench,81,7.9,294026,150000000,167000000,PG-13,11/17/2006
+The Prestige,130,Drama; Mystery; Thriller,Christopher Nolan,Jonathan Nolan; Christopher Nolan,Christian Bale; Hugh Jackman; Scarlett Johansson,66,8.5,434886,40000000,53100000,PG-13,10/20/2006
+Cars,117,Animation; Adventure; Comedy,Gore Verbinski,John Lasseter; Joe Ranft,Owen Wilson; Bonnie Hunt; Paul Newman,73,7.3,137016,120000000,244000000,G,6/9/2006
+X-Men: The Last Stand,104,Action; Adventure; Sci-Fi,Brett Ratner,Simon Kinberg; Zak Penn,Patrick Stewart; Hugh Jackman; Halle Berry,58,6.8,213711,210000000,234000000,PG-13,5/26/2006
+The Pursuit of Happyness,117,Biography; Drama,John Lasseter,Steve Conrad,Will Smith; Thandie Newton; Jaden Smith,64,7.8,192269,55000000,164000000,PG-13,12/15/2006
+Pirates of the Caribbean: Dead Man's Chest,151,Action; Adventure; Fantasy,Guillermo del Toro,Ted Elliott; Terry Rossio,Johnny Depp; Orlando Bloom; Keira Knightley,53,7.3,305314,225000000,423000000,PG-13,7/7/2006
+The Lives of Others,137,Drama; Thriller,Mel Gibson,Florian Henckel von Donnersmarck,Ulrich Mhe; Martina Gedeck; Sebastian Koch,89,8.5,148438,2000000,11300000,R,3/23/2006
+Little Miss Sunshine,101,Adventure; Comedy; Drama,Florian Henckel von Donnersmarck,Michael Arndt,Steve Carell; Toni Collette; Greg Kinnear,80,7.9,238202,8000000,59900000,R,8/18/2006
+The Devil Wears Prada,109,Comedy; Drama; Romance,Gabriele Muccino,Aline Brosh McKenna; Lauren Weisberger,Anne Hathaway; Meryl Streep; Adrian Grenier,62,6.7,161979,35000000,125000000,PG-13,6/30/2006
+The Fast and the Furious: Tokyo Drift,104,Action; Crime; Drama,Edward Zwick,Chris Morgan,Lucas Black; Zachery Ty Bryan; Bow Wow,46,5.7,83895,85000000,62500000,PG-13,6/16/2006
+Blood Diamond,143,Adventure; Drama; Thriller,David Frankel,Charles Leavitt; Charles Leavitt,Leonardo DiCaprio; Djimon Hounsou; Jennifer Connelly,64,8,236105,100000000,57300000,R,12/8/2006
+The Illusionist,110,Drama; Mystery; Romance,Christophe Gans,Neil Burger; Steven Millhauser,Edward Norton; Jessica Biel; Paul Giamatti,68,7.6,186063,16000000,39800000,PG-13,9/1/2006
+She's the Man,105,Comedy; Romance,Nicholaus Goossen,Ewan Leslie; Karen McCullah Lutz,Amanda Bynes; Laura Ramsey; Channing Tatum,45,6.3,62985,20000000,33700000,PG-13,3/17/2006
+Silent Hill,125,Adventure; Horror,Spike Lee,Roger Avary,Radha Mitchell; Laurie Holden; Sean Bean,30,6.5,114569,50000000,47000000,R,4/21/2006
+Inside Man,129,Crime; Drama; Thriller,Neil Burger,Russell Gewirtz,Denzel Washington; Clive Owen; Jodie Foster,76,7.7,176126,45000000,88500000,R,3/24/2006
+The Da Vinci Code,149,Mystery; Thriller,Alfonso Cuarn,Akiva Goldsman; Dan Brown,Tom Hanks; Audrey Tautou; Jean Reno,46,6.4,199273,125000000,218000000,PG-13,5/19/2006
+Children of Men,109,Adventure; Drama; Sci-Fi,Marc Forster,Alfonso Cuarn; Timothy J. Sexton,Julianne Moore; Clive Owen; Chiwetel Ejiofor,84,7.9,252204,76000000,35300000,R,1/5/2007
+Babel,143,Drama,Jonathan Dayton,Guillermo Arriaga; Guillermo Arriaga,Brad Pitt; Cate Blanchett; Gael Garca Bernal,69,7.5,171321,25000000,34300000,R,11/10/2006
+Superman Returns,154,Action; Adventure; Fantasy,Bryan Singer,Michael Dougherty; Dan Harris,Brandon Routh; Kevin Spacey; Kate Bosworth,72,6.3,169461,209000000,200000000,PG-13,6/28/2006
+DOA: Dead or Alive,87,Action; Adventure,Mark Neveldine,J.F. Lawton; Adam Gross,Jaime Pressly; Devon Aoki; Sarah Carter,38,4.7,29325,21000000,480314,PG-13,9/15/2006
+Stranger Than Fiction,113,Comedy; Drama; Fantasy,J.J. Abrams,Zach Helm,Will Ferrell; Emma Thompson; Dustin Hoffman,67,7.7,132333,38000000,40100000,PG-13,11/10/2006
+Apocalypto,139,Adventure; Drama; Thriller,Ron Howard,Mel Gibson; Farhad Safinia,Gerardo Taracena; Raoul Trujillo; Dalia Hernndez,68,7.8,162633,40000000,50900000,R,12/8/2006
+Mission: Impossible III,126,Action; Adventure; Thriller,Nick Cassavetes,Alex Kurtzman; Roberto Orci,Tom Cruise; Michelle Monaghan; Ving Rhames,66,6.8,152862,150000000,134000000,PG-13,5/5/2006
+Crank,88,Action; Crime; Thriller,Andy Fickman,Mark Neveldine; Brian Taylor,Jason Statham; Amy Smart; Carlos Sanz,57,7,131672,12000000,27800000,R,9/1/2006
+Smokin' Aces,108,Action; Crime; Drama,Adam McKay,Joe Carnahan,Jeremy Piven; Ryan Reynolds; Ray Liotta,45,6.6,92655,17000000,35700000,R,1/26/2007
+Happy Feet,108,Animation; Comedy; Family,Alejandro Gonzlez Irritu,Warren Coleman; John Collee,Elijah Wood; Brittany Murphy; Hugh Jackman,77,6.5,82013,100000000,198000000,PG,11/17/2006
+Click,107,Comedy; Drama; Fantasy,Darren Aronofsky,Steve Koren; Mark O'Keefe,Adam Sandler; Kate Beckinsale; Christopher Walken,45,6.4,151385,70000000,137000000,PG-13,6/23/2006
+The Fountain,96,Drama; Romance; Sci-Fi,Jessica Bendinger,Darren Aronofsky; Darren Aronofsky,Hugh Jackman; Rachel Weisz; Sean Patrick Thomas,51,7.3,131048,35000000,10100000,PG-13,11/22/2006
+Step Up,104,Crime; Drama; Music,Shawn Levy,Duane Adler; Melissa Rosenberg,Channing Tatum; Jenna Dewan-Tatum; Damaine Radcliff,48,6.2,50517,12000000,65300000,PG-13,8/11/2006
+Talladega Nights: The Ballad of Ricky Bobby,108,Action; Comedy; Sport,Andrew Davis,Will Ferrell; Adam McKay,Will Ferrell; John C. Reilly; Sacha Baron Cohen,66,6.4,82006,73000000,148000000,PG-13,8/4/2006
+The Holiday,138,Comedy; Romance,Tom Tykwer,Nancy Meyers,Kate Winslet; Cameron Diaz; Jude Law,52,6.8,109804,85000000,63200000,PG-13,12/8/2006
+Eragon,104,Action; Adventure; Family,Frank Coraci,Peter Buchman; Christopher Paolini,Ed Speleers; Sienna Guillory; Jeremy Irons,38,5,72740,100000000,75000000,PG,12/15/2006
+Deja Vu,126,Action; Sci-Fi; Thriller,Anne Fletcher,Bill Marsilii; Terry Rossio,Denzel Washington; Paula Patton; Jim Caviezel,59,7,151592,75000000,64000000,PG-13,11/22/2006
+Night at the Museum,108,Action; Adventure; Comedy,Steve Pink,Robert Ben Garant; Thomas Lennon,Ben Stiller; Carla Gugino; Ricky Gervais,48,6.3,132230,110000000,251000000,PG,12/22/2006
+Little Children,137,Drama,Nancy Meyers,Todd Field; Tom Perrotta,Kate Winslet; Jennifer Connelly; Patrick Wilson,75,7.7,67184,14000000,5459824,R,11/3/2006
+Letters from Iwo Jima,141,Drama; History; War,Bill Condon,Iris Yamashita; Iris Yamashita,Ken Watanabe; Kazunari Ninomiya; Tsuyoshi Ihara,89,8,97966,19000000,13800000,R,2/2/2007
+Scary Movie 4,83,Comedy,Todd Field,Craig Mazin; Jim Abrahams,Anna Faris; Regina Hall; Craig Bierko,40,5,64759,45000000,90700000,PG-13,4/14/2006
+Accepted,93,Comedy,Joe Carnahan,Adam Cooper; Bill Collage,Justin Long; Jonah Hill; Blake Lively,47,6.4,70019,23000000,36300000,PG-13,8/18/2006
+Underworld: Evolution,106,Action; Fantasy; Sci-Fi,Kevin Smith,Danny McBride; Len Wiseman,Kate Beckinsale; Scott Speedman; Bill Nighy,36,6.7,101905,50000000,62300000,R,1/20/2006
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,84,Comedy,Tony Scott,Sacha Baron Cohen; Anthony Hines,Sacha Baron Cohen; Ken Davitian; Luenell,89,7.3,210341,18000000,129000000,R,11/3/2006
+A Good Year,117,Comedy; Drama; Romance,Sergey Bondarchuk,Marc Klein; Peter Mayle,Russell Crowe; Abbie Cornish; Albert Finney,47,6.8,45912,35000000,7458269,PG-13,11/10/2006
+RV,99,Adventure; Comedy; Family,Ericson Core,Geoff Rodkey,Robin Williams; Cheryl Hines; Kristin Chenoweth,33,5.4,30114,65000000,71400000,PG,4/28/2006
+Ice Age: The Meltdown,91,Animation; Action; Adventure,Larry Charles,Gerry Swallow; Peter Gaulke,Ray Romano; John Leguizamo; Denis Leary,58,6.8,108669,80000000,195000000,PG,3/31/2006
+John Tucker Must Die,89,Comedy; Romance,George Miller,Jeff Lowell,Jesse Metcalfe; Ashanti; Arielle Kebbel,41,5.6,40018,18000000,41000000,PG-13,7/28/2006
+The Marine,92,Action; Drama; Thriller,Elizabeth Allen,Michelle Gallagher; Michelle Gallagher,John Cena; Kelly Carlson; Robert Patrick,45,4.6,19633,20000000,18800000,PG-13,10/13/2006
+The Break-Up,106,Comedy; Drama; Romance,Alexandre Aja,Jeremy Garelick; Jay Lavender,Jennifer Aniston; Vince Vaughn; Jon Favreau,45,5.8,68305,52000000,119000000,PG-13,6/2/2006
+Rocky Balboa,102,Drama; Sport,Betty Thomas,Sylvester Stallone; Sylvester Stallone,Sylvester Stallone; Antonio Tarver; Milo Ventimiglia,63,7.2,105003,24000000,70300000,PG,12/20/2006
+Monster House,91,Animation; Comedy; Family,John Carney,Dan Harmon; Rob Schrab,Mitchel Musso; Sam Lerner; Spencer Locke,68,6.7,41825,75000000,73700000,PG,7/21/2006
+The Good Shepherd,167,Drama; History; Thriller,Tarsem Singh,Eric Roth,Matt Damon; Angelina Jolie; Robert De Niro,61,6.7,69278,90000000,59900000,R,12/22/2006
+The Hills Have Eyes,107,Horror; Thriller,Keenen Ivory Wayans,Alexandre Aja; Grgory Levasseur,Ted Levine; Kathleen Quinlan; Dan Byrd,52,6.4,84356,15000000,41800000,R,3/10/2006
+Half Nelson,106,Drama,Robert De Niro,Ryan Fleck; Anna Boden,Ryan Gosling; Anthony Mackie; Shareeka Epps,85,7.3,47642,700000,2694973,R,8/11/2006
+A Scanner Darkly,100,Animation; Crime; Drama,Gil Kenan,Philip K. Dick; Richard Linklater,Keanu Reeves; Winona Ryder; Robert Downey Jr.,73,7,64108,8500000,5501616,R,8/18/2006
+Clerks II,97,Comedy,Corey Yuen,Kevin Smith,Brian O'Halloran; Jeff Anderson; Rosario Dawson,65,7.4,86795,5000000,24100000,R,7/21/2006
+Beerfest,110,Comedy,Roger Allers,Jay Chandrasekhar; Kevin Heffernan,Jay Chandrasekhar; Kevin Heffernan; Steve Lemme,46,6.1,40415,17500000,19200000,R,8/25/2006
+The Guardian,139,Action; Adventure; Drama,Wayne Kramer,Ron L. Brinkerhoff,Kevin Costner; Ashton Kutcher; Sela Ward,53,6.7,51381,70000000,55000000,PG-13,9/29/2006
+Flags of Our Fathers,132,Drama; History; War,Jared Hess,William Broyles Jr.; Paul Haggis,Ryan Phillippe; Barry Pepper; Joseph Cross,79,7.1,71904,53000000,33600000,R,10/20/2006
+The Lake House,99,Drama; Fantasy; Romance,Craig Brewer,David Auburn; Eun-Jeong Kim,Keanu Reeves; Sandra Bullock; Christopher Plummer,52,6.7,75574,40000000,52300000,PG,6/16/2006
+The Painted Veil,125,Drama; Romance,Clint Eastwood,Ron Nyswaner; W. Somerset Maugham,Naomi Watts; Edward Norton; Liev Schreiber,69,7.5,52736,19400000,8060487,PG-13,1/19/2007
+Nacho Libre,92,Comedy; Family; Sport,Uwe Boll,Jared Hess; Jerusha Hess,Jack Black; Ana de la Reguera; Hctor Jimnez,52,5.6,47471,32000000,80200000,PG,6/16/2006
+The Covenant,97,Action; Fantasy; Horror,Sofia Coppola,J.S. Cardone,Steven Strait; Sebastian Stan; Toby Hemingway,19,5,28719,20000000,23300000,PG-13,9/8/2006
+Black Snake Moan,116,Drama,Nick Hurran,Craig Brewer,Christina Ricci; Samuel L. Jackson; Justin Timberlake,52,7,40120,15000000,9396870,R,3/2/2007
+Open Season,83,Animation; Adventure; Comedy,Richard Linklater,Steve Bencich; Ron J. Friedman,Ashton Kutcher; Martin Lawrence; Debra Messing,49,6.1,38393,85000000,84300000,PG,9/29/2006
+Running Scared,122,Action; Crime; Drama,James Gartner,Wayne Kramer,Paul Walker; Cameron Bright; Chazz Palminteri,41,7.4,66420,17000000,6855137,R,2/24/2006
+The Benchwarmers,80,Adventure; Comedy; Sport,Olivier Assayas,Allen Covert; Nick Swardson,David Spade; Jon Heder; Rob Schneider,25,5.4,27671,33000000,57700000,PG-13,4/7/2006
+Final Destination 3,93,Horror,Werner Herzog,Glen Morgan; James Wong,Mary Elizabeth Winstead; Ryan Merriman; Kris Lemche,41,5.7,65775,34000000,54100000,R,2/10/2006
+Flushed Away,85,Animation; Adventure; Comedy,Clint Eastwood,Dick Clement; Ian La Frenais,Hugh Jackman; Kate Winslet; Ian McKellen,74,6.7,50997,149000000,64500000,PG,11/3/2006
+16 Blocks,105,Action; Crime; Drama,David Bowers,Richard Wenk,Bruce Willis; Mos Def; David Morse,63,6.6,82337,52000000,36900000,PG-13,3/3/2006
+Turistas,93,Horror; Mystery; Thriller,John Bonito,Michael Ross,Josh Duhamel; Melissa George; Olivia Wilde,36,5.2,23531,10000000,7025803,R,12/1/2006
+LiTTLEMAN,98,Comedy; Crime,Tony Goldwyn,Keenen Ivory Wayans; Shawn Wayans,Shawn Wayans; Marlon Wayans; Kerry Washington,26,3.8,27607,64000000,58300000,PG-13,7/14/2006
+Slither,95,Comedy; Horror; Sci-Fi,Jay Chandrasekhar,James Gunn,Nathan Fillion; Elizabeth Banks; Michael Rooker,69,6.5,42875,15500000,7774730,R,3/31/2006
+Failure to Launch,97,Comedy; Romance,Peyton Reed,Tom J. Astle; Matt Ember,Matthew McConaughey; Sarah Jessica Parker; Kathy Bates,47,5.5,37630,50000000,88700000,PG-13,3/10/2006
+Rescue Dawn,126,Adventure; Biography; Drama,Dennis Dugan,Werner Herzog,Christian Bale; Steve Zahn; Jeremy Davies,77,7.4,59515,10000000,5490423,PG-13,7/27/2007
+Marie Antoinette,123,Biography; Drama; History,Richard Donner,Sofia Coppola,Kirsten Dunst; Jason Schwartzman; Rip Torn,65,6.3,53640,40000000,16000000,PG-13,10/20/2006
+Penelope,104,Comedy; Fantasy; Romance,Paul Greengrass,Leslie Caveny,Christina Ricci; James McAvoy; Reese Witherspoon,48,6.8,32642,15000000,10000000,PG,2/29/2008
+In the Name of the King: A Dungeon Siege Tale,127,Action; Adventure; Drama,Yimou Zhang,Doug Taylor; Jason Rappaport,Jason Statham; Ron Perlman; Ray Liotta,15,3.8,31042,60000000,4535117,PG-13,1/11/2008
+Saw III,108,Crime; Horror,Neil LaBute,Leigh Whannell; James Wan,Tobin Bell; Shawnee Smith; Angus Macfadyen,48,6.1,95017,10000000,80200000,R,10/27/2006
+"Paris, je t'aime",120,Comedy; Drama; Romance,Darren Lynn Bousman,Emmanuel Benbihy; Bruno Podalyds,Juliette Binoche; Leonor Watling; Ludivine Sagnier,66,7.3,46522,13000000,4857376,R,6/21/2006
+Dreamgirls,130,Drama; Music; Musical,David R. Ellis,Bill Condon; Tom Eyen,Beyonc Knowles; Jamie Foxx; Eddie Murphy,76,6.5,39435,70000000,103000000,PG-13,12/25/2006
+Miami Vice,134,Action; Crime; Drama,Renny Harlin,Michael Mann; Anthony Yerkovich,Colin Farrell; Jamie Foxx; Li Gong,65,5.9,70728,135000000,63400000,R,7/28/2006
+Snakes on a Plane,105,Action; Thriller,Anthony Russo,John Heffernan; Sebastian Gutierrez,Samuel L. Jackson; Julianna Margulies; Nathan Phillips,58,5.7,90675,33000000,34000000,R,8/18/2006
+Evan Almighty,96,Comedy; Family; Fantasy,Michael Bay,Steve Oedekerk; Steve Oedekerk,Steve Carell; Morgan Freeman; Lauren Graham,37,5.4,78430,175000000,100000000,PG,6/22/2007
+Into the Wild,148,Adventure; Biography; Drama,Judd Apatow,Sean Penn; Jon Krakauer,Emile Hirsch; Vince Vaughn; Catherine Keener,73,8.2,227820,15000000,18400000,R,9/21/2007
+Transformers,144,Action; Adventure; Sci-Fi,Richard LaGravenese,Roberto Orci; Alex Kurtzman,Shia LaBeouf; Megan Fox; Josh Duhamel,61,7.1,339093,150000000,319000000,PG-13,7/3/2007
+Superbad,113,Comedy,Sean Penn,Seth Rogen; Evan Goldberg,Michael Cera; Jonah Hill; Christopher Mintz-Plasse,76,7.6,263738,20000000,121000000,R,8/17/2007
+P.S. I Love You,126,Drama; Romance,Greg Mottola,Richard LaGravenese; Steven Rogers,Hilary Swank; Gerard Butler; Harry Connick Jr.,39,6.9,96940,30000000,53700000,PG-13,12/21/2007
+Knocked Up,129,Comedy; Drama; Romance,Ethan Coen,Judd Apatow,Seth Rogen; Katherine Heigl; Paul Rudd,85,7.2,200692,30000000,149000000,R,6/1/2007
+No Country for Old Men,122,Crime; Drama; Thriller,Paul Thomas Anderson,Joel Coen; Ethan Coen,Tommy Lee Jones; Javier Bardem; Josh Brolin,91,8.2,355735,25000000,74300000,R,11/21/2007
+Ratatouille,111,Animation; Comedy; Family,Len Wiseman,Brad Bird; Jan Pinkava,Brad Garrett; Lou Romano; Patton Oswalt,96,8,276112,150000000,206000000,G,6/29/2007
+There Will Be Blood,158,Drama,Jason Reitman,Paul Thomas Anderson; Upton Sinclair,Daniel Day-Lewis; Paul Dano; Ciarn Hinds,92,8.1,226092,25000000,40200000,R,1/25/2008
+The Bourne Ultimatum,115,Action; Crime; Thriller,Brad Bird,Tony Gilroy; Scott Z. Burns,Matt Damon; dgar Ramrez; Joan Allen,85,8.1,287386,110000000,227000000,PG-13,8/3/2007
+Live Free or Die Hard,128,Action; Crime; Thriller,Francis Lawrence,Mark Bomback; Mark Bomback,Bruce Willis; Justin Long; Timothy Olyphant,69,7.3,236035,110000000,135000000,PG-13,6/27/2007
+Harry Potter and the Order of the Phoenix,138,Adventure; Family; Fantasy,David Yates,Michael Goldenberg; J.K. Rowling,Daniel Radcliffe; Emma Watson; Rupert Grint,71,7.4,212029,150000000,292000000,PG-13,7/11/2007
+Zodiac,157,Crime; Drama; Mystery,Danny Boyle,James Vanderbilt; Robert Graysmith,Jake Gyllenhaal; Robert Downey Jr.; Mark Ruffalo,78,7.7,169151,65000000,33100000,R,3/2/2007
+Spider-Man 3,139,Action; Adventure; Fantasy,Paul Greengrass,Sam Raimi; Ivan Raimi,Tobey Maguire; Kirsten Dunst; Topher Grace,59,6.3,225149,258000000,337000000,PG-13,5/4/2007
+The Bucket List,97,Adventure; Comedy; Drama,Sam Raimi,Justin Zackham,Jack Nicholson; Morgan Freeman; Sean P. Hayes,42,7.4,117881,45000000,93500000,PG-13,1/11/2008
+Shooter,124,Action; Crime; Drama,Steven Soderbergh,Jonathan Lemkin; Stephen Hunter,Mark Wahlberg; Michael Pea; Rhona Mitra,53,7.1,152301,61000000,47000000,R,3/23/2007
+Juno,96,Comedy; Drama; Romance,David Fincher,Diablo Cody,Ellen Page; Michael Cera; Jennifer Garner,81,7.6,271176,7500000,143000000,PG-13,12/25/2007
+I Am Legend,101,Drama; Sci-Fi; Thriller,Gore Verbinski,Mark Protosevich; Akiva Goldsman,Will Smith; Alice Braga; Charlie Tahan,65,7.1,299974,150000000,256000000,PG-13,12/14/2007
+American Gangster,157,Biography; Crime; Drama,Ridley Scott,Steven Zaillian; Mark Jacobson,Denzel Washington; Russell Crowe; Chiwetel Ejiofor,76,7.8,214055,100000000,130000000,R,11/2/2007
+Pirates of the Caribbean: At World's End,169,Action; Adventure; Fantasy,Antoine Fuqua,Ted Elliott; Terry Rossio,Johnny Depp; Orlando Bloom; Keira Knightley,50,7,275724,300000000,309000000,PG-13,5/25/2007
+Stardust,127,Adventure; Family; Fantasy,Ben Affleck,Jane Goldman; Matthew Vaughn,Charlie Cox; Claire Danes; Sienna Miller,66,7.7,147040,70000000,38600000,PG-13,8/10/2007
+Atonement,123,Drama; Mystery; Romance,Matthew Vaughn,Ian McEwan; Christopher Hampton,Keira Knightley; James McAvoy; Brenda Blethyn,85,7.8,129146,30000000,50900000,R,1/4/2008
+Hitman,89,Action; Crime; Drama,Edgar Wright,Skip Woods,Timothy Olyphant; Dougray Scott; Olga Kurylenko,35,6.2,94304,24000000,39700000,R,11/21/2007
+Enchanted,107,Comedy; Family; Fantasy,Joe Wright,Bill Kelly,Amy Adams; Susan Sarandon; James Marsden,75,7.2,94681,85000000,128000000,PG,11/21/2007
+Gone Baby Gone,114,Crime; Drama; Mystery,Xavier Gens,Ben Affleck; Aaron Stockard,Morgan Freeman; Ed Harris; Casey Affleck,72,7.8,120947,19000000,20300000,R,10/19/2007
+Shrek the Third,93,Animation; Adventure; Comedy,Kirsten Sheridan,William Steig; Andrew Adamson,Mike Myers; Cameron Diaz; Eddie Murphy,58,6,126081,160000000,321000000,PG,5/18/2007
+1408,104,Horror; Thriller,Ash Brannon,Matt Greenberg; Scott Alexander,John Cusack; Samuel L. Jackson; Mary McCormack,64,6.8,139726,25000000,72000000,PG-13,6/22/2007
+The Mist,126,Horror; Sci-Fi; Thriller,Mark Steven Johnson,Frank Darabont; Stephen King,Thomas Jane; Marcia Gay Harden; Laurie Holden,58,7.3,141464,18000000,25600000,R,11/21/2007
+3:10 to Yuma,122,Action; Crime; Drama,Juan Carlos Fresnadillo,Halsted Welles; Michael Brandt,Russell Crowe; Christian Bale; Ben Foster,76,7.8,162479,55000000,53600000,R,9/7/2007
+Blades of Glory,93,Comedy; Sport,Tim Burton,Jeff Cox; Craig Cox,Will Ferrell; Jon Heder; Amy Poehler,64,6.3,84219,61000000,118000000,PG-13,3/30/2007
+Ocean's Thirteen,122,Crime; Thriller,Jaume Balaguer,Brian Koppelman; David Levien,George Clooney; Brad Pitt; Matt Damon,62,6.8,156548,85000000,117000000,PG-13,6/8/2007
+Paranormal Activity,86,Horror; Mystery,Michael Haneke,Oren Peli,Katie Featherston; Micah Sloat; Mark Fredrichs,68,6.4,121976,15000,108000000,R,10/16/2009
+Sweeney Todd: The Demon Barber of Fleet Street,116,Drama; Horror; Musical,Russell Mulcahy,John Logan; Hugh Wheeler,Johnny Depp; Helena Bonham Carter; Alan Rickman,83,7.5,185616,50000000,52900000,R,12/21/2007
+Ghost Rider,114,Action; Fantasy; Thriller,Gabor Csupo,Mark Steven Johnson; Mark Steven Johnson,Nicolas Cage; Eva Mendes; Sam Elliott,35,5.2,118058,110000000,116000000,PG-13,2/16/2007
+Bridge to Terabithia,96,Adventure; Drama; Family,Chris Miller,Jeff Stockwell; David Paterson,Josh Hutcherson; AnnaSophia Robb; Zooey Deschanel,74,7.2,66241,21000000,82300000,PG,2/16/2007
+National Treasure: Book of Secrets,124,Action; Adventure; Mystery,Julian Gilbey,Marianne Wibberley; Cormac Wibberley,Nicolas Cage; Diane Kruger; Justin Bartha,48,6.5,119984,130000000,220000000,PG,12/21/2007
+The Golden Compass,113,Adventure; Family; Fantasy,James Mangold,Chris Weitz; Philip Pullman,Nicole Kidman; Daniel Craig; Dakota Blue Richards,51,6.1,102121,180000000,70100000,PG-13,12/7/2007
+Rush Hour 3,91,Action; Comedy; Crime,Robert Zemeckis,Jeff Nathanson; Ross LaManna,Jackie Chan; Chris Tucker; Max von Sydow,44,6,74584,140000000,140000000,PG-13,8/10/2007
+August Rush,114,Drama; Music,David Silverman,Nick Castle; James V. Hart,Freddie Highmore; Keri Russell; Jonathan Rhys Meyers,38,7.4,57676,30000000,31700000,PG,11/21/2007
+Hannibal Rising,121,Crime; Drama; Thriller,Juan Antonio Bayona,Thomas Harris; Thomas Harris,Gaspard Ulliel; Rhys Ifans; Li Gong,35,6,56540,50000000,27700000,R,2/9/2007
+Resident Evil: Extinction,94,Action; Horror; Sci-Fi,Craig Gillespie,Paul W.S. Anderson,Milla Jovovich; Ali Larter; Oded Fehr,41,6.2,100926,45000000,50000000,R,9/21/2007
+30 Days of Night,113,Horror; Thriller,Robert Rodriguez,Steve Niles; Stuart Beattie,Josh Hartnett; Melissa George; Danny Huston,53,6.6,95887,32000000,39600000,R,10/19/2007
+Disturbia,105,Drama; Mystery; Thriller,David Cronenberg,Christopher Landon; Carl Ellsworth,Shia LaBeouf; David Morse; Carrie-Anne Moss,62,6.9,134126,20000000,80200000,PG-13,4/13/2007
+Good Luck Chuck,96,Comedy; Drama; Fantasy,Chris Weitz,Josh Stolberg; Steve Glenn,Dane Cook; Jessica Alba; Dan Fogler,19,5.5,54884,25000000,34900000,R,9/21/2007
+The Simpsons Movie,87,Animation; Adventure; Comedy,Mikael Hfstrm,James L. Brooks; Matt Groening,Dan Castellaneta; Julie Kavner; Nancy Cartwright,80,7.4,179015,75000000,183000000,PG-13,7/27/2007
+Lars and the Real Girl,106,Comedy; Drama,Peter Hedges,Nancy Oliver,Ryan Gosling; Emily Mortimer; Paul Schneider,70,7.4,74299,12000000,5972884,PG-13,10/25/2007
+Mr. Brooks,120,Crime; Drama; Mystery,David Slade,Bruce A. Evans; Raynold Gideon,Kevin Costner; Demi Moore; William Hurt,45,7.4,88029,20000000,28500000,R,6/1/2007
+Hairspray,117,Comedy; Musical; Romance,D.J. Caruso,Leslie Dixon; John Waters,John Travolta; Queen Latifah; Nikki Blonsky,81,6.8,65317,75000000,119000000,PG,7/20/2007
+Grindhouse,191,Action; Horror; Thriller,Steve Hickner,Robert Rodriguez; Rob Zombie,Kurt Russell; Rose McGowan; Danny Trejo,77,7.7,117674,53000000,25000000,R,4/6/2007
+Dan in Real Life,98,Comedy; Drama; Romance,Julie Taymor,Pierce Gardner; Peter Hedges,Steve Carell; Juliette Binoche; Dane Cook,65,6.8,64172,25000000,47600000,PG-13,10/26/2007
+Beowulf,115,Animation; Action; Adventure,Peter Webber,Neil Gaiman; Roger Avary,Ray Winstone; Crispin Glover; Angelina Jolie,59,6.3,103721,150000000,82200000,PG-13,11/16/2007
+Death at a Funeral,90,Comedy,Robert Rodriguez,Dean Craig,Matthew Macfadyen; Peter Dinklage; Ewen Bremner,67,7.3,63123,9000000,8579684,R,7/19/2007
+Bee Movie,91,Animation; Adventure; Comedy,Andrew Dominik,Jerry Seinfeld; Spike Feresten,Jerry Seinfeld; Rene Zellweger; Matthew Broderick,54,6.2,66296,150000000,127000000,PG,11/2/2007
+Across the Universe,133,Drama; Musical; Romance,Akiva Schaffer,Dick Clement; Ian La Frenais,Evan Rachel Wood; Jim Sturgess; Joe Anderson,56,7.4,68865,73100000,24300000,PG-13,10/12/2007
+Shoot 'Em Up,86,Action; Comedy; Crime,Frank Oz,Michael Davis,Clive Owen; Monica Bellucci; Paul Giamatti,49,6.8,100072,39000000,12800000,R,9/7/2007
+The Game Plan,110,Comedy; Family; Sport,Bruce A. Evans,Nichole Millard; Kathryn Price,Dwayne Johnson; Kyra Sedgwick; Madison Pettis,44,6.1,26982,22000000,90600000,PG,9/28/2007
+Alvin and the Chipmunks,92,Animation; Comedy; Family,Julian Schnabel,Jon Vitti; Will McRobb,Jason Lee; David Cross; Cameron Richardson,39,5.2,35424,60000000,217000000,PG,12/14/2007
+I Now Pronounce You Chuck &amp; Larry,115,Comedy; Romance,Tim Story,Barry Fanaro; Alexander Payne,Adam Sandler; Kevin James; Jessica Biel,37,6,83673,85000000,120000000,PG-13,7/20/2007
+The Assassination of Jesse James by the Coward Robert Ford,160,Biography; Crime; Drama,Lee Tamahori,Andrew Dominik; Ron Hansen,Brad Pitt; Casey Affleck; Sam Shepard,68,7.6,96161,30000000,3904982,R,11/30/2007
+Michael Clayton,119,Crime; Drama; Mystery,Dennis Dugan,Tony Gilroy,George Clooney; Tilda Swinton; Tom Wilkinson,82,7.3,98808,25000000,49000000,R,10/12/2007
+Freedom Writers,123,Biography; Crime; Drama,Sidney Lumet,Richard LaGravenese; Freedom Writers,Hilary Swank; Imelda Staunton; Patrick Dempsey,64,7.4,33981,21000000,36600000,PG-13,1/5/2007
+Dead Silence,89,Horror; Mystery; Thriller,Bobby Farrelly,Leigh Whannell; James Wan,Ryan Kwanten; Amber Valletta; Donnie Wahlberg,34,6,37475,20000000,16800000,R,3/16/2007
+Awake,84,Crime; Mystery; Thriller,Brett Ratner,Joby Harold,Hayden Christensen; Jessica Alba; Terrence Howard,33,6.4,45975,8600000,14400000,R,11/30/2007
+The Kingdom,110,Action; Drama; Thriller,Peter Berg,Matthew Michael Carnahan,Jamie Foxx; Chris Cooper; Jennifer Garner,56,7,75110,70000000,47500000,R,9/28/2007
+Fantastic 4: Rise of the Silver Surfer,92,Action; Fantasy; Sci-Fi,Michael Davis,Don Payne; Mark Frost,Ioan Gruffudd; Jessica Alba; Chris Evans,45,5.6,125760,130000000,132000000,PG,6/15/2007
+Next,96,Action; Sci-Fi; Thriller,Mike Binder,Gary Goldman; Jonathan Hensleigh,Nicolas Cage; Julianne Moore; Jessica Biel,42,6.1,83750,70000000,18000000,PG-13,4/27/2007
+War,103,Action; Crime; Thriller,Josh Gordon,Lee Anthony Smith; Gregory J. Bradley,Jet Li; Jason Statham; Nadine Velazquez,36,6.1,50228,25000000,22500000,R,8/24/2007
+We Own the Night,117,Crime; Drama; Thriller,Mike Nichols,James Gray,Joaquin Phoenix; Mark Wahlberg; Eva Mendes,59,6.9,55613,21000000,27600000,R,10/12/2007
+Surf's Up,85,Animation; Comedy; Family,Rob Zombie,Don Rhymer; Ash Brannon,Shia LaBeouf; Zooey Deschanel; Jon Heder,64,6.8,36549,85000000,58900000,PG,6/8/2007
+Epic Movie,86,Adventure; Comedy,Tom Shadyac,Jason Friedberg; Aaron Seltzer,Kal Penn; Jennifer Coolidge; Fred Willard,17,2.3,68837,20000000,39700000,PG-13,1/26/2007
+Premonition,96,Drama; Fantasy; Mystery,Mitchell Lichtenstein,Bill Kelly,Sandra Bullock; Julian McMahon; Amber Valletta,29,5.7,43414,20000000,47900000,PG-13,3/16/2007
+Reign Over Me,124,Drama,James Foley,Mike Binder,Adam Sandler; Don Cheadle; Jada Pinkett Smith,61,7.5,66229,20000000,19700000,R,3/23/2007
+Funny Games,111,Crime; Drama; Thriller,Wes Anderson,Michael Haneke,Naomi Watts; Tim Roth; Michael Pitt,44,6.4,45838,15000000,1294640,R,4/4/2008
+Halloween,109,Horror,Neil Jordan,Rob Zombie; John Carpenter,Scout Taylor-Compton; Malcolm McDowell; Tyler Mane,47,6,61732,15000000,58300000,R,8/31/2007
+I'm Not There.,135,Biography; Drama; Music,Marc Lawrence,Todd Haynes; Oren Moverman,Christian Bale; Cate Blanchett; Heath Ledger,73,6.9,36193,20000000,4017609,R,11/28/2007
+The Darjeeling Limited,91,Adventure; Comedy; Drama,Paul Haggis,Wes Anderson; Roman Coppola,Owen Wilson; Adrien Brody; Jason Schwartzman,67,7.1,82482,17500000,11900000,R,10/26/2007
+Hostel: Part II,93,Horror,Andy Fickman,Eli Roth; Eli Roth,Lauren German; Heather Matarazzo; Bijou Phillips,46,5.4,49009,10000000,17500000,R,6/8/2007
+Walk Hard: The Dewey Cox Story,96,Comedy; Drama; Music,Amy Heckerling,Judd Apatow; Jake Kasdan,John C. Reilly; Jenna Fischer; David Krumholtz,63,6.6,42370,35000000,18300000,R,12/21/2007
+Charlie Wilson's War,102,Biography; Comedy; Drama,Colin Strause,Aaron Sorkin; George Crile,Tom Hanks; Julia Roberts; Philip Seymour Hoffman,69,7.1,65740,75000000,66600000,R,12/21/2007
+The Dark Knight,152,Action; Crime; Drama,Christopher Nolan,Jonathan Nolan; Christopher Nolan,Christian Bale; Heath Ledger; Aaron Eckhart,82,9,921868,185000000,535000000,PG-13,7/18/2008
+Twilight,122,Drama; Fantasy; Romance,Catherine Hardwicke,Melissa Rosenberg; Stephenie Meyer,Kristen Stewart; Robert Pattinson; Billy Burke,56,5.2,236346,37000000,193000000,PG-13,11/21/2008
+Taken,93,Action; Crime; Thriller,Pierre Morel,Luc Besson; Robert Mark Kamen,Liam Neeson; Maggie Grace; Famke Janssen,50,7.9,293350,25000000,145000000,PG-13,1/30/2009
+Iron Man,126,Action; Adventure; Sci-Fi,Jon Favreau,Mark Fergus; Hawk Ostby,Robert Downey Jr.; Gwyneth Paltrow; Terrence Howard,79,7.9,368497,140000000,318000000,PG-13,5/2/2008
+Forgetting Sarah Marshall,111,Comedy; Drama; Romance,Marc Forster,Jason Segel,Kristen Bell; Jason Segel; Paul Rudd,67,7.2,146909,30000000,62900000,R,4/18/2008
+Pineapple Express,111,Action; Comedy; Crime,Andrew Stanton,Seth Rogen; Evan Goldberg,Seth Rogen; James Franco; Gary Cole,64,7,147823,27000000,87300000,R,8/6/2008
+WALLE,98,Animation; Adventure; Family,Mark Osborne,Andrew Stanton; Pete Docter,Ben Burtt; Elissa Knight; Jeff Garlin,94,8.5,378530,180000000,224000000,G,6/27/2008
+Gran Torino,116,Drama,Clint Eastwood,Nick Schenk; Dave Johannson,Clint Eastwood; Bee Vang; Christopher Carley,72,8.2,318533,33000000,148000000,R,1/9/2009
+Quantum of Solace,106,Action; Adventure; Crime,Kevin Smith,Paul Haggis; Neal Purvis,Daniel Craig; Olga Kurylenko; Mathieu Amalric,58,6.7,199684,200000000,168000000,PG-13,11/14/2008
+Step Brothers,98,Comedy,Adam McKay,Will Ferrell; Adam McKay,Will Ferrell; John C. Reilly; Mary Steenburgen,51,6.7,125728,65000000,100000000,R,7/25/2008
+Jumper,88,Action; Adventure; Sci-Fi,David Wain,David S. Goyer; Jim Uhls,Hayden Christensen; Samuel L. Jackson; Jamie Bell,35,5.9,152283,85000000,80200000,PG-13,2/14/2008
+The Incredible Hulk,112,Action; Sci-Fi; Thriller,Peyton Reed,Zak Penn; Zak Penn,Edward Norton; Liv Tyler; Tim Roth,61,6.9,188928,150000000,135000000,PG-13,6/13/2008
+Yes Man,104,Comedy; Romance,Kathryn Bigelow,Nicholas Stoller; Jarrad Paul,Jim Carrey; Zooey Deschanel; Bradley Cooper,46,6.8,170980,70000000,97700000,PG-13,12/17/2008
+Role Models,99,Comedy,Danny Boyle,Timothy Dowling; W. Blake Herron,Paul Rudd; Seann William Scott; Elizabeth Banks,60,6.9,128807,28000000,67300000,R,11/7/2008
+Kung Fu Panda,90,Animation; Action; Adventure,Nicholas Stoller,Jonathan Aibel; Glenn Berger,Jack Black; Ian McShane; Angelina Jolie,73,7.6,170216,130000000,215000000,PG,6/6/2008
+Slumdog Millionaire,120,Drama; Romance; Thriller,Ben Stiller,Simon Beaufoy; Vikas Swarup,Dev Patel; Freida Pinto; Saurabh Shukla,86,8.1,376355,15000000,141000000,R,1/23/2009
+The Curious Case of Benjamin Button,166,Adventure; Drama; Fantasy,Louis Leterrier,Eric Roth; Eric Roth,Brad Pitt; Cate Blanchett; Tilda Swinton,70,7.8,278878,150000000,128000000,PG-13,12/25/2008
+The Hurt Locker,131,Drama; Thriller; War,Gabriele Muccino,Mark Boal,Jeremy Renner; Anthony Mackie; Brian Geraghty,94,7.7,192990,15000000,17000000,R,10/10/2008
+The Boy in the Striped Pajamas,94,Drama; History; War,Timur Bekmambetov,John Boyne; Mark Herman,Asa Butterfield; David Thewlis; Rupert Friend,55,7.8,64816,12500000,9030581,PG-13,11/28/2008
+Wanted,110,Action; Crime; Thriller,David Fincher,Michael Brandt; Derek Haas,Angelina Jolie; James McAvoy; Morgan Freeman,64,6.7,200940,75000000,332816,R,6/27/2008
+Tropic Thunder,107,Action; Comedy,Guy Ritchie,Justin Theroux; Ben Stiller,Ben Stiller; Jack Black; Robert Downey Jr.,71,7,196435,92000000,110000000,R,8/13/2008
+In Bruges,107,Comedy; Crime; Drama,Paul W.S. Anderson,Martin McDonagh,Colin Farrell; Brendan Gleeson; Ciarn Hinds,67,8,202167,15000000,7757130,R,4/18/2008
+Zack and Miri Make a Porno,101,Comedy; Romance,Sanaa Hamri,Kevin Smith,Seth Rogen; Elizabeth Banks; Craig Robinson,56,6.7,105050,30000000,31500000,R,10/31/2008
+Seven Pounds,123,Drama,Mark Herman,Grant Nieporte,Will Smith; Rosario Dawson; Woody Harrelson,36,7.5,149889,55000000,70000000,PG-13,12/19/2008
+Hancock,92,Action; Fantasy,Doug Liman,Vincent Ngo; Vince Gilligan,Will Smith; Charlize Theron; Jason Bateman,49,6.5,193877,150000000,228000000,PG-13,7/2/2008
+RocknRolla,114,Action; Crime; Thriller,Martin McDonagh,Guy Ritchie,Gerard Butler; Tom Wilkinson; Idris Elba,53,7.3,127598,18000000,5694401,R,10/31/2008
+Bolt,96,Animation; Adventure; Comedy,Jeff Wadlow,Dan Fogelman; Chris Williams,John Travolta; Miley Cyrus; Susie Essman,67,7,85164,150000000,114000000,PG,11/21/2008
+Body of Lies,128,Action; Drama; Thriller,Olivier Megaton,William Monahan; David Ignatius,Leonardo DiCaprio; Russell Crowe; Mark Strong,57,7.1,113443,70000000,39400000,R,10/10/2008
+The Reader,124,Drama; Romance,Wilson Yip,David Hare; Bernhard Schlink,Kate Winslet; Ralph Fiennes; Bruno Ganz,58,7.6,118737,32000000,34200000,R,1/30/2009
+Sex and the City,145,Comedy; Drama; Romance,Steven Spielberg,Michael Patrick King; Candace Bushnell,Sarah Jessica Parker; Kim Cattrall; Cynthia Nixon,53,5.2,74175,65000000,153000000,R,5/30/2008
+Indiana Jones and the Kingdom of the Crystal Skull,122,Action; Adventure,Roger Donaldson,David Koepp; George Lucas,Harrison Ford; Cate Blanchett; Shia LaBeouf,65,6.3,217228,185000000,317000000,PG-13,5/22/2008
+Never Back Down,110,Action; Drama; Sport,Ridley Scott,Chris Hauty,Sean Faris; Djimon Hounsou; Amber Heard,39,6.3,49212,20000000,24900000,PG-13,3/14/2008
+Death Race,105,Action; Sci-Fi; Thriller,Edward Zwick,Paul W.S. Anderson; Paul W.S. Anderson,Jason Statham; Joan Allen; Tyrese Gibson,43,6.4,107051,45000000,36100000,R,8/22/2008
+Sex Drive,109,Adventure; Comedy; Romance,Baz Luhrmann,Sean Anders; John Morris,Josh Zuckerman; Clark Duke; Amanda Crew,49,6.6,50450,19000000,8402485,R,10/17/2008
+Defiance,137,Action; Drama; History,Sean Anders,Clayton Frohman; Edward Zwick,Daniel Craig; Liev Schreiber; Jamie Bell,58,7.1,76199,32000000,28600000,R,1/16/2009
+Cloverfield,85,Action; Sci-Fi; Thriller,Darren Aronofsky,Drew Goddard,Mike Vogel; Jessica Lucas; Lizzy Caplan,64,7.2,205146,25000000,80000000,PG-13,1/18/2008
+Mamma Mia!,108,Comedy; Musical; Romance,Byron Howard,Catherine Johnson; Catherine Johnson,Meryl Streep; Pierce Brosnan; Amanda Seyfried,51,6.3,87868,52000000,144000000,PG-13,7/18/2008
+21,123,Crime; Drama,Stephen Daldry,Peter Steinfeld; Allan Loeb,Jim Sturgess; Kate Bosworth; Kevin Spacey,48,6.7,124949,35000000,81200000,PG-13,3/28/2008
+The Wrestler,109,Drama; Romance; Sport,Robert Luketic,Robert D. Siegel,Mickey Rourke; Marisa Tomei; Evan Rachel Wood,81,8,188435,6000000,26200000,R,1/30/2009
+Changeling,141,Drama; History; Mystery,Matt Reeves,J. Michael Straczynski,Angelina Jolie; Colm Feore; Amy Ryan,63,7.8,136143,55000000,35700000,R,10/31/2008
+Burn After Reading,96,Comedy; Crime; Drama,Michael Patrick King,Joel Coen; Ethan Coen,Brad Pitt; Frances McDormand; George Clooney,63,7,164762,37000000,60400000,R,9/12/2008
+Revolutionary Road,119,Drama; Romance,Clint Eastwood,Justin Haythe; Richard Yates,Leonardo DiCaprio; Kate Winslet; Christopher Fitzgerald,69,7.4,99156,35000000,22900000,R,1/23/2009
+Hellboy II: The Golden Army,120,Action; Adventure; Fantasy,Tom Vaughan,Guillermo del Toro; Guillermo del Toro,Ron Perlman; Selma Blair; Doug Jones,78,7.1,134442,85000000,75800000,PG-13,7/11/2008
+The Chronicles of Narnia: Prince Caspian,150,Action; Adventure; Family,Iain Softley,Andrew Adamson; Christopher Markus,Ben Barnes; Skandar Keynes; Georgie Henley,62,6.6,90781,225000000,142000000,PG,5/16/2008
+Vicky Cristina Barcelona,96,Drama; Romance,Chad Burns,Woody Allen,Rebecca Hall; Scarlett Johansson; Javier Bardem,70,7.2,120372,15500000,23200000,PG-13,8/15/2008
+The Mummy: Tomb of the Dragon Emperor,112,Action; Adventure; Fantasy,Fred Wolf,Alfred Gough; Miles Millar,Brendan Fraser; Jet Li; Maria Bello,31,5.2,74508,145000000,102000000,PG-13,8/1/2008
+You Don't Mess with the Zohan,113,Action; Comedy; Drama,Woody Allen,Adam Sandler; Robert Smigel,Adam Sandler; John Turturro; Emmanuelle Chriqui,54,5.5,102274,90000000,100000000,PG-13,6/6/2008
+Doubt,104,Drama; Mystery,Andrew Adamson,John Patrick Shanley; John Patrick Shanley,Meryl Streep; Philip Seymour Hoffman; Amy Adams,68,7.5,66581,20000000,33400000,PG-13,12/25/2008
+Eagle Eye,118,Action; Mystery; Thriller,Bryan Singer,John Glenn; Travis Wright,Shia LaBeouf; Michelle Monaghan; Rosario Dawson,43,6.6,106951,80000000,101000000,PG-13,9/26/2008
+The Bank Job,111,Crime; Drama; Thriller,Eric Darnell,Dick Clement; Ian La Frenais,Jason Statham; Saffron Burrows; Stephen Campbell Moore,69,7.3,106415,20000000,30000000,R,3/7/2008
+Madagascar: Escape 2 Africa,89,Animation; Action; Adventure,Adam Shankman,Etan Cohen; Eric Darnell,Ben Stiller; Chris Rock; David Schwimmer,61,6.7,76771,150000000,180000000,PG,11/7/2008
+My Best Friend's Girl,101,Comedy; Romance,Anne Fletcher,Jordan Cahan,Kate Hudson; Dane Cook; Jason Biggs,34,5.8,26899,40000000,19200000,R,9/19/2008
+What Happens in Vegas,99,Comedy; Romance,D.J. Caruso,Dana Fox,Cameron Diaz; Ashton Kutcher; Rob Corddry,36,6,88240,35000000,80300000,PG-13,5/9/2008
+Valkyrie,121,Drama; History; Thriller,Ethan Coen,Christopher McQuarrie; Nathan Alexander,Tom Cruise; Bill Nighy; Carice van Houten,56,7.1,113441,75000000,83100000,PG-13,12/25/2008
+Horton Hears a Who!,86,Animation; Adventure; Comedy,Eric Brevig,Ken Daurio; Cinco Paul,Jim Carrey; Steve Carell; Carol Burnett,71,6.9,69926,85000000,155000000,G,3/14/2008
+Doomsday,105,Action; Sci-Fi,Peter Segal,Neil Marshall,Rhona Mitra; Bob Hoskins; Alexander Siddig,51,6,48650,30000000,11000000,R,3/14/2008
+27 Dresses,111,Comedy; Romance,Saul Dibb,Aline Brosh McKenna,Katherine Heigl; James Marsden; Malin Akerman,47,6,70271,30000000,76800000,PG-13,1/18/2008
+Get Smart,110,Action; Comedy; Thriller,Guillermo del Toro,Tom J. Astle; Matt Ember,Steve Carell; Anne Hathaway; Alan Arkin,54,6.5,115953,80000000,130000000,PG-13,6/20/2008
+The Other Boleyn Girl,115,Biography; Drama; History,Jimmy Hayward,Peter Morgan; Philippa Gregory,Natalie Portman; Scarlett Johansson; Eric Bana,50,6.7,54538,35000000,26800000,PG-13,2/29/2008
+Australia,165,Adventure; Drama; History,Dennis Dugan,Stuart Beattie; Baz Luhrmann,Nicole Kidman; Hugh Jackman; Shea Adams,53,6.6,72296,130000000,49600000,PG-13,11/26/2008
+Bedtime Stories,99,Comedy; Family; Fantasy,Sylvester Stallone,Matt Lopez; Tim Herlihy,Adam Sandler; Keri Russell; Courteney Cox,33,6,46333,80000000,110000000,PG,12/25/2008
+The Day the Earth Stood Still,104,Drama; Sci-Fi; Thriller,Andy Tennant,David Scarpa; Edmund H. North,Keanu Reeves; Jennifer Connelly; Kathy Bates,40,5.4,95866,80000000,79400000,PG-13,12/12/2008
+Journey to the Center of the Earth,93,Action; Adventure; Family,John Moore,Michael D. Weiss; Jennifer Flackett,Brendan Fraser; Josh Hutcherson; Anita Briem,57,5.7,50802,45000000,102000000,PG,7/11/2008
+Fool's Gold,112,Adventure; Comedy; Romance,Jon Hurwitz,John Claflin; Daniel Zelman,Matthew McConaughey; Kate Hudson; Donald Sutherland,29,5.5,37734,70000000,70200000,PG-13,2/8/2008
+Babylon A.D.,90,Action; Adventure; Sci-Fi,Pascal Laugier,Maurice G. Dantec; Mathieu Kassovitz,Vin Diesel; Michelle Yeoh; Mlanie Thierry,26,5.4,56516,70000000,22500000,PG-13,8/29/2008
+Rambo,92,Action; Thriller; War,Justin Chadwick,Art Monterastelli; Sylvester Stallone,Sylvester Stallone; Julie Benz; Matthew Marsden,46,7.1,128024,50000000,42800000,R,1/25/2008
+Disaster Movie,87,Comedy,M. Night Shyamalan,Jason Friedberg; Aaron Seltzer,Carmen Electra; Vanessa Lachey; Nicole Parker,15,1.9,55007,25000000,14200000,PG-13,8/29/2008
+The Spiderwick Chronicles,96,Adventure; Family; Fantasy,Jason Friedberg,Karey Kirkpatrick; David Berenbaum,Freddie Highmore; Sarah Bolger; David Strathairn,62,6.6,41837,90000000,71100000,PG,2/14/2008
+Marley &amp; Me,115,Comedy; Drama; Family,David Frankel,Scott Frank; Don Roos,Owen Wilson; Jennifer Aniston; Eric Dane,53,7,73259,60000000,143000000,PG,12/25/2008
+Step Up 2: The Streets,98,Drama; Music; Romance,Scott Derrickson,Toni Ann Johnson; Karen Barna,Robert Hoffman; Briana Evigan; Cassie Ventura,50,5.8,42490,23000000,58000000,PG-13,2/14/2008
+"10,000 BC",109,Action; Adventure; Drama,Dave Filoni,Roland Emmerich; Harald Kloser,Camilla Belle; Steven Strait; Marco Khan,34,4.9,76993,105000000,94800000,PG-13,3/7/2008
+Let the Right One In,115,Drama; Horror,Tomas Alfredson,John Ajvide Lindqvist; John Ajvide Lindqvist,Kre Hedebrant; Lina Leandersson; Per Ragnar,82,8,123973,4000000,2122065,R,10/24/2008
+Max Payne,100,Action; Crime; Drama,John Patrick Shanley,Beau Thorne; Sam Lake,Mark Wahlberg; Mila Kunis; Beau Bridges,31,5.3,78332,35000000,40700000,PG-13,10/17/2008
+The Happening,91,Sci-Fi; Thriller,Jon M. Chu,M. Night Shyamalan,Mark Wahlberg; Zooey Deschanel; John Leguizamo,34,5.1,117379,48000000,64500000,R,6/13/2008
+The Strangers,86,Horror; Mystery; Thriller,Roland Emmerich,Bryan Bertino,Scott Speedman; Liv Tyler; Gemma Ward,47,6.1,61709,10000000,52500000,R,5/30/2008
+Milk,128,Biography; Drama; History,Mark Waters,Dustin Lance Black,Sean Penn; Josh Brolin; Emile Hirsch,84,7.7,90356,20000000,31800000,R,1/30/2009
+Saw V,92,Crime; Horror; Thriller,Nicolas Winding Refn,Patrick Melton; Marcus Dunstan,Scott Patterson; Costas Mandylor; Tobin Bell,20,5.6,55337,10800000,56700000,R,10/24/2008
+The Forbidden Kingdom,104,Action; Adventure; Fantasy,Nick Moore,John Fusco,Jackie Chan; Jet Li; Michael Angarano,57,6.6,62565,55000000,52000000,PG-13,4/18/2008
+Star Wars: The Clone Wars,98,Animation; Action; Adventure,Rob Cohen,Henry Gilroy; Steven Melching,Matt Lanter; Nika Futterman; Tom Kane,35,5.6,27750,8500000,35200000,PG,8/15/2008
+The Ruins,90,Horror; Thriller,Pete Travis,Scott B. Smith; Scott B. Smith,Shawn Ashmore; Jena Malone; Jonathan Tucker,44,5.8,44051,8000000,17400000,R,4/4/2008
+Harold &amp; Kumar Escape from Guantanamo Bay,114,Adventure; Comedy,John Erick Dowdle,Jon Hurwitz; Hayden Schlossberg,John Cho; Kal Penn; Neil Patrick Harris,57,6.6,82352,12000000,38100000,R,4/25/2008
+Mirrors,110,Horror; Mystery; Thriller,Howard McCain,Alexandre Aja; Grgory Levasseur,Kiefer Sutherland; Paula Patton; Amy Smart,35,6,56424,35000000,30700000,R,8/15/2008
+The Spirit,103,Action; Comedy; Crime,Jeffrey Nachmanoff,Frank Miller; Will Eisner,Gabriel Macht; Samuel L. Jackson; Scarlett Johansson,30,4.8,41563,60000000,19800000,PG-13,12/25/2008
+Vantage Point,90,Action; Crime; Drama,Peter Sollett,Barry Levy,Dennis Quaid; Forest Whitaker; Matthew Fox,40,6.6,95342,40000000,72300000,PG-13,2/22/2008
+Street Kings,109,Action; Crime; Drama,Alexandre Aja,James Ellroy; Kurt Wimmer,Keanu Reeves; Forest Whitaker; Hugh Laurie,55,6.8,71487,20000000,26400000,R,4/11/2008
+Nick and Norah's Infinite Playlist,90,Comedy; Drama; Music,David Ayer,Lorene Scafaria; Rachel Cohn,Michael Cera; Kat Dennings; Aaron Yoo,64,6.7,48567,9000000,31500000,PG-13,10/3/2008
+Outlander,115,Action; Adventure; Sci-Fi,Lexi Alexander,Dirk Blackman; Howard McCain,Jim Caviezel; Sophia Myles; Ron Perlman,40,6.2,43124,50000000,160641,R,7/11/2008
+G.I. Joe: The Rise of Cobra,118,Action; Adventure; Sci-Fi,Stephen Sommers,Stuart Beattie; David Elliot,Dennis Quaid; Channing Tatum; Marlon Wayans,32,5.7,110812,175000000,150000000,PG-13,8/7/2009
+Inglourious Basterds,153,Adventure; Drama; War,Quentin Tarantino,Quentin Tarantino,Brad Pitt; Diane Kruger; Eli Roth,69,8.3,439490,75000000,121000000,R,8/21/2009
+Star Trek,127,Action; Adventure; Sci-Fi,J.J. Abrams,Roberto Orci; Alex Kurtzman,Chris Pine; Zachary Quinto; Simon Pegg,83,8,293508,140000000,258000000,PG-13,5/8/2009
+Watchmen,162,Action; Mystery; Sci-Fi,Todd Phillips,David Hayter; Alex Tse,Jackie Earle Haley; Patrick Wilson; Carla Gugino,56,7.6,247627,130000000,108000000,R,3/6/2009
+The Hangover,100,Comedy,Pete Docter,Jon Lucas; Scott Moore,Zach Galifianakis; Bradley Cooper; Justin Bartha,73,7.8,335615,35000000,277000000,R,6/5/2009
+Avatar,162,Action; Adventure; Fantasy,James Cameron,James Cameron,Sam Worthington; Zoe Saldana; Sigourney Weaver,83,8,547669,237000000,761000000,PG-13,12/18/2009
+Up,96,Animation; Adventure; Comedy,Roland Emmerich,Pete Docter; Bob Peterson,Edward Asner; Jordan Nagai; John Ratzenberger,88,8.3,322124,175000000,293000000,PG,5/29/2009
+2012,158,Action; Adventure; Sci-Fi,Gavin Hood,Roland Emmerich; Harald Kloser,John Cusack; Thandie Newton; Chiwetel Ejiofor,49,5.8,174171,200000000,166000000,PG-13,11/13/2009
+The Blind Side,129,Biography; Drama; Sport,Zack Snyder,John Lee Hancock; Michael Lewis,Quinton Aaron; Sandra Bullock; Tim McGraw,53,7.6,115499,29000000,256000000,PG-13,11/20/2009
+Sherlock Holmes,128,Action; Adventure; Crime,John Lee Hancock,Michael Robert Johnson; Anthony Peckham,Robert Downey Jr.; Jude Law; Rachel McAdams,57,7.6,281418,90000000,209000000,PG-13,12/25/2009
+The Proposal,108,Comedy; Drama; Romance,Ken Kwapis,Pete Chiarelli,Sandra Bullock; Ryan Reynolds; Mary Steenburgen,48,6.7,120088,40000000,164000000,PG-13,6/19/2009
+Zombieland,88,Comedy; Horror,Marc Webb,Rhett Reese; Paul Wernick,Jesse Eisenberg; Emma Stone; Woody Harrelson,73,7.7,216119,23600000,75600000,R,10/2/2009
+(500) Days of Summer,95,Comedy; Drama; Romance,Ruben Fleischer,Scott Neustadter; Michael H. Weber,Zooey Deschanel; Joseph Gordon-Levitt; Geoffrey Arend,76,7.8,216279,7500000,32400000,PG-13,8/7/2009
+He's Just Not That Into You,129,Comedy; Drama; Romance,David Yates,Abby Kohn; Marc Silverstein,Jennifer Aniston; Jennifer Connelly; Morgan Lily,47,6.3,83048,40000000,93900000,PG-13,2/6/2009
+Harry Potter and the Half-Blood Prince,153,Adventure; Family; Fantasy,F. Gary Gray,Steve Kloves; J.K. Rowling,Daniel Radcliffe; Emma Watson; Rupert Grint,78,7.4,181834,250000000,302000000,PG,7/15/2009
+The Lovely Bones,135,Drama; Fantasy,Michael Bay,Fran Walsh; Philippa Boyens,Rachel Weisz; Mark Wahlberg; Saoirse Ronan,42,6.6,80010,65000000,43800000,PG-13,1/15/2010
+Coraline,100,Animation; Fantasy; Thriller,Anne Fletcher,Henry Selick; Neil Gaiman,Dakota Fanning; Teri Hatcher; John Hodgman,80,7.7,87998,60000000,75300000,PG,2/6/2009
+Public Enemies,140,Biography; Crime; Drama,Chris Weitz,Ronan Bennett; Michael Mann,Christian Bale; Johnny Depp; James Russo,70,7,149769,100000000,97100000,R,7/1/2009
+Law Abiding Citizen,109,Crime; Drama; Thriller,Peter Jackson,Kurt Wimmer,Gerard Butler; Jamie Foxx; Leslie Bibb,34,7.3,129653,50000000,73300000,R,10/16/2009
+Transformers: Revenge of the Fallen,150,Action; Adventure; Sci-Fi,John Hamburg,Ehren Kruger; Roberto Orci,Shia LaBeouf; Megan Fox; Josh Duhamel,35,5.9,200368,200000000,402000000,PG-13,6/24/2009
+Fast &amp; Furious,107,Action; Crime; Drama,Burr Steers,Chris Morgan; Gary Scott Thompson,Vin Diesel; Paul Walker; Michelle Rodriguez,45,6.5,101078,85000000,155000000,PG-13,4/3/2009
+The Twilight Saga: New Moon,130,Adventure; Drama; Fantasy,Jason Reitman,Melissa Rosenberg; Stephenie Meyer,Kristen Stewart; Robert Pattinson; Taylor Lautner,44,4.5,152518,50000000,297000000,PG-13,11/20/2009
+The Road,111,Adventure; Drama,McG,Cormac McCarthy; Joe Penhall,Viggo Mortensen; Charlize Theron; Kodi Smit-McPhee,64,7.3,109205,20000000,56692,R,12/2/2009
+17 Again,102,Comedy; Drama; Fantasy,Neill Blomkamp,Jason Filardi,Zac Efron; Matthew Perry; Leslie Mann,48,6.3,81307,20000000,64200000,PG-13,4/17/2009
+Up in the Air,109,Drama; Romance,Robert Schwentke,Walter Kirn; Jason Reitman,George Clooney; Vera Farmiga; Anna Kendrick,83,7.5,176140,25000000,83800000,R,12/23/2009
+District 9,112,Action; Sci-Fi; Thriller,Alex Proyas,Neill Blomkamp; Terri Tatchell,Sharlto Copley; David James; Jason Cope,81,8,334786,30000000,116000000,R,8/14/2009
+Couples Retreat,113,Comedy,Robert Luketic,Jon Favreau; Vince Vaughn,Vince Vaughn; Malin Akerman; Jon Favreau,23,5.4,55641,60000000,109000000,PG-13,10/9/2009
+Terminator Salvation,115,Action; Drama; Sci-Fi,Niels Arden Oplev,John D. Brancato; Michael Ferris,Christian Bale; Sam Worthington; Anton Yelchin,52,6.7,181385,200000000,125000000,PG-13,5/21/2009
+The Girl with the Dragon Tattoo,152,Crime; Mystery; Thriller,Karyn Kusama,Nikolaj Arcel; Rasmus Heisterberg,Michael Nyqvist; Noomi Rapace; Ewa Frling,76,7.8,112189,13000000,10100000,R,2/27/2009
+Angels &amp; Demons,138,Mystery; Thriller,Duncan Jones,David Koepp; Akiva Goldsman,Tom Hanks; Ewan McGregor; Ayelet Zurer,48,6.6,127467,150000000,133000000,PG-13,5/15/2009
+Pandorum,108,Action; Horror; Sci-Fi,Shane Acker,Travis Milloy; Travis Milloy,Dennis Quaid; Ben Foster; Cam Gigandet,28,6.8,78369,33000000,10300000,R,9/25/2009
+My Sister's Keeper,109,Drama,Shawn Levy,Jeremy Leven; Nick Cassavetes,Cameron Diaz; Abigail Breslin; Alec Baldwin,51,7.3,43794,30000000,49200000,PG-13,6/26/2009
+The Collector,90,Crime; Horror; Thriller,Christian Alvart,Patrick Melton; Marcus Dunstan,Josh Stewart; Andrea Roth; Juan Fernndez,29,6.3,24364,6000000,7706394,R,7/31/2009
+The Ugly Truth,96,Comedy; Romance,John Hillcoat,Nicole Eastman; Karen McCullah Lutz,Katherine Heigl; Gerard Butler; Bree Turner,28,6.4,91132,38000000,88900000,R,7/24/2009
+Moon,97,Drama; Sci-Fi,Ron Howard,Duncan Jones; Nathan Parker,Sam Rockwell; Kevin Spacey; Dominique McElligott,67,8,146427,5000000,5009677,R,7/17/2009
+Year One,97,Adventure; Comedy; Sci-Fi,Paul McGuigan,Harold Ramis; Gene Stupnitsky,Jack Black; Michael Cera; Olivia Wilde,34,4.8,53480,60000000,43300000,PG-13,6/19/2009
+9,79,Animation; Action; Adventure,Peter Billingsley,Pamela Pettler; Shane Acker,Elijah Wood; Jennifer Connelly; Crispin Glover,60,7,70300,30000000,31700000,PG-13,9/9/2009
+"I Love You, Man",105,Comedy; Romance,Terry Gilliam,John Hamburg; Larry Levin,Paul Rudd; Jason Segel; Rashida Jones,70,7.1,110660,40000000,71100000,R,3/20/2009
+The Secret in Their Eyes,129,Drama; Mystery; Thriller,Phil Lord,Eduardo Sacheri; Juan Jos Campanella,Ricardo Darn; Soledad Villamil; Pablo Rago,81,8.2,63961,2000000,6390014,R,8/13/2009
+Cloudy with a Chance of Meatballs,90,Animation; Comedy; Family,Carlos Saldanha,Phil Lord; Chris Miller,Anna Faris; Bill Hader; Bruce Campbell,66,7,69227,100000000,125000000,PG,9/18/2009
+The Time Traveler's Wife,107,Drama; Fantasy; Romance,Juan Jos Campanella,Bruce Joel Rubin; Audrey Niffenegger,Eric Bana; Rachel McAdams; Ron Livingston,47,7,69916,39000000,63400000,PG-13,8/14/2009
+Monsters vs Aliens,94,Animation; Action; Adventure,Scott Stewart,Maya Forbes; Wallace Wolodarsky,Reese Witherspoon; Rainn Wilson; Stephen Colbert,56,6.6,67263,175000000,198000000,PG,3/27/2009
+Knowing,121,Drama; Mystery; Sci-Fi,Jonathan Mostow,Ryne Douglas Pearson; Juliet Snowden,Nicolas Cage; Chandler Canterbury; Rose Byrne,41,6.2,126448,50000000,79900000,PG-13,3/20/2009
+Where the Wild Things Are,101,Adventure; Drama; Family,Mark Neveldine,Spike Jonze; Dave Eggers,Max Records; Catherine O'Hara; Forest Whitaker,71,6.8,61045,100000000,77200000,PG,10/16/2009
+Gamer,95,Action; Sci-Fi; Thriller,Mark Neveldine,Mark Neveldine; Brian Taylor,Gerard Butler; Michael C. Hall; Ludacris,27,5.7,73933,50000000,20500000,R,9/4/2009
+The Imaginarium of Doctor Parnassus,123,Adventure; Fantasy; Mystery,Jaco Van Dormael,Terry Gilliam; Charles McKeown,Christopher Plummer; Lily Cole; Heath Ledger,65,6.9,87007,30000000,7689607,PG-13,1/8/2010
+Ice Age: Dawn of the Dinosaurs,94,Animation; Action; Adventure,Rob Letterman,Peter Ackerman; Michael Berg,Ray Romano; John Leguizamo; Denis Leary,50,7,91404,90000000,197000000,PG,7/1/2009
+Legion,100,Action; Fantasy; Horror,Lasse Hallstrm,Peter Schink; Scott Stewart,Paul Bettany; Dennis Quaid; Charles S. Dutton,32,5.1,52499,26000000,40200000,R,1/22/2010
+Fantastic Mr. Fox,87,Animation; Adventure; Comedy,Ron Clements,Roald Dahl; Wes Anderson,George Clooney; Meryl Streep; Bill Murray,83,7.8,78440,40000000,21000000,PG,11/25/2009
+Race to Witch Mountain,98,Action; Adventure; Family,Jaume Collet-Serra,Matt Lopez; Mark Bomback,Dwayne Johnson; Carla Gugino; AnnaSophia Robb,52,5.7,26336,65000000,67100000,PG,3/13/2009
+Push,111,Action; Sci-Fi; Thriller,Wes Anderson,David Bourla,Camilla Belle; Dakota Fanning; Chris Evans,36,6,62873,38000000,31800000,PG-13,2/6/2009
+The Princess and the Frog,97,Animation; Family; Fantasy,Lone Scherfig,Ron Clements; John Musker,Anika Noni Rose; Keith David; Oprah Winfrey,73,7.1,50157,105000000,104000000,G,12/11/2009
+Night at the Museum: Battle of the Smithsonian,105,Action; Adventure; Comedy,Henry Selick,Robert Ben Garant; Thomas Lennon,Ben Stiller; Owen Wilson; Amy Adams,42,5.9,66950,150000000,177000000,PG,5/22/2009
+Surrogates,89,Action; Sci-Fi; Thriller,Kevin Macdonald,Michael Ferris; John D. Brancato,Bruce Willis; Radha Mitchell; Ving Rhames,45,6.2,101875,80000000,38500000,PG-13,9/25/2009
+Jennifer's Body,102,Comedy; Horror,Christian Alvart,Diablo Cody,Megan Fox; Amanda Seyfried; Adam Brody,47,5.1,59661,16000000,16200000,R,9/18/2009
+The Men Who Stare at Goats,94,Comedy; War,Patrick Tatopoulos,Peter Straughan; Jon Ronson,Ewan McGregor; George Clooney; Kevin Spacey,54,6.3,76394,25000000,32400000,R,11/6/2009
+Invictus,134,Biography; Drama; History,Antoine Fuqua,Anthony Peckham; John Carlin,Morgan Freeman; Matt Damon; Tony Kgoroge,74,7.3,77621,60000000,37500000,PG-13,12/11/2009
+Crank: High Voltage,96,Action; Comedy; Crime,Sam Raimi,Mark Neveldine; Brian Taylor,Jason Statham; Amy Smart; Clifton Collins Jr.,41,6.2,67201,20000000,13600000,R,4/17/2009
+Funny People,146,Comedy; Drama,Adam Elliot,Judd Apatow,Adam Sandler; Seth Rogen; Leslie Mann,60,6.5,75587,75000000,51900000,R,7/31/2009
+Case 39,109,Horror; Mystery; Thriller,Tyler Perry,Ray Wright,Rene Zellweger; Ian McShane; Jodelle Ferland,25,6.1,35543,27000000,13200000,R,10/1/2010
+The Fourth Kind,98,Mystery; Sci-Fi; Thriller,Grant Heslov,Olatunde Osunsanmi; Olatunde Osunsanmi,Milla Jovovich; Elias Koteas; Will Patton,34,5.8,41397,10000000,25400000,PG-13,11/6/2009
+Underworld: Rise of the Lycans,92,Action; Adventure; Fantasy,Michael Spierig,Danny McBride; Dirk Blackman,Rhona Mitra; Michael Sheen; Bill Nighy,44,6.5,72518,35000000,45800000,R,1/23/2009
+Daybreakers,98,Action; Drama; Horror,Spike Jonze,Michael Spierig; Peter Spierig,Ethan Hawke; Willem Dafoe; Sam Neill,57,6.5,71922,20000000,30000000,R,1/8/2010
+The Taking of Pelham 1 2 3,106,Action; Crime; Thriller,Vincenzo Natali,Brian Helgeland; John Godey,Denzel Washington; John Travolta; Luis Guzmn,55,6.4,91091,100000000,65200000,R,6/12/2009
+Chloe,96,Drama; Mystery; Thriller,Lee Daniels,Erin Cressida Wilson; Anne Fontaine,Julianne Moore; Amanda Seyfried; Liam Neeson,48,6.3,35130,11000000,3074838,R,3/10/2010
+Drag Me to Hell,99,Horror; Thriller,Lars von Trier,Sam Raimi; Ivan Raimi,Alison Lohman; Justin Long; Ruth Livier,83,6.7,105431,30000000,42100000,PG-13,5/29/2009
+Splice,104,Horror; Sci-Fi,Atom Egoyan,Vincenzo Natali; Antoinette Terry Bryant,Adrien Brody; Sarah Polley; Delphine Chanac,66,5.9,53782,26000000,17000000,R,6/4/2010
+The Boondock Saints II: All Saints Day,118,Action; Comedy; Crime,Marcus Dunstan,Troy Duffy; Troy Duffy,Sean Patrick Flanery; Norman Reedus; Billy Connolly,24,6.3,36195,8000000,10200000,R,5/22/2010
+Fired Up!,90,Comedy,Tony Scott,Will Gluck,Eric Christian Olsen; Nicholas D'Agosto; Sarah Roemer,31,6,25478,20000000,17200000,PG-13,2/20/2009
+It's Complicated,120,Comedy; Romance,Marcus Nispel,Nancy Meyers,Meryl Streep; Steve Martin; Alec Baldwin,57,6.6,46808,85000000,113000000,R,12/25/2009
+The Invention of Lying,100,Comedy; Fantasy; Romance,Rob Marshall,Ricky Gervais; Matthew Robinson,Ricky Gervais; Jennifer Garner; Jonah Hill,58,6.4,63022,18500000,18400000,PG-13,10/2/2009
+Precious,110,Drama,Jim Sheridan,Geoffrey Fletcher; Sapphire,Gabourey Sidibe; Mo'Nique; Paula Patton,79,7.4,54530,10000000,47400000,R,11/20/2009
+A Perfect Getaway,98,Adventure; Mystery; Thriller,Miguel Arteta,David Twohy,Milla Jovovich; Steve Zahn; Timothy Olyphant,63,6.5,38235,14000000,15500000,R,8/7/2009
+Friday the 13th,97,Horror,Brad Silberling,Damian Shannon; Mark Swift,Jared Padalecki; Amanda Righetti; Derek Mears,34,5.5,49118,19000000,65000000,R,2/13/2009
+Brothers,105,Drama; Thriller; War,Hoyt Yeatman,David Benioff; Susanne Bier,Jake Gyllenhaal; Natalie Portman; Tobey Maguire,58,7.1,55096,26000000,28500000,R,12/4/2009
+Ninja Assassin,99,Action; Crime; Thriller,Ethan Coen,Matthew Sand; J. Michael Straczynski,Rain; Rick Yune; Naomie Harris,34,6.3,42041,40000000,38100000,R,11/25/2009
+Antichrist,108,Drama; Horror,George Tillman Jr.,Lars von Trier,Willem Dafoe; Charlotte Gainsbourg; Storm Acheche Sahlstrm,49,6.5,50672,11000000,397070,,5/20/2009
+A Single Man,99,Drama,Richard Curtis,Christopher Isherwood; Tom Ford,Colin Firth; Julianne Moore; Matthew Goode,77,7.5,53511,7000000,9166863,R,12/17/2009
+Brooklyn's Finest,132,Crime; Drama; Thriller,David Twohy,Michael C. Martin,Richard Gere; Don Cheadle; Ethan Hawke,43,6.7,39154,25000000,27200000,R,3/5/2010
+Red,111,Action; Comedy; Crime,Christopher Nolan,Jon Hoeber; Erich Hoeber,Bruce Willis; Helen Mirren; Morgan Freeman,61,7,131161,58000000,90400000,PG-13,10/15/2010
+Inception,148,Action; Adventure; Mystery,Pierre Coffin,Christopher Nolan,Leonardo DiCaprio; Joseph Gordon-Levitt; Ellen Page,74,8.8,737609,160000000,293000000,PG-13,7/16/2010
+Despicable Me,95,Animation; Comedy; Crime,Matthew Vaughn,Cinco Paul; Ken Daurio,Steve Carell; Jason Segel; Russell Brand,72,7.6,150657,69000000,252000000,PG,7/9/2010
+Iron Man 2,124,Action; Adventure; Sci-Fi,Tom McGrath,Justin Theroux; Stan Lee,Robert Downey Jr.; Mickey Rourke; Gwyneth Paltrow,57,7.1,246667,200000000,312000000,PG-13,5/7/2010
+Kick-Ass,117,Action; Comedy; Crime,Paul Haggis,Jane Goldman; Matthew Vaughn,Aaron Taylor-Johnson; Nicolas Cage; Chlo Grace Moretz,66,7.8,253759,30000000,48000000,R,4/16/2010
+The Social Network,120,Biography; Drama,Phillip Noyce,Aaron Sorkin; Ben Mezrich,Jesse Eisenberg; Andrew Garfield; Justin Timberlake,95,7.9,274509,40000000,96900000,PG-13,10/1/2010
+Easy A,92,Comedy; Romance,Darren Aronofsky,Bert V. Royal,Emma Stone; Amanda Bynes; Penn Badgley,72,7.1,140242,8000000,58400000,PG-13,9/17/2010
+Black Swan,108,Drama; Mystery; Thriller,David O. Russell,Mark Heyman; Andres Heinz,Natalie Portman; Mila Kunis; Vincent Cassel,79,8.1,328243,13000000,107000000,R,12/17/2010
+Shutter Island,138,Mystery; Thriller,Dennis Dugan,Laeta Kalogridis; Dennis Lehane,Leonardo DiCaprio; Emily Mortimer; Mark Ruffalo,63,8,373424,80000000,128000000,R,2/19/2010
+Percy Jackson &amp; the Olympians: The Lightning Thief,118,Adventure; Family; Fantasy,Robert Schwentke,Craig Titley; Rick Riordan,Logan Lerman; Kevin McKidd; Steve Coogan,47,5.8,71008,95000000,88800000,PG,2/12/2010
+The Fighter,116,Biography; Drama; Sport,Dean DeBlois,Scott Silver; Paul Tamasy,Mark Wahlberg; Christian Bale; Amy Adams,79,7.9,156186,25000000,93600000,R,12/17/2010
+How to Train Your Dragon,98,Animation; Adventure; Comedy,Jon Favreau,William Davies; Dean DeBlois,Jay Baruchel; Gerard Butler; Christopher Mintz-Plasse,74,8.2,209526,165000000,218000000,PG,3/26/2010
+Tangled,100,Animation; Comedy; Family,David Fincher,Dan Fogelman; Jacob Grimm,Mandy Moore; Zachary Levi; Donna Murphy,71,7.8,128311,260000000,201000000,PG,11/24/2010
+Blue Valentine,112,Drama; Romance,Nathan Greno,Derek Cianfrance; Joey Curtis,Ryan Gosling; Michelle Williams; John Doman,81,7.4,80503,1000000,9706328,R,12/27/2010
+Toy Story 3,103,Animation; Adventure; Comedy,Sylvester Stallone,John Lasseter; Andrew Stanton,Tom Hanks; Tim Allen; Joan Cusack,92,8.5,279651,200000000,415000000,G,6/18/2010
+The Other Guys,107,Action; Comedy; Crime,Will Gluck,Adam McKay; Chris Henchy,Will Ferrell; Mark Wahlberg; Derek Jeter,64,6.6,107624,100000000,119000000,PG-13,8/6/2010
+The A-Team,117,Action; Adventure; Thriller,Joseph Kosinski,Joe Carnahan; Brian Bloom,Liam Neeson; Bradley Cooper; Sharlto Copley,47,6.8,136450,110000000,77200000,PG-13,6/11/2010
+Alice in Wonderland,108,Adventure; Family; Fantasy,Derek Cianfrance,Linda Woolverton; Lewis Carroll,Mia Wasikowska; Johnny Depp; Helena Bonham Carter,53,6.5,185523,200000000,334000000,PG,3/5/2010
+TRON: Legacy,125,Action; Adventure; Sci-Fi,Chris Columbus,Edward Kitsis; Adam Horowitz,Jeff Bridges; Garrett Hedlund; Olivia Wilde,49,6.9,171218,170000000,172000000,PG,12/17/2010
+Robin Hood,140,Action; Adventure; Drama,Louis Leterrier,Brian Helgeland; Brian Helgeland,Russell Crowe; Cate Blanchett; Matthew Macfadyen,53,6.7,134630,200000000,105000000,PG-13,5/14/2010
+The Expendables,103,Action; Adventure; Thriller,David Yates,Dave Callaham; Sylvester Stallone,Sylvester Stallone; Jason Statham; Jet Li,45,6.5,163701,80000000,103000000,R,8/13/2010
+The King's Speech,118,Biography; Drama; History,Ben Affleck,David Seidler,Colin Firth; Geoffrey Rush; Helena Bonham Carter,88,8.1,249109,15000000,139000000,R,12/24/2010
+Winter's Bone,100,Drama,Edgar Wright,Debra Granik; Anne Rosellini,Jennifer Lawrence; John Hawkes; Garret Dillahunt,90,7.3,69241,2000000,6531503,R,9/17/2010
+The Town,125,Crime; Drama; Thriller,Ridley Scott,Peter Craig; Ben Affleck,Ben Affleck; Rebecca Hall; Jon Hamm,74,7.6,174431,37000000,92200000,R,9/17/2010
+Clash of the Titans,106,Action; Adventure; Fantasy,Matt Zemlin,Travis Beacham; Phil Hay,Sam Worthington; Liam Neeson; Ralph Fiennes,39,5.8,147762,125000000,163000000,PG-13,4/2/2010
+Scott Pilgrim vs. the World,112,Action; Comedy; Fantasy,Danny Boyle,Michael Bacall; Edgar Wright,Michael Cera; Mary Elizabeth Winstead; Kieran Culkin,69,7.5,163524,60000000,31500000,PG-13,8/13/2010
+Hot Tub Time Machine,101,Adventure; Comedy; Sci-Fi,David Slade,Josh Heald; Sean Anders,John Cusack; Rob Corddry; Craig Robinson,63,6.4,91670,36000000,50200000,R,3/26/2010
+Love and Other Drugs,112,Comedy; Drama; Romance,Tom Hooper,Charles Randolph; Edward Zwick,Jake Gyllenhaal; Anne Hathaway; Judy Greer,55,6.6,80770,30000000,32400000,R,11/24/2010
+127 Hours,94,Adventure; Biography; Drama,Edward Zwick,Danny Boyle; Simon Beaufoy,James Franco; Amber Tamblyn; Kate Mara,82,7.7,168900,18000000,18300000,R,1/28/2011
+Insidious,103,Horror; Thriller,Ethan Coen,Leigh Whannell,Patrick Wilson; Rose Byrne; Ty Simpkins,52,6.7,83258,1500000,54000000,PG-13,4/1/2011
+Salt,100,Action; Crime; Mystery,Joe Carnahan,Kurt Wimmer,Angelina Jolie; Liev Schreiber; Chiwetel Ejiofor,65,6.4,153428,110000000,118000000,PG-13,7/23/2010
+Machete,105,Action; Thriller,Adam McKay,Robert Rodriguez; lvaro Rodrguez,Danny Trejo; Michelle Rodriguez; Robert De Niro,60,6.8,110616,10500000,26600000,R,9/3/2010
+Megamind,95,Animation; Action; Comedy,Todd Phillips,Alan J. Schoolcraft; Brent Simons,Will Ferrell; Jonah Hill; Brad Pitt,63,7.3,95165,130000000,148000000,PG,11/5/2010
+The Next Three Days,133,Crime; Drama; Romance,James Wan,Paul Haggis; Fred Cavay,Russell Crowe; Elizabeth Banks; Liam Neeson,52,7.3,93866,35000000,21100000,PG-13,11/19/2010
+Due Date,95,Comedy; Drama,Debra Granik,Alan R. Cohen; Alan Freedland,Robert Downey Jr.; Zach Galifianakis; Michelle Monaghan,51,6.5,164910,65000000,101000000,R,11/5/2010
+True Grit,110,Adventure; Drama; Western,Albert Hughes,Joel Coen; Ethan Coen,Jeff Bridges; Matt Damon; Hailee Steinfeld,80,7.8,154532,38000000,171000000,PG-13,12/22/2010
+The Book of Eli,118,Action; Adventure; Drama,Steve Pink,Gary Whitta,Denzel Washington; Mila Kunis; Ray Stevenson,53,6.8,138485,80000000,94800000,R,1/15/2010
+The Twilight Saga: Eclipse,124,Adventure; Drama; Fantasy,Nimrd Antal,Melissa Rosenberg; Stephenie Meyer,Kristen Stewart; Robert Pattinson; Taylor Lautner,58,4.8,122395,68000000,301000000,PG-13,6/30/2010
+The Last Airbender,103,Action; Adventure; Family,Gareth Edwards,M. Night Shyamalan,Noah Ringer; Nicola Peltz; Jackson Rathbone,20,4.5,72924,150000000,132000000,PG,7/1/2010
+The Kids Are All Right,106,Comedy; Drama,Andy Tennant,Lisa Cholodenko; Stuart Blumberg,Annette Bening; Julianne Moore; Mark Ruffalo,86,7.1,73024,4000000,20800000,R,7/30/2010
+Prince of Persia: The Sands of Time,116,Action; Adventure; Fantasy,Bruno Miotto,Boaz Yakin; Doug Miro,Jake Gyllenhaal; Gemma Arterton; Ben Kingsley,50,6.6,135419,200000000,90800000,PG-13,5/28/2010
+The Tourist,103,Action; Romance; Thriller,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck; Christopher McQuarrie,Johnny Depp; Angelina Jolie; Paul Bettany,37,5.9,102743,100000000,67600000,PG-13,12/10/2010
+Faster,98,Action; Crime; Drama,Ethan Maniquis,Tony Gayton; Joe Gayton,Dwayne Johnson; Billy Bob Thornton; Maggie Grace,44,6.4,53263,24000000,23200000,R,11/24/2010
+Predators,107,Action; Adventure; Sci-Fi,Harald Zwart,Alex Litvak; Michael Finch,Adrien Brody; Laurence Fishburne; Topher Grace,51,6.4,113458,40000000,52000000,R,7/9/2010
+Eat Pray Love,133,Drama; Romance,Denis Villeneuve,Ryan Murphy; Jennifer Salt,Julia Roberts; Javier Bardem; Richard Jenkins,50,5.4,37362,60000000,80600000,PG-13,8/13/2010
+Unstoppable,98,Action; Thriller,Tony Scott,Mark Bomback,Denzel Washington; Chris Pine; Rosario Dawson,69,6.8,91212,100000000,81600000,PG-13,11/12/2010
+Dear John,108,Drama; Romance; War,Jeong-beom Lee,Jamie Linden; Nicholas Sparks,Channing Tatum; Amanda Seyfried; Richard Jenkins,43,6,45632,25000000,80000000,PG-13,2/5/2010
+Burlesque,119,Drama; Musical; Romance,Alexandre Aja,Steve Antin,Cher; Christina Aguilera; Alan Cumming,47,6.2,35646,55000000,39400000,PG-13,11/24/2010
+Resident Evil: Afterlife,97,Action; Adventure; Horror,Greg Berlanti,Paul W.S. Anderson,Milla Jovovich; Ali Larter; Wentworth Miller,37,5.8,88863,60000000,60100000,R,9/10/2010
+She's Out of My League,104,Comedy; Romance,Jim Field Smith,Sean Anders; John Morris,Jay Baruchel; Alice Eve; T.J. Miller,46,6.4,66697,20000000,31600000,R,3/12/2010
+The Chronicles of Narnia: The Voyage of the Dawn Treader,113,Adventure; Family; Fantasy,Nicholas Stoller,Christopher Markus; Stephen McFeely,Ben Barnes; Skandar Keynes; Georgie Henley,53,6.3,57285,155000000,104000000,PG,12/10/2010
+Knight and Day,109,Action; Comedy,John Erick Dowdle,Patrick O'Neill,Tom Cruise; Cameron Diaz; Peter Sarsgaard,46,6.3,91929,117000000,76400000,PG-13,6/23/2010
+Date Night,88,Comedy; Crime; Romance,Steve Antin,Josh Klausner,Steve Carell; Tina Fey; Mark Wahlberg,56,6.3,83265,55000000,98700000,PG-13,4/9/2010
+Life as We Know It,114,Comedy; Drama; Romance,Mike Mitchell,Ian Deitchman; Kristin Rusk Robinson,Katherine Heigl; Josh Duhamel; Josh Lucas,39,6.4,49227,38000000,53400000,PG-13,10/8/2010
+Remember Me,113,Drama; Romance,Michael Apted,Will Fetters,Robert Pattinson; Emilie de Ravin; Caitlyn Rund,40,7.1,67023,16000000,19100000,PG-13,3/12/2010
+The Switch,101,Comedy; Drama; Romance,Garry Marshall,Allan Loeb; Jeffrey Eugenides,Jennifer Aniston; Jason Bateman; Patrick Wilson,52,5.9,43150,19000000,27800000,PG-13,8/20/2010
+Never Let Me Go,103,Drama; Fantasy; Romance,Josh Gordon,Kazuo Ishiguro; Alex Garland,Keira Knightley; Carey Mulligan; Andrew Garfield,69,7.2,63674,15000000,2434652,R,2/11/2011
+It's Kind of a Funny Story,101,Comedy; Drama; Romance,Anna Boden,Anna Boden; Ryan Fleck,Keir Gilchrist; Zach Galifianakis; Emma Roberts,63,7.1,56117,8000000,6350058,PG-13,1/7/2011
+Cop Out,107,Action; Comedy; Crime,George Tillman Jr.,Robb Cullen; Mark Cullen,Bruce Willis; Tracy Morgan; Juan Carlos Hernndez,31,5.6,52701,37000000,44900000,R,2/26/2010
+Valentine's Day,125,Comedy; Romance,Steven R. Monroe,Katherine Fugate; Katherine Fugate,Julia Roberts; Jamie Foxx; Anne Hathaway,34,5.7,59810,52000000,110000000,PG-13,2/12/2010
+Shrek Forever After,93,Animation; Adventure; Comedy,Paul W.S. Anderson,William Steig; Josh Klausner,Mike Myers; Cameron Diaz; Eddie Murphy,58,6.4,77953,165000000,238000000,PG,5/21/2010
+Devil,80,Horror; Mystery; Thriller,Lasse Hallstrm,Brian Nelson; M. Night Shyamalan,Chris Messina; Caroline Dhavernas; Bokeem Woodbine,44,6.3,66476,10000000,33600000,PG-13,9/17/2010
+Sex and the City 2,146,Comedy; Drama; Romance,Peter Weir,Michael Patrick King; Candace Bushnell,Sarah Jessica Parker; Kim Cattrall; Kristin Davis,27,3.9,38966,100000000,95300000,R,5/27/2010
+The Sorcerer's Apprentice,109,Action; Adventure; Comedy,Mark Romanek,Lawrence Konner; Mark Rosenthal,Nicolas Cage; Jay Baruchel; Alfred Molina,46,6.1,77714,150000000,63200000,PG,7/14/2010
+The American,105,Crime; Drama; Thriller,Allen Coulter,Rowan Joffe; Martin Booth,George Clooney; Paolo Bonacelli; Violante Placido,61,6.4,55475,20000000,35600000,R,9/1/2010
+Little Fockers,98,Comedy,Andy Fickman,John Hamburg; Larry Stuckey,Ben Stiller; Teri Polo; Robert De Niro,27,5.3,54096,100000000,148000000,PG-13,12/22/2010
+Hereafter,129,Drama; Fantasy,Thor Freudenthal,Peter Morgan,Matt Damon; Ccile De France; Bryce Dallas Howard,56,6.5,59490,50000000,32700000,PG-13,10/22/2010
+The Debt,113,Drama; Thriller,Baran bo Odar,Matthew Vaughn; Jane Goldman,Helen Mirren; Sam Worthington; Tom Wilkinson,65,6.8,38243,20000000,31200000,R,8/31/2011
+I Spit on Your Grave,108,Crime; Horror; Thriller,Zack Snyder,Stuart Morse; Meir Zarchi,Sarah Butler; Jeff Branson; Andrew Howard,27,6.3,27634,1500000,92401,R,1/20/2011
+Green Zone,115,Action; Drama; Thriller,Andrew Jarecki,Brian Helgeland; Rajiv Chandrasekaran,Matt Damon; Jason Isaacs; Greg Kinnear,63,6.9,75223,100000000,35000000,R,3/12/2010
+Wall Street: Money Never Sleeps,133,Drama,Stuart Beattie,Allan Loeb; Stephen Schiff,Shia LaBeouf; Michael Douglas; Carey Mulligan,59,6.2,57072,70000000,52500000,PG-13,9/24/2010
+Killers,100,Action; Comedy; Romance,Paul Weitz,Bob DeRosa; Ted Griffin,Katherine Heigl; Ashton Kutcher; Tom Selleck,21,5.2,45847,75000000,47000000,PG-13,6/4/2010
+The Losers,97,Action; Crime; Drama,Colin Strause,Peter Berg; James Vanderbilt,Idris Elba; Zoe Saldana; Jeffrey Dean Morgan,44,6.3,52450,25000000,23600000,PG-13,4/23/2010
+Diary of a Wimpy Kid,94,Comedy; Family,Michael Patrick King,Jackie Filgo; Jeff Filgo,Zachary Gordon; Robert Capron; Rachael Harris,56,6.1,18797,15000000,64000000,PG,3/19/2010
+Leap Year,100,Comedy; Romance,Matt Reeves,Deborah Kaplan; Harry Elfont,Amy Adams; Matthew Goode; Adam Scott,33,6.2,37486,19000000,12561,PG,1/8/2010
+Piranha,88,Comedy; Horror,Oliver Stone,Pete Goldfinger; Josh Stolberg,Elisabeth Shue; Jerry O'Connell; Richard Dreyfuss,53,5.7,51453,24000000,25000000,R,8/20/2010
+The Bounty Hunter,110,Action; Comedy; Romance,Paul Greengrass,Sarah Thorp,Jennifer Aniston; Gerard Butler; Gio Perez,22,5.3,55703,40000000,67100000,PG-13,3/19/2010
+Monsters,94,Drama; Sci-Fi; Thriller,Jay Roach,Gareth Edwards,Scoot McNairy; Whitney Able; Mario Zuniga Benavides,63,6.4,47868,800000,237301,R,12/3/2010
+Takers,107,Action; Crime; Thriller,Hiromasa Yonebayashi,Peter Allen; Gabriel Casseus,Chris Brown; Hayden Christensen; Matt Dillon,45,6,30716,20000000,57700000,PG-13,8/27/2010
+Flipped,90,Comedy; Drama; Romance,Miguel Sapochnik,Rob Reiner; Andrew Scheinman,Madeline Carroll; Callan McAuliffe; Rebecca De Mornay,45,7.6,26882,14000000,1752214,PG,10/22/2010
+Legend of the Guardians: The Owls of Ga'Hoole,97,Animation; Adventure; Fantasy,Sylvain White,John Orloff; Emil Stern,Jim Sturgess; Hugo Weaving; David Wenham,53,6.9,41331,80000000,55700000,PG,9/24/2010
+Skyline,94,Action; Sci-Fi; Thriller,Pierre Morel,Joshua Cordes; Liam O'Donnell,Eric Balfour; Donald Faison; Scottie Thompson,26,4.4,54141,10000000,21400000,PG-13,11/12/2010
