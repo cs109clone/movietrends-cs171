@@ -48,7 +48,6 @@ function drawSVG(first){
 	d3.select("body").select("svg").remove();
 	var xAxisSelect = document.getElementById("xAxisSelect").value;
 	var yAxisSelect = document.getElementById("yAxisSelect").value;
-
 	
 
 	var margin = {top: 75, right: 200, bottom: 20, left: 20},
@@ -61,7 +60,7 @@ function drawSVG(first){
 	csvsplit = csvdata.split("\n");
 	for (j=1; j<csvsplit.length; j++)
 	{
-			csvsplit[j] = csvsplit[j].split(",");
+			csvsplit[j] = csvsplit[j].split("\t");
 			if (csvsplit[j].length == 14)
 			{
 					csvsplit[j][0] = csvsplit[j][0]+csvsplit[j][1];
@@ -230,8 +229,14 @@ function drawSVG(first){
 			document.getElementById("tooltip").style.top = loc[1].toString()+"px";
 			document.getElementById("tooltip").style.left = loc[0].toString()+"px";
 			document.getElementById("tooltip").style.visibility = "visible";
-			var newhtml = d[0]+"<br>x: "+d[xindex].toString()+"<br>y: "+d[yindex].toString();
-
+			var newhtml;
+			if (xAxisSelect == "date")
+			{
+				var format = d3.time.format("%m/%d/%Y");
+				newhtml = d[0]+"<br>x: "+format(new Date(d[xindex]))+"<br>y: "+d[yindex].toString();
+			}
+			else
+				newhtml = d[0]+"<br>x: "+d[xindex].toString()+"<br>y: "+d[yindex].toString();
 			document.getElementById("specificcontent").innerHTML = newhtml;
 		})
 		.on('mouseout', function(){
@@ -244,13 +249,22 @@ function drawSVG(first){
 			d3.select(this).attr("class", "highlighted_point");
 			selectedTitle = d[0];
 			document.getElementById("movietitle").innerHTML = selectedTitle;
-			var newhtml = "Runtime: "+d[1].toString()+"<br>Genre: "+d[2]+"<br>Directors: "+d[3]+"<br>Writers: "
-							+d[4]+"<br>Actors: "+d[5]+"<br>Metascore: "+d[6].toString()+"<br>User Rating: "+d[7].toString()+"<br>Number of Ratings: "
-							+d[8].toString()+"<br>Budget: "+d[9].toString()+"<br>Box Office: "+d[10].toString()+"<br>MPAA Rating: "+d[11]+"<br>Date: "+d[12].toDateString();
+			var format = d3.time.format("%m/%d/%Y");
+			var newhtml = "Runtime: "+d[1]+sbs("<br>Genre: ",d[2])+sbs("<br>Directors: ",d[3])+
+						  sbs("<br>Writers: ",d[4])+sbs("<br>Actors: ",d[5])+sbs("<br>Metascore: ",d[6])+
+						  "<br>User Rating: "+d[7]+"<br>Number of Ratings: "+d[8]+
+						  sbs("<br>Budget: ",d[9])+sbs("<br>Box Office: ",d[10])+sbs("<br>MPAA Rating: ",d[11])+
+						  "<br>Date: "+format(new Date(d[12]));
 			document.getElementById("moviefacts").innerHTML = newhtml;
 		});
 	$(".point").pageslide({ direction: "left"});
 	$(".highlighted_point").pageslide({ direction: "left"});
+}
+
+function sbs(s1,s2) {
+	if (isNaN(s2))
+		return ""
+	return (s1+s2.toString())
 }
 
 function getCursorXY(e) {
