@@ -255,9 +255,9 @@ function drawSVG(first){
 			document.getElementById("movietitle").innerHTML = selectedTitle;
 			var format = d3.time.format("%m/%d/%Y");
 			var newhtml = "Runtime: "+d[1]+sbs(" min<br>Genre: ",d[2])+sbs("<br>Directors: ",d[3])+
-						  sbs("<br>Writers: ",d[4])+sbs("<br>Actors: ",d[5])+sbs("<br>Metascore: ",d[6])+
+						  sbs("<br>Writers: ",d[4])+sbs("<br>Actors: ",d[5])+sbs2("<br>Metascore: ",d[6])+
 						  "<br>User Rating: "+d[7]+"<br>Number of Ratings: "+d[8]+
-						  sbs("<br>Budget: $",d[9])+sbs("<br>Box Office: $",d[10])+sbs("<br>MPAA Rating: ",d[11])+
+						  sbs2("<br>Budget: $",d[9])+sbs2("<br>Box Office: $",d[10])+sbs("<br>MPAA Rating: ",d[11])+
 						  "<br>Date: "+format(new Date(d[12]));
 			document.getElementById("moviefacts").innerHTML = newhtml;
 		});
@@ -266,11 +266,17 @@ function drawSVG(first){
 }
 
 function sbs(s1,s2) {
-	//if (isNaN(s2))
-	if (typeof(s2)==='undefined')
+	if (typeof(s2)==='undefined' || s2 == "")
 		return ""
 	return (s1+s2.toString())
 }
+
+function sbs2(s1,s2) {
+	if (isNaN(s2))
+		return ""
+	return (s1+s2.toString())
+}
+
 
 function getCursorXY(e) {
 	loc[0] = (window.Event) ? e.pageX : event.clientX + (document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);
