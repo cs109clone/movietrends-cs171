@@ -30,6 +30,10 @@ window.onload = function() {
 	document.getElementById("yAxisSelect").onchange = function(){
 		drawSVG(true);
 	}
+
+	$(".second").pageslide({ direction: "left"});
+	$(".point").pageslide({ direction: "left"});
+	$(".highlighted_point").pageslide({ direction: "left"});
 }
 
 function search(){
@@ -208,7 +212,8 @@ function drawSVG(first){
 							{
 								return "point";
 							}
-						})	
+						})
+		.attr("href", "#modal")	
 		.attr("cx", function(d,i) { return x(d[xindex]);})
 		.attr("cy", function(d) { return y(d[yindex]);})
 		.attr("r", function(d) {
