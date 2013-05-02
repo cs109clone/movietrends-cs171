@@ -6,11 +6,16 @@ var max = 0;
 
 /* onload */
 window.onload = function() {
-	document.getElementById("xselect").style.left = (window.innerWidth / 2).toString()+"px";
+	document.getElementById("xselect").style.left = (window.innerWidth / 3).toString()+"px";
+	document.getElementById("sidebartoggle").style.left = (window.innerWidth * 2 / 3).toString()+"px";
 	document.getElementById("yselect").style.top = (window.innerHeight / 2).toString()+"px";
-	document.getElementById("xselect").style.top = (window.innerHeight - 50).toString()+"px";
+	document.getElementById("xselect").style.top = (window.innerHeight - 45).toString()+"px";
+	document.getElementById("sidebartoggle").style.top = (window.innerHeight - 43).toString()+"px";
 	document.getElementById("vidlink").style.left = (window.innerWidth - 157).toString()+"px";
-	document.getElementById("description").style.top = "75px";
+	document.getElementById("slider").style.width = (window.innerWidth - 100).toString()+"px";
+	document.getElementById("slider").style.top = (window.innerHeight - 70).toString()+"px";
+	var descriptheight = document.getElementById("description").offsetHeight;
+	document.getElementById("graph").style.top = (70+descriptheight).toString()+"px";
 	
 	if (window.Event) {
 		document.captureEvents(Event.MOUSEMOVE);
@@ -46,7 +51,7 @@ function drawSVG(first){
 
 	var margin = {top: 75, right: 200, bottom: 20, left: 20},
     width = window.innerWidth - margin.left - margin.right - 30,
-    height = window.innerHeight - 160 - margin.top - margin.bottom;
+    height = window.innerHeight - 160 - document.getElementById("description").offsetHeight - margin.top - margin.bottom;
 
 	var parseDate = d3.time.format("%x").parse;
 	
@@ -235,6 +240,11 @@ function drawSVG(first){
 									.attr("r", 2);
 			d3.select(this).attr("class", "highlighted_point");
 			selectedTitle = d[0];
+			document.getElementById("movietitle").innerHTML = selectedTitle;
+			var newhtml = "Runtime: "+d[1].toString()+"<br>Genre: "+d[2]+"<br>Directors: "+d[3]+"<br>Writers: "
+							+d[4]+"<br>Actors: "+d[5]+"<br>Metascore: "+d[6].toString()+"<br>User Rating: "+d[7].toString()+"<br>Number of Ratings: "
+							+d[8].toString()+"<br>Budget: "+d[9].toString()+"<br>Box Office: "+d[10].toString()+"<br>MPAA Rating: "+d[11]+"<br>Date: "+d[12].toDateString();
+			document.getElementById("moviefacts").innerHTML = newhtml;
 		});
 }
 

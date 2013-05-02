@@ -8,6 +8,7 @@
     	<script src="./script/d3.v3.min.js"></script>
     	<!-- JQuery and JQuery UI Library -->
     	<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+		<!--<script src="./script/jquery-1.9.1.min.js"></script>-->
     	<script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
     	<!-- Our Visualization Script -->
     	<script src="./script/main.js"></script>
@@ -993,6 +994,24 @@ Skyline,94,Action; Sci-Fi; Thriller,Pierre Morel,Joshua Cordes; Liam O'Donnell,E
 			</div> <!-- end div.box-contents --> 
 			</div>
 		</div>
+	<div id="content">
+        <ul>
+            <li>
+                <a id="sidebartoggle" href="#modal" class="second">Toolbar</a>
+            </li>
+        </ul>
+        <div id="modal">
+            <h2 id="movietitle">Modal</h2>
+            <p id="moviefacts">This slide uses "modal" option set to "true". When using a modal pageslide, clicking on the main window will not close the window. You must explicitly call <code>$.pageslide.close()</code>.</p>
+            <p><a href="javascript:$.pageslide.close()">Close</a></p>
+        </div>
+    </div>
+	<script src="./script/jquery.pageslide.min.js"></script>
+	<script>        
+        /* Slide to the left, and make it model (you'll have to call $.pageslide.close() to close) */
+        $(".second").pageslide({ direction: "left", modal: true });
+    </script>
+
 	
 
 </body></html>
