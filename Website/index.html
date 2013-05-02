@@ -18,7 +18,7 @@
 	</head>
 	<body>
 		<span id="Title">
-			IMDb Movies Trends
+			IMDb Movie Trends
 		</span>
 		<span id="names">By David DiCiurcio and Kenny Lei</span>
 		<span id="vidlink"><a href="https://www.youtube.com/watch?v=ZG4UW20yiTQ">Load our video</a></span>
@@ -6040,31 +6040,59 @@ True Grit	110	Adventure; Drama; Western	Ethan Coen	Joel Coen; Ethan Coen	Jeff Br
 The King's Speech	118	Biography; Drama; History	Tom Hooper	David Seidler	Colin Firth; Geoffrey Rush; Helena Bonham Carter	88/100	8.1	247922	1.5E7	1.39E8	R	12/24/2010
 Blue Valentine	112	Drama; Romance	Derek Cianfrance	Derek Cianfrance; Joey Curtis	Ryan Gosling; Michelle Williams; John Doman	81/100	7.4	79975	1000000	9706328	R	12/27/2010
 </textarea>
-	<div id="tooltip"> <!-- see css for source -->
-			<div class="rounded-box">
-			<div class="top-left-corner"><div class="top-left-inside">•</div></div>
-			<div class="bottom-left-corner"><div class="bottom-left-inside">•</div></div>
-			<div class="top-right-corner"><div class="top-right-inside">•</div></div>
-			<div class="bottom-right-corner"><div class="bottom-right-inside">•</div></div>
-			<div id="specificcontent" class="box-contents">
-				This is where I would put comments
-			</div> <!-- end div.box-contents --> 
+		<div id="tooltip"> <!-- see css for source -->
+				<div class="rounded-box">
+				<div class="top-left-corner"><div class="top-left-inside">•</div></div>
+				<div class="bottom-left-corner"><div class="bottom-left-inside">•</div></div>
+				<div class="top-right-corner"><div class="top-right-inside">•</div></div>
+				<div class="bottom-right-corner"><div class="bottom-right-inside">•</div></div>
+				<div id="specificcontent" class="box-contents">
+					This is where I would put comments
+				</div> <!-- end div.box-contents --> 
+				</div>
 			</div>
+		<div id="content">
+		    <ul>
+		        <li>
+		            <a id="sidebartoggle" href="#modal" class="second">Toolbar</a>
+		        </li>
+		    </ul>
+		    <div id="modal">
+	    		<!--<ul class="tabs group">
+				    <li onclick="toggleTabs('search')"><a>Search</a></li>
+				    <li onclick="toggleTabs('trends')"><a>Trends</a></li>
+				    <li onclick="toggleTabs('info')"><a>Info</a></li>
+				</ul>
+			-->
+
+				<div id="box-search">
+					<!--<h2>Search</h2>-->
+			        <form name="input" onsubmit="search(query.value)">
+					<input type="text" name="query">
+					<input type="submit" value="Search">
+					</form> 
+				</div>
+					
+				<div id="box-info">
+					<h2 id="movietitle"></h2>
+			        <p id="moviefacts"></p>
+			        <!--
+			        This slide uses "modal" option set to "true". When using a modal pageslide, clicking on the main window will not close the window. You must explicitly call <code>$.pageslide.close()</code>.-->
+				</div>
+				
+				<div id="box-trends">
+				 	<h2>Trends</h2>
+					<input type="button" value="1950's" onclick="trend1950()">
+					<input type="button" value="1960's" onclick="trend1960()">
+					<input type="button" value="1970's" onclick="trend1970()">
+					<input type="button" value="1980's" onclick="trend1980()">
+					<input type="button" value="1990's" onclick="trend1990()">
+					<input type="button" value="2000's" onclick="trend2000()">
+				</div>				
+		        
+		       <!-- <p><a href="javascript:$.pageslide.close()">Close</a></p> -->
+		    </div>
 		</div>
-	<div id="content">
-        <ul>
-            <li>
-                <a id="sidebartoggle" href="#modal" class="second">Toolbar</a>
-            </li>
-        </ul>
-        <div id="modal">
-            <h2 id="movietitle">Modal</h2>
-            <p id="moviefacts">This slide uses "modal" option set to "true". When using a modal pageslide, clicking on the main window will not close the window. You must explicitly call <code>$.pageslide.close()</code>.</p>
-           <!-- <p><a href="javascript:$.pageslide.close()">Close</a></p> -->
-        </div>
-    </div>
-	<script src="./script/jquery.pageslide.min.js"></script>
-
-	
-
-</body></html>
+		<script src="./script/jquery.pageslide.min.js"></script>
+	</body>
+</html>

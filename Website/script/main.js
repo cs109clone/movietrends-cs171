@@ -4,6 +4,9 @@ var selectedTitle = "";
 var min = 0;
 var max = 0;
 
+//search query
+var searchQuery = "";
+
 /* onload */
 window.onload = function() {
 	document.getElementById("xselect").style.left = (window.innerWidth / 3).toString()+"px";
@@ -12,7 +15,7 @@ window.onload = function() {
 	document.getElementById("xselect").style.top = (window.innerHeight - 45).toString()+"px";
 	document.getElementById("sidebartoggle").style.top = (window.innerHeight - 43).toString()+"px";
 	document.getElementById("vidlink").style.left = (window.innerWidth - 157).toString()+"px";
-	document.getElementById("slider").style.width = (window.innerWidth - 100).toString()+"px";
+	document.getElementById("slider").style.width = (window.innerWidth - 240).toString()+"px";
 	document.getElementById("slider").style.top = (window.innerHeight - 70).toString()+"px";
 	var descriptheight = document.getElementById("description").offsetHeight;
 	document.getElementById("graph").style.top = (70+descriptheight).toString()+"px";
@@ -34,11 +37,11 @@ window.onload = function() {
 	$(".second").pageslide({ direction: "left"});
 }
 
-function search(){
-	var a = document.getElementById("searchbox").value;
+function search(query){
+	searchQuery = query;
 	//Filter data to be displayed/used
-	alert("Search");
-
+	alert(query);
+	drawSVG(true);
 }
 
 function drawSVG(first){
@@ -50,7 +53,7 @@ function drawSVG(first){
 	var yAxisSelect = document.getElementById("yAxisSelect").value;
 	
 
-	var margin = {top: 75, right: 200, bottom: 20, left: 20},
+	var margin = {top: 50, right: 200, bottom: 20, left: 50},
     width = window.innerWidth - margin.left - margin.right - 30,
     height = window.innerHeight - 160 - document.getElementById("description").offsetHeight - margin.top - margin.bottom;
 
@@ -289,4 +292,35 @@ function averageData(data, xindex, yindex){
 		}
 	}
 	return data;
+}
+
+function toggleTabs(tab){
+	if (tab == "info") document.getElementById("box-info").style.visibility = "visible";
+	else document.getElementById("box-info").style.visibility = "hidden";
+	if (tab == "search") document.getElementById("box-search").setAttribute("visibility", "visible");
+	else document.getElementById("box-search").setAttribute("visibility", "hidden");
+	if (tab == "trends") document.getElementById("box-trends").setAttribute("visibility", "visible");
+	else document.getElementById("box-trends").setAttribute("visibility", "hidden");
+}
+
+function trend1950(){
+
+}
+
+function trend1960(){
+
+}
+
+function trend1970(){
+	
+}
+
+function trend1980(){
+	
+}
+function trend1990(){
+	
+}
+function trend2000(){
+	
 }

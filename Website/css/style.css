@@ -12,6 +12,7 @@ body {
 #description {
 	position: absolute;
 	left: 40px;
+  right: 40px;
 	top: 75px;
 }
 
@@ -163,7 +164,7 @@ p { margin-bottom: 20px; }
 
 #slider {
 	position: absolute;
-	left: 50px;
+	left: 170px;
 	z-index:-1;
 }
 
@@ -178,4 +179,23 @@ p { margin-bottom: 20px; }
 
 #modal { display: none; }
 	#modal a { background: #CCC; color: #333; font-weight: bold; padding: 5px 10px; border: none; }
-	#modal a:hover { background: #aaa; } 
+	#modal a:hover { background: #aaa; }
+
+.tabs { list-style: none; }
+.tabs li { display: inline; }
+.tabs li a { color: black; float: left; display: block; padding: 2px 2px; margin-left: -1px; position: relative; left: 1px; text-decoration: none; }
+.tabs li a:hover { background: #ccc; }
+
+.group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+
+#box-search, #box-trends, #box-info {
+  /*visibility: hidden;*/
+}
+
+#box-search input[type="submit"] {
+    background: #CCC; color: #333; font-weight: bold; padding: 2px 5px; border: none;
+}
+#box-trends input[type="button"] {
+    background: #CCC; color: #333; font-weight: bold; padding: 2px 5px; margin-bottom:5px; border: none;
+}
+
