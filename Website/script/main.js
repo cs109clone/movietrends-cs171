@@ -32,8 +32,6 @@ window.onload = function() {
 	}
 
 	$(".second").pageslide({ direction: "left"});
-	$(".point").pageslide({ direction: "left"});
-	$(".highlighted_point").pageslide({ direction: "left"});
 }
 
 function search(){
@@ -251,6 +249,8 @@ function drawSVG(first){
 							+d[8].toString()+"<br>Budget: "+d[9].toString()+"<br>Box Office: "+d[10].toString()+"<br>MPAA Rating: "+d[11]+"<br>Date: "+d[12].toDateString();
 			document.getElementById("moviefacts").innerHTML = newhtml;
 		});
+	$(".point").pageslide({ direction: "left"});
+	$(".highlighted_point").pageslide({ direction: "left"});
 }
 
 function getCursorXY(e) {
