@@ -3,28 +3,16 @@ body {
 		font-family:arial;
 }
 
-/*
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+#graph {
+	position: absolute;
+	top: 70px;
+	left: 5px;
 }
-
-.x.axis path {
-  display: none;
-}
-
-.line {
-  fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
-}
-*/
 
 #description {
 	position: absolute;
 	left: 40px;
+	top: 75px;
 }
 
 #csv {
@@ -34,15 +22,17 @@ body {
 }
 
 #Title {
-	position:relative;
+	position:absolute;
 	left:40px;
+	top:9px;
 	font-size:40px;
 	font-weight:bold;
 }
 
 #names{
-	position:relative;
-	left:40px;
+	position:absolute;
+	left:440px;
+	top:30px;
 }
 
 #vidlink {
@@ -62,6 +52,11 @@ path {
 }
 
 #yselect {
+	position: absolute;
+	left:5px;
+}
+
+#sidebartoggle {
 	position: absolute;
 }
 
@@ -139,3 +134,48 @@ lifted from http://www.fireandknowledge.org/archives/2004/05/22/rounded-corners-
 .box-contents {
   position: relative; padding: 8px; color:#000;
 }
+
+#pageslide {
+    /* These styles MUST be included. Do not change. */
+    display: none;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 999999;
+    
+    /* Specify the width of your pageslide here */
+    width: 260px;
+    padding: 20px;
+    
+    /* These styles are optional, and describe how the pageslide will look */
+    background-color: #333;
+    color: #FFF;
+    -webkit-box-shadow: inset 0 0 5px 5px #222;
+    -moz-shadow: inset 0 0 5px 5px #222;
+    box-shadow: inset 0 0 5px 5px #222;
+}
+
+a, a:visited { color: #C30; text-decoration: none; border-bottom: 1px dotted #C30; }
+a:hover { color: #900; border-bottom-style: solid; }
+
+p { margin-bottom: 20px; }
+
+#slider {
+	position: absolute;
+	left: 50px;
+	z-index:-1;
+}
+
+#content {
+	width: 940px;
+	padding: 10px;
+	margin: 0 auto;
+}
+	#content h1 { color: #333; line-height: 1em; }
+	#content ul { padding-left: 0; list-style: none; }
+		#content ul li { margin-bottom: 20px; }
+
+#modal { display: none; }
+	#modal a { background: #CCC; color: #333; font-weight: bold; padding: 5px 10px; border: none; }
+	#modal a:hover { background: #aaa; } 
