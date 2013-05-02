@@ -114,7 +114,7 @@ function drawSVG(first){
 		//original without search
 		//data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
 		//without search, but checking if not empty
-		data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && a[xindex] > min && a[xindex] < max);});
+		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
 
 		//with search
 		//var search = document.getElementById("");
@@ -128,6 +128,7 @@ function drawSVG(first){
 		//var search = document.getElementById("");
 		//var search = "The Cave";
 		//data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && $.inArray(search, a) != -1);});
+		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]));});
 
 		//set min, max
 		var range = d3.extent(data, function(d) { return d[xindex];});
@@ -253,10 +254,10 @@ function drawSVG(first){
 			selectedTitle = d[0];
 			document.getElementById("movietitle").innerHTML = selectedTitle;
 			var format = d3.time.format("%m/%d/%Y");
-			var newhtml = "Runtime: "+d[1]+sbs("<br>Genre: ",d[2])+sbs("<br>Directors: ",d[3])+
+			var newhtml = "Runtime: "+d[1]+sbs(" min<br>Genre: ",d[2])+sbs("<br>Directors: ",d[3])+
 						  sbs("<br>Writers: ",d[4])+sbs("<br>Actors: ",d[5])+sbs("<br>Metascore: ",d[6])+
 						  "<br>User Rating: "+d[7]+"<br>Number of Ratings: "+d[8]+
-						  sbs("<br>Budget: ",d[9])+sbs("<br>Box Office: ",d[10])+sbs("<br>MPAA Rating: ",d[11])+
+						  sbs("<br>Budget: $",d[9])+sbs("<br>Box Office: $",d[10])+sbs("<br>MPAA Rating: ",d[11])+
 						  "<br>Date: "+format(new Date(d[12]));
 			document.getElementById("moviefacts").innerHTML = newhtml;
 		});
@@ -265,7 +266,8 @@ function drawSVG(first){
 }
 
 function sbs(s1,s2) {
-	if (isNaN(s2))
+	//if (isNaN(s2))
+	if (typeof(s2)==='undefined')
 		return ""
 	return (s1+s2.toString())
 }
