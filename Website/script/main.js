@@ -21,7 +21,7 @@ window.onload = function() {
 	drawSVG(true);
 	document.getElementById("xAxisSelect").onchange = function(){
 		drawSVG(true);
-	}
+	} 
 	document.getElementById("yAxisSelect").onchange = function(){
 		drawSVG(true);
 	}
@@ -102,10 +102,24 @@ function drawSVG(first){
 	/* Filter Data here */
 	if (!first)
 	{
-		data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
+		//original without search
+		//data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
+		//without search, but checking if not empty
+		data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && a[xindex] > min && a[xindex] < max);});
+
+		//with search
+		//var search = document.getElementById("");
+		//var search = "The Cave";
+		//data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && a[xindex] > min && a[xindex] < max && $.inArray(search, a) != -1);});
+
 	}
 	else
 	{
+		//with search
+		//var search = document.getElementById("");
+		//var search = "The Cave";
+		//data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && $.inArray(search, a) != -1);});
+
 		//set min, max
 		var range = d3.extent(data, function(d) { return d[xindex];});
 		min = range[0];
@@ -234,4 +248,16 @@ function slide(event, ui){
 	min = ui.values[0];
 	max = ui.values[1];
 	drawSVG();
+}
+
+/* Averages data of same x value */
+function averageData(data, xindex, yindex){
+	for (i=0; i<data.length-1; i++)
+	{
+		if (data[i][xindex] = data[i+1][xindex])
+		{
+			//duplicate
+		}
+	}
+	return data;
 }
