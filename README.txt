@@ -23,3 +23,10 @@ File Details
 "style.css" - controls the style formatting of DOM elements.  Lines, circles, tooltips, etc. are stylized with this file.
 
 "project2.csv" - main csv data file that contains all movie data between 2000 and 2012, scraped for several variables.  It is imported into index.html as a <textarea>.
+
+---------------------------------
+Citations
+---------------------------------
+Robin, Scott. "PageSlide." : A JQuery Plugin Which Slides a Webpage over to Reveal an Additional Interaction Pane. N.p., 2012. Web. 02 May 2013.
+
+Sowin, Joshua. "Fire and Knowledge." Fire and Knowledge RSS. N.p., 22 May 2004. Web. 02 May 2013.

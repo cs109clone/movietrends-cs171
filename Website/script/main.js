@@ -1,3 +1,8 @@
+/*
+Sources
+Robin, Scott. "PageSlide." : A JQuery Plugin Which Slides a Webpage over to Reveal an Additional Interaction Pane. N.p., 2012. Web. 02 May 2013.<br>
+*/
+
 var loc = [0,0];
 var selectedTitle = "";
 // for range slider
@@ -14,7 +19,7 @@ window.onload = function() {
 	document.getElementById("yselect").style.top = (window.innerHeight / 2).toString()+"px";
 	document.getElementById("xselect").style.top = (window.innerHeight - 45).toString()+"px";
 	document.getElementById("sidebartoggle").style.top = (window.innerHeight - 43).toString()+"px";
-	document.getElementById("vidlink").style.left = (window.innerWidth - 157).toString()+"px";
+	document.getElementById("vidlink").style.left = (window.innerWidth - 257).toString()+"px";
 	document.getElementById("slider").style.width = (window.innerWidth - 240).toString()+"px";
 	document.getElementById("slider").style.top = (window.innerHeight - 70).toString()+"px";
 	var descriptheight = document.getElementById("description").offsetHeight;
