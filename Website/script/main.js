@@ -46,7 +46,7 @@ window.onload = function() {
 }
 
 function search(query){
-	//searchQuery = query;
+	//searchQuery = query;a
 	//Filter data to be displayed/used
 	//alert(searchQuery);
 	//drawSVG();
