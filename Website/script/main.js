@@ -377,6 +377,10 @@ function toggleTabs(tab){
 	else document.getElementById("box-trends").setAttribute("visibility", "hidden");
 }
 
+function resetAll(){
+	drawSVG(true);
+}
+
 function trend1970(){
 	selectedTitle = ["The Last House on the Left", "Straw Dogs", "A Clockwork Orange", "The French Connection", "Dirty Harry", "Taxi Driver",
 					 "The Godfather", "Nashville", "Enter the Dragon", "Snake in the Eagle's Shadow", "Drunken Master", "Annie Hall", "Manhattan",
@@ -402,7 +406,11 @@ function trend1970(){
 	
 	$.pageslide({ direction: 'left', href:'#modal' });
 
-	drawSVG(true);
+	document.getElementById("xAxisSelect").value = "date";
+	min = new Date("12/30/1970");
+	max = new Date("01/01/1980");
+
+	drawSVG();
 }
 
 function trend1980(){

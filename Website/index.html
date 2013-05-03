@@ -25,8 +25,9 @@
 		<div id="description">
 			Our visualization focuses on the relationship between different numerical parameters associated with films and movies.
 			The tools allows the user to choose different parameters to compare and plot them accordingly on the graph above. Hovering
-			over a movie will give you extra information about the film. If the user clicks on a movie, the point will highlight orange
-			and will maintain its selection even when the x or y axis changes.
+			over a movie will give you extra information about the film and pop up the sidebar. If the user clicks on a movie, the point will highlight orange
+			and will maintain its selection even when the x or y axis changes. With project 3, the user now has the ability to select
+			different decades and views the trends that represent that timeframe. 
 		</div>
 		<br><br>
 		<div id="graph" class="aGraph"></div>
@@ -4149,7 +4150,7 @@ Blue Valentine	112	Drama; Romance	Derek Cianfrance	Derek Cianfrance; Joey Curtis
 		<div id="content">
 		    <ul>
 		        <li>
-		            <a id="sidebartoggle" href="#modal" class="second">Toolbar</a>
+		            <a id="sidebartoggle" href="#modal" class="second">Sidebar: Extra Filtering</a>
 		        </li>
 		    </ul>
 		    <div id="modal">
@@ -4160,13 +4161,13 @@ Blue Valentine	112	Drama; Romance	Derek Cianfrance	Derek Cianfrance; Joey Curtis
 				</ul>
 			-->
 
-				<div id="box-search">
-					<!--<h2>Search</h2>-->
+				<!--<div id="box-search">
+					<!--<h2>Search</h2>--
 					<form action="" onsubmit="return search(this.query.value);">
 						<input type="text" name="query">
 						<input type="submit" value="Search">
 					</form>
-				</div>
+				</div>-->
 					
 				<div id="box-info">
 					<h2 id="movietitle"></h2>
@@ -4181,6 +4182,7 @@ Blue Valentine	112	Drama; Romance	Derek Cianfrance	Derek Cianfrance; Joey Curtis
 					<input type="button" value="1980's" onclick="trend1980()">
 					<input type="button" value="1990's" onclick="trend1990()">
 					<input type="button" value="2000's" onclick="trend2000()">
+					<input type="button" value="All" onclick="resetAll()">
 					<br><br>
 					<div id="trend-title1">Trend Title</div><br>
 					<div id="trend-description1">Trend Description</div><br><br>
