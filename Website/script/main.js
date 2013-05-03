@@ -363,8 +363,25 @@ function trend1970(){
 function trend1980(){
 	//Lucas-Spielberg
 	selectedTitle = ["Indiana Jones and the Temple of Doom", "Indiana Jones and the Last Crusade", "Star Wars: Episode V - The Empire Strikes Back",
-					 "Star Wars: Episode VI - Return of the Jedi"];
-	document.getElementById("trend-description").innerHTML = "Lucas-Spielberg Era";
+					 "Star Wars: Episode VI - Return of the Jedi", "Jaws 3-D", "Jaws 2", "Jaws: The Revenge", "Project A", "Police Story",
+					 "Police Story 2"];
+	document.getElementById("trend-title1").style.visibility = "visible"
+	document.getElementById("trend-description1").style.visibility = "visible"	
+	document.getElementById("trend-title1").innerHTML = "Lucas-Spielberg Era";
+	document.getElementById("trend-description1").innerHTML = "During the 1980's, George Lucas and Steven Spielberg grew to dominate the box office. \
+		Between two <i>Star Wars</i> films, three <i>Jaws</i>, and three Indiana Jones films, the two prompted many imitations and encouraged the \
+		development of sequels."
+		
+	document.getElementById("trend-title2").style.visibility = "visible"
+	document.getElementById("trend-description2").style.visibility = "visible"
+	document.getElementById("trend-title2").innerHTML = "Rise of the Martial Arts";
+	document.getElementById("trend-description2").innerHTML = "After the death of Bruce Lee, it seemed as if the Hong Kong Marital Arts film was\
+		in its decline. However, Jackie Chan's entry to the industry revitalized the genre. Jackie encouraged highly dangerous and elaborate scenes\
+		as well integration of the genre with comedy."
+		
+	document.getElementById("trend-title3").style.visibility = "hidden"
+	document.getElementById("trend-description3").style.visibility = "hidden"
+		
 	$.pageslide({ direction: 'left', href:'#modal' });
 
 	drawSVG(true);
@@ -377,8 +394,32 @@ function trend1980(){
 */
 }
 function trend1990(){
+	selectedTitle = ["Titanic", "Terminator 2:Judgement Day", "Jurassic Park", "Sex, Lies, and Videotape", "Reservoir Dogs", "Pulp Fiction",
+					 "Beauty and the Beast", "Aladdin", "The Lion King", "Toy Story"]
+	document.getElementById("trend-title1").style.visibility = "visible"
+	document.getElementById("trend-description1").style.visibility = "visible"	
+	document.getElementById("trend-title2").style.visibility = "visible"
+	document.getElementById("trend-description2").style.visibility = "visible"
+	document.getElementById("trend-title3").style.visibility = "visible"
+	document.getElementById("trend-description3").style.visibility = "visible"
+	document.getElementById("trend-title1").innerHTML = "Strength in Special Effects";
+	document.getElementById("trend-description1").innerHTML = "During the 90's, the increased adoption of special effects lead \
+		to big success at the box office. Hit films such as <i>Titanic</i> attracted millions of views and rooted special effects \
+		an essential role in modern day film";
+	document.getElementById("trend-title2").innerHTML = "Independent Studios";
+	document.getElementById("trend-description2").innerHTML = "Independent films were becoming increasingly relevant after the success \
+		of hits like Quentin Tarantino's <i>Reservoir Dogs</i>. American studios quickly jumped upon the success of the movement and \
+		rushed to open their own 'independent' studios to produce non-mainstream films.";
+	document.getElementById("trend-title3").innerHTML = "Animated Films Rise Again";
+	document.getElementById("trend-description3").innerHTML = "Similarly during the time, animated films from Disney regained their \
+		popularity. Of special note was Pixar's <i>Toy Story</i> a computer generated film that became immensely popular, paving \
+		the road for the future success of Dreamsworks Animation and 20th Century Fox.";
+
+	$.pageslide({ direction: 'left', href:'#modal' });
+
+	drawSVG(true);
 	
-}
+}		
 function trend2000(){
 	
 }

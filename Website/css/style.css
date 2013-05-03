@@ -149,6 +149,7 @@ lifted from http://www.fireandknowledge.org/archives/2004/05/22/rounded-corners-
     top: 0;
     height: 100%;
     z-index: 999999;
+	overflow:scroll;
     
     /* Specify the width of your pageslide here */
     width: 260px;
@@ -204,3 +205,11 @@ p { margin-bottom: 20px; }
     background: #CCC; color: #333; font-weight: bold; padding: 2px 5px; margin-bottom:5px; border: none;
 }
 
+#trend-title1, #trend-title2, #trend-title3{
+	visibility:hidden;
+	text-align:center;
+}
+
+#trend-description1, #trend-description2, #trend-description3 {
+	visibility:hidden;
+}
