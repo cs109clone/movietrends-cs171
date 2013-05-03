@@ -26,6 +26,9 @@ window.onload = function() {
 
 	document.onmousemove = getCursorXY;
 
+	searchQuery = get("query");
+	if (typeof(searchQuery)==='undefined') searchQuery = "";
+
 	drawSVG(true);
 	document.getElementById("xAxisSelect").onchange = function(){
 		drawSVG(true);
@@ -40,8 +43,9 @@ window.onload = function() {
 function search(query){
 	searchQuery = query;
 	//Filter data to be displayed/used
-	alert(query);
-	drawSVG(true);
+	//alert(searchQuery);
+	drawSVG();
+	return false;
 }
 
 function drawSVG(first){
@@ -114,21 +118,44 @@ function drawSVG(first){
 		//original without search
 		//data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
 		//without search, but checking if not empty
-		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
+		//data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
 
 		//with search
-		//var search = document.getElementById("");
-		//var search = "The Cave";
-		//data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && a[xindex] > min && a[xindex] < max && $.inArray(search, a) != -1);});
+		data = data.filter(function(a){
+			if (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max)
+			{
+				if (searchQuery != "")
+				{
+					for (var i=0; i<a.length; i++)
+					{
+						if (a[i].indexOf(searchQuery) != -1) return true;
+					}
+					return false;
+				}
+				else return true;
+			}
+			else return false;
+		});
 
 	}
 	else
 	{
 		//with search
-		//var search = document.getElementById("");
-		//var search = "The Cave";
-		//data = data.filter(function(a){return (a[xindex] != "" && a[yindex] != "" && $.inArray(search, a) != -1);});
-		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]));});
+		data = data.filter(function(a){
+			if (!isNaN(a[xindex]) && !isNaN(a[yindex]))
+			{
+				if (searchQuery != "")
+				{
+					for (var i=0; i<a.length; i++)
+					{
+						if (a[i].indexOf(searchQuery) != -1) return true;
+					}
+					return false;
+				}
+				else return true;
+			}
+			else return false;
+		});
 
 		//set min, max
 		var range = d3.extent(data, function(d) { return d[xindex];});
@@ -165,15 +192,18 @@ function drawSVG(first){
 	}
 
 	/*Begin Range Slider */
-	$(function() {	
-		$( "#slider" ).slider({
-			range: true,
-			min: originalRange[0],
-			max: originalRange[1],
-			values: [min,max],
-			slide: function(event, ui) {slide(event, ui)}
-		});
-    });
+	if (xAxisSelect != "date")
+	{
+		$(function() {	
+			$( "#slider" ).slider({
+				range: true,
+				min: originalRange[0],
+				max: originalRange[1],
+				values: [min,max],
+				slide: function(event, ui) {slide(event, ui)}
+			});
+	    });
+	}
 	/*End Range Slider */
 		
 	var line = d3.svg.line()
@@ -263,6 +293,7 @@ function drawSVG(first){
 		});
 	$(".point").pageslide({ direction: "left"});
 	$(".highlighted_point").pageslide({ direction: "left"});
+	return false;
 }
 
 function sbs(s1,s2) {
@@ -312,11 +343,12 @@ function toggleTabs(tab){
 }
 
 function trend1950(){
+	alert("1950");
 
 }
 
 function trend1960(){
-
+	alert("1960");
 }
 
 function trend1970(){
@@ -331,4 +363,9 @@ function trend1990(){
 }
 function trend2000(){
 	
+}
+
+function get(name){
+   if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(location.search))
+      return decodeURIComponent(name[1]);
 }
