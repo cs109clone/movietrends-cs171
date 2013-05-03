@@ -114,7 +114,7 @@ function drawSVG(first){
 		data[j][10] = parseInt(data[j][10]);
 		data[j][12] = parseDate(data[j][12]);
 	}
-
+	
 	var originalRange = d3.extent(data, function(d) { return d[xindex];});
 
 	/* Filter Data here */
@@ -123,7 +123,15 @@ function drawSVG(first){
 		//original without search
 		//data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
 		//without search, but checking if not empty
-		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
+
+		if (xindex == 12)
+		{
+			data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && new Date(a[xindex]) > min && new Date(a[xindex]) < max);});
+		}
+		else
+		{
+			data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
+		}
 
 		//with search
 		/*
@@ -178,7 +186,14 @@ function drawSVG(first){
 		*/
 
 		//set min, max
-		var range = d3.extent(data, function(d) { return d[xindex];});
+		if (xindex == 12)
+		{
+			var range = d3.extent(data, function(d) { return new Date(d[xindex]);});
+		}
+		else
+		{
+			var range = d3.extent(data, function(d) { return d[xindex];});
+		}
 		min = range[0];
 		max = range[1];
 	}
@@ -392,14 +407,11 @@ function trend1980(){
 		
 	$.pageslide({ direction: 'left', href:'#modal' });
 
-	drawSVG(true);
-	/*
-	setTimeout(function() {
-	    //clear selection
-		selectedTitle = [];
-		drawSVG(true);
-	}, 5000);
-*/
+	document.getElementById("xAxisSelect").value = "date";
+	min = new Date("12/30/1979");
+	max = new Date("01/01/1990");
+
+	drawSVG();
 }
 function trend1990(){
 	selectedTitle = ["Titanic", "Terminator 2:Judgement Day", "Jurassic Park", "Sex, Lies, and Videotape", "Reservoir Dogs", "Pulp Fiction",
@@ -425,7 +437,11 @@ function trend1990(){
 
 	$.pageslide({ direction: 'left', href:'#modal' });
 
-	drawSVG(true);
+	document.getElementById("xAxisSelect").value = "date";
+	min = new Date("12/30/1989");
+	max = new Date("01/01/2000");
+
+	drawSVG();
 	
 }		
 function trend2000(){
