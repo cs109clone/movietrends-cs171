@@ -467,7 +467,11 @@ function trend2000(){
 		more popular among English-speaking viewers. Some examples include <i>Spirited Away</i>, <i>City of God</i>, and <i>The Passion of the Christ</i>.";
 	$.pageslide({ direction: 'left', href:'#modal' });
 
-	drawSVG(true);
+	document.getElementById("xAxisSelect").value = "date";
+	min = new Date("12/30/1999");
+	max = new Date("01/01/2010");
+
+	drawSVG();
 }
 
 function get(name){
