@@ -152,7 +152,7 @@ lifted from http://www.fireandknowledge.org/archives/2004/05/22/rounded-corners-
 	overflow:auto;
     
     /* Specify the width of your pageslide here */
-    width: 260px;
+    width: 265px;
     padding: 20px;
     
     /* These styles are optional, and describe how the pageslide will look */
@@ -212,4 +212,5 @@ p { margin-bottom: 20px; }
 
 #trend-description1, #trend-description2, #trend-description3 {
 	visibility:hidden;
+	text-align:justify;
 }
