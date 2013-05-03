@@ -376,13 +376,34 @@ function toggleTabs(tab){
 	if (tab == "trends") document.getElementById("box-trends").setAttribute("visibility", "visible");
 	else document.getElementById("box-trends").setAttribute("visibility", "hidden");
 }
-/*
+
 function trend1970(){
-	selectedTitle = ["The Last House on the Left", "Straw Dogs", "A Clockwork Orange", "The French Connection"
+	selectedTitle = ["The Last House on the Left", "Straw Dogs", "A Clockwork Orange", "The French Connection", "Dirty Harry", "Taxi Driver",
+					 "The Godfather", "Nashville", "Enter the Dragon", "Snake in the Eagle's Shadow", "Drunken Master", "Annie Hall", "Manhattan",
+					 "Badlands", "Days of Heaven", "Chinatown"];
+	document.getElementById("trend-title1").style.visibility = "visible";
+	document.getElementById("trend-description1").style.visibility = "visible";	
+	document.getElementById("trend-title2").style.visibility = "visible";
+	document.getElementById("trend-description2").style.visibility = "visible";
+	document.getElementById("trend-title3").style.visibility = "visible";
+	document.getElementById("trend-description3").style.visibility = "visible";
+	document.getElementById("trend-title1").innerHTML = "New Hollywood";
+	document.getElementById("trend-description1").innerHMTL = "With the seventies came a more bold Hollywood, ready to introduce controversial \
+		topics and unafraid of showing violence and sex. The model of example of this is <i>The Last House on the Left</i>, released in 1972. \
+		Movies like Dirty Harry and The French Connection sparked controversy over their increase of violence in the film.";
+	document.getElementById("trend-title2").innerHTML = "Auteur Theory";
+	document.getElementById("trend-description2").innerHTML = "At the same time, film makers began to express their personal visions and creative \
+		insight on their films, also known as autuer theory. As a result, directors were given even greater control over the final outcome of the film. \
+		Some of the critical successes of auteur theory include <i>The Godfather</i>, <i>Chinatown</i> and Scorsese's <i>Taxi Driver</i>.";
+	document.getElementById("trend-title3").innerHTML = "Rise of the Martial Arts";
+	document.getElementById("trend-description3").innerHTML = "Thanks to Bruce Lee, martial arts films saw a major increase in popularity in the 70s. \
+		Movie viewers were interested in seeing traditional Chinese martial arts and thanks to Lee's Jeet Kune Do style, the additional realism of the \
+		action scenes. Despite the quick rise of the genre, in the later half of the decade, the films were noticeably less popular."
+	
 	$.pageslide({ direction: 'left', href:'#modal' });
 
 	drawSVG(true);
-}*/
+}
 
 function trend1980(){
 	selectedTitle = ["Indiana Jones and the Temple of Doom", "Indiana Jones and the Last Crusade", "Star Wars: Episode V - The Empire Strikes Back",
@@ -397,7 +418,7 @@ function trend1980(){
 		
 	document.getElementById("trend-title2").style.visibility = "visible";
 	document.getElementById("trend-description2").style.visibility = "visible";
-	document.getElementById("trend-title2").innerHTML = "Rise of the Martial Arts";
+	document.getElementById("trend-title2").innerHTML = "Return of the Martial Arts";
 	document.getElementById("trend-description2").innerHTML = "After the death of Bruce Lee, it seemed as if the Hong Kong Marital Arts film was\
 		in its decline. However, Jackie Chan's entry to the industry revitalized the genre. Jackie encouraged highly dangerous and elaborate scenes\
 		as well integration of the genre with comedy.";
