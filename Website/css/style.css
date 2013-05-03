@@ -149,7 +149,7 @@ lifted from http://www.fireandknowledge.org/archives/2004/05/22/rounded-corners-
     top: 0;
     height: 100%;
     z-index: 999999;
-	overflow:scroll;
+	overflow:auto;
     
     /* Specify the width of your pageslide here */
     width: 260px;

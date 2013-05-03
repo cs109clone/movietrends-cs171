@@ -361,41 +361,34 @@ function toggleTabs(tab){
 	if (tab == "trends") document.getElementById("box-trends").setAttribute("visibility", "visible");
 	else document.getElementById("box-trends").setAttribute("visibility", "hidden");
 }
-
-function trend1950(){
-	alert("1950");
-
-}
-
-function trend1960(){
-	alert("1960");
-}
-
+/*
 function trend1970(){
-	
-}
+	selectedTitle = ["The Last House on the Left", "Straw Dogs", "A Clockwork Orange", "The French Connection"
+	$.pageslide({ direction: 'left', href:'#modal' });
+
+	drawSVG(true);
+}*/
 
 function trend1980(){
-	//Lucas-Spielberg
 	selectedTitle = ["Indiana Jones and the Temple of Doom", "Indiana Jones and the Last Crusade", "Star Wars: Episode V - The Empire Strikes Back",
 					 "Star Wars: Episode VI - Return of the Jedi", "Jaws 3-D", "Jaws 2", "Jaws: The Revenge", "Project A", "Police Story",
 					 "Police Story 2"];
-	document.getElementById("trend-title1").style.visibility = "visible"
-	document.getElementById("trend-description1").style.visibility = "visible"	
+	document.getElementById("trend-title1").style.visibility = "visible";
+	document.getElementById("trend-description1").style.visibility = "visible";	
 	document.getElementById("trend-title1").innerHTML = "Lucas-Spielberg Era";
 	document.getElementById("trend-description1").innerHTML = "During the 1980's, George Lucas and Steven Spielberg grew to dominate the box office. \
 		Between two <i>Star Wars</i> films, three <i>Jaws</i>, and three Indiana Jones films, the two prompted many imitations and encouraged the \
-		development of sequels."
+		development of sequels.";
 		
-	document.getElementById("trend-title2").style.visibility = "visible"
-	document.getElementById("trend-description2").style.visibility = "visible"
+	document.getElementById("trend-title2").style.visibility = "visible";
+	document.getElementById("trend-description2").style.visibility = "visible";
 	document.getElementById("trend-title2").innerHTML = "Rise of the Martial Arts";
 	document.getElementById("trend-description2").innerHTML = "After the death of Bruce Lee, it seemed as if the Hong Kong Marital Arts film was\
 		in its decline. However, Jackie Chan's entry to the industry revitalized the genre. Jackie encouraged highly dangerous and elaborate scenes\
-		as well integration of the genre with comedy."
+		as well integration of the genre with comedy.";
 		
-	document.getElementById("trend-title3").style.visibility = "hidden"
-	document.getElementById("trend-description3").style.visibility = "hidden"
+	document.getElementById("trend-title3").style.visibility = "hidden";
+	document.getElementById("trend-description3").style.visibility = "hidden";
 		
 	$.pageslide({ direction: 'left', href:'#modal' });
 
@@ -410,17 +403,17 @@ function trend1980(){
 }
 function trend1990(){
 	selectedTitle = ["Titanic", "Terminator 2:Judgement Day", "Jurassic Park", "Sex, Lies, and Videotape", "Reservoir Dogs", "Pulp Fiction",
-					 "Beauty and the Beast", "Aladdin", "The Lion King", "Toy Story"]
-	document.getElementById("trend-title1").style.visibility = "visible"
-	document.getElementById("trend-description1").style.visibility = "visible"	
-	document.getElementById("trend-title2").style.visibility = "visible"
-	document.getElementById("trend-description2").style.visibility = "visible"
-	document.getElementById("trend-title3").style.visibility = "visible"
-	document.getElementById("trend-description3").style.visibility = "visible"
+					 "Beauty and the Beast", "Aladdin", "The Lion King", "Toy Story"];
+	document.getElementById("trend-title1").style.visibility = "visible";
+	document.getElementById("trend-description1").style.visibility = "visible";	
+	document.getElementById("trend-title2").style.visibility = "visible";
+	document.getElementById("trend-description2").style.visibility = "visible";
+	document.getElementById("trend-title3").style.visibility = "visible";
+	document.getElementById("trend-description3").style.visibility = "visible";
 	document.getElementById("trend-title1").innerHTML = "Strength in Special Effects";
 	document.getElementById("trend-description1").innerHTML = "During the 90's, the increased adoption of special effects lead \
 		to big success at the box office. Hit films such as <i>Titanic</i> attracted millions of views and rooted special effects \
-		an essential role in modern day film";
+		an essential role in modern day film.";
 	document.getElementById("trend-title2").innerHTML = "Independent Studios";
 	document.getElementById("trend-description2").innerHTML = "Independent films were becoming increasingly relevant after the success \
 		of hits like Quentin Tarantino's <i>Reservoir Dogs</i>. American studios quickly jumped upon the success of the movement and \
@@ -436,7 +429,29 @@ function trend1990(){
 	
 }		
 function trend2000(){
-	
+	selectedTitle = ["The Lord of the Rings: The Fellowship of the Ring", "The Lord of the Rings: The Two Towers", "The Lord of the Rings: The Return of the King",
+					 "Gladiator", "Harry Potter and the Sorcerer's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban",
+					 "Harry Potter and the Goblet of Fire", "Harry Potter and the Order of the Phoenix", "Harry Potter and the Half-Blood Prince",
+					 "Crouching Tiger, Hidden Dragon", "Spirited Away", "City of God", "The Passion of the Christ", "Apocalypto", "Slumdog Millionaire"];
+	document.getElementById("trend-title1").style.visibility = "visible";
+	document.getElementById("trend-description1").style.visibility = "visible";	
+	document.getElementById("trend-title2").style.visibility = "visible";
+	document.getElementById("trend-description2").style.visibility = "visible";
+	document.getElementById("trend-title3").style.visibility = "visible";
+	document.getElementById("trend-description3").style.visibility = "visible";
+	document.getElementById("trend-title1").innerHTML = "Documentary Films (not shown)";
+	document.getElementById("trend-description1").innerHTML = "Surprisingly, the documentary genre developed into a commercial during the 90's. Hits like \
+		<i>March of the Penguins</i> and <i>Bowling for Columbine</i>. With the advent of the DVD, these films were able to expand even more broadly.";
+	document.getElementById("trend-title2").innerHTML = "Epic Films";
+	document.getElementById("trend-description2").innerHTML = "After the success of <i>Gladiator</i>, epic cinema became more popular among viewers. Hit \
+		franchises such <i>The Lord of the Rings</i> were instant hits and the Harry Potter series grew to become the highest-grossing film franchise \
+		of all time.";
+	document.getElementById("trend-title3").innerHTML = "Globalization of Cinema";
+	document.getElementById("trend-description3").innerHMTL = "During the decade, thanks to greater global connection, foreign language films became \
+		more popular among English-speaking viewers. Some examples include <i>Spirited Away</i>, <i>City of God</i>, and <i>The Passion of the Christ</i>.";
+	$.pageslide({ direction: 'left', href:'#modal' });
+
+	drawSVG(true);
 }
 
 function get(name){
