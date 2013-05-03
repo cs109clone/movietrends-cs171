@@ -46,10 +46,10 @@ window.onload = function() {
 }
 
 function search(query){
-	searchQuery = query;
+	//searchQuery = query;
 	//Filter data to be displayed/used
 	//alert(searchQuery);
-	drawSVG();
+	//drawSVG();
 	return false;
 }
 
@@ -123,9 +123,10 @@ function drawSVG(first){
 		//original without search
 		//data = data.filter(function(a){return (a[xindex] > min && a[xindex] < max);});
 		//without search, but checking if not empty
-		//data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
+		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max);});
 
 		//with search
+		/*
 		data = data.filter(function(a){
 			if (!isNaN(a[xindex]) && !isNaN(a[yindex]) && a[xindex] > min && a[xindex] < max)
 			{
@@ -133,7 +134,12 @@ function drawSVG(first){
 				{
 					for (var i=0; i<a.length; i++)
 					{
-						if (a[i].indexOf(searchQuery) != -1) return true;
+						if (a[i].indexOf(searchQuery) !== -1) 
+						{
+							alert("yay");
+							return true;
+						}
+						alert("checked");
 					}
 					return false;
 				}
@@ -141,11 +147,14 @@ function drawSVG(first){
 			}
 			else return false;
 		});
+*/
 
 	}
 	else
 	{
+		data = data.filter(function(a){return (!isNaN(a[xindex]) && !isNaN(a[yindex]));});
 		//with search
+		/*
 		data = data.filter(function(a){
 			if (!isNaN(a[xindex]) && !isNaN(a[yindex]))
 			{
@@ -153,7 +162,12 @@ function drawSVG(first){
 				{
 					for (var i=0; i<a.length; i++)
 					{
-						if (a[i].indexOf(searchQuery) != -1) return true;
+						if (a[i].toUpperCase().indexOf(searchQuery.toUpperCase()) !== -1)
+						{
+							alert("yay");
+							return true;
+						}
+						alert("checked");
 					}
 					return false;
 				}
@@ -161,6 +175,7 @@ function drawSVG(first){
 			}
 			else return false;
 		});
+		*/
 
 		//set min, max
 		var range = d3.extent(data, function(d) { return d[xindex];});
