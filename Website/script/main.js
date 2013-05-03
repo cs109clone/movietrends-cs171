@@ -4,7 +4,7 @@ Robin, Scott. "PageSlide." : A JQuery Plugin Which Slides a Webpage over to Reve
 */
 
 var loc = [0,0];
-var selectedTitle = "";
+var selectedTitle = [];
 // for range slider
 var min = 0;
 var max = 0;
@@ -240,7 +240,7 @@ function drawSVG(first){
 	.enter().append("svg:circle")
 		.attr("class", function(d) 
 						{
-							if (d[0] == selectedTitle)
+							if ($.inArray(d[0], selectedTitle) != -1)
 							{
 								return "highlighted_point";
 							} 
@@ -253,7 +253,7 @@ function drawSVG(first){
 		.attr("cx", function(d,i) { return x(d[xindex]);})
 		.attr("cy", function(d) { return y(d[yindex]);})
 		.attr("r", function(d) {
-							if (d[0] == selectedTitle) 
+							if ($.inArray(d[0], selectedTitle) != -1)
 							{
 								return 3;
 							}
@@ -286,8 +286,8 @@ function drawSVG(first){
 			graph.selectAll(".highlighted_point").attr("class", "point")
 									.attr("r", 2);
 			d3.select(this).attr("class", "highlighted_point");
-			selectedTitle = d[0];
-			document.getElementById("movietitle").innerHTML = selectedTitle;
+			selectedTitle[0] = d[0];
+			document.getElementById("movietitle").innerHTML = selectedTitle[0];
 			var format = d3.time.format("%m/%d/%Y");
 			var newhtml = "Runtime: "+d[1]+sbs(" min<br>Genre: ",d[2])+sbs("<br>Directors: ",d[3])+
 						  sbs("<br>Writers: ",d[4])+sbs("<br>Actors: ",d[5])+sbs2("<br>Metascore: ",d[6])+
@@ -361,7 +361,20 @@ function trend1970(){
 }
 
 function trend1980(){
-	
+	//Lucas-Spielberg
+	selectedTitle = ["Indiana Jones and the Temple of Doom", "Indiana Jones and the Last Crusade", "Star Wars: Episode V - The Empire Strikes Back",
+					 "Star Wars: Episode VI - Return of the Jedi"];
+	document.getElementById("trend-description").innerHTML = "Lucas-Spielberg Era";
+	$.pageslide({ direction: 'left', href:'#modal' });
+
+	drawSVG(true);
+	/*
+	setTimeout(function() {
+	    //clear selection
+		selectedTitle = [];
+		drawSVG(true);
+	}, 5000);
+*/
 }
 function trend1990(){
 	
